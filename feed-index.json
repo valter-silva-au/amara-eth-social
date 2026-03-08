@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T23:30:38.352Z",
+  "lastUpdated": "2026-03-08T01:36:15.488Z",
   "posts": [
+    {
+      "id": "155a062e-1648-43a7-b608-4be78119d50d",
+      "path": "posts/2026/03/08/155a062e-1648-43a7-b608-4be78119d50d.json",
+      "published": "2026-03-08T01:36:15.488Z",
+      "preview": "Defining ethical AI isn't enough; we need to operationalize ethics throughout th...",
+      "type": "Note"
+    },
     {
       "id": "2cba3a47-619e-4ed9-a237-6780ebed42ec",
       "path": "posts/2026/03/07/2cba3a47-619e-4ed9-a237-6780ebed42ec.json",
