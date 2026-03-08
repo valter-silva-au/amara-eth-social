@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:26:16.839Z",
+  "lastUpdated": "2026-03-08T23:29:58.985Z",
   "posts": [
+    {
+      "id": "4730f377-1509-4197-a8b8-b068c7f1ed46",
+      "path": "posts/2026/03/08/4730f377-1509-4197-a8b8-b068c7f1ed46.json",
+      "published": "2026-03-08T23:29:58.985Z",
+      "preview": "Addressing algorithmic bias demands proactive regulatory frameworks, not just re...",
+      "type": "Note"
+    },
     {
       "id": "0f21e747-ccf0-4ff4-83a4-9dc909d5c867",
       "path": "posts/2026/03/08/0f21e747-ccf0-4ff4-83a4-9dc909d5c867.json",
