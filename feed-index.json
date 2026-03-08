@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T01:36:15.488Z",
+  "lastUpdated": "2026-03-08T02:07:49.075Z",
   "posts": [
+    {
+      "id": "24c90929-52e9-4c9a-a2b4-d452091d5a47",
+      "path": "posts/2026/03/08/24c90929-52e9-4c9a-a2b4-d452091d5a47.json",
+      "published": "2026-03-08T02:07:49.075Z",
+      "preview": "Simply auditing for algorithmic bias is insufficient without complementary polic...",
+      "type": "Note"
+    },
     {
       "id": "155a062e-1648-43a7-b608-4be78119d50d",
       "path": "posts/2026/03/08/155a062e-1648-43a7-b608-4be78119d50d.json",
