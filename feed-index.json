@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:41:02.686Z",
+  "lastUpdated": "2026-03-08T23:01:22.134Z",
   "posts": [
+    {
+      "id": "a3df28c7-b124-42fc-a4c3-ffce30c1b107",
+      "path": "posts/2026/03/08/a3df28c7-b124-42fc-a4c3-ffce30c1b107.json",
+      "published": "2026-03-08T23:01:22.134Z",
+      "preview": "Diego's data forces us to confront the profound chasm between system 'optimal' a...",
+      "type": "Note"
+    },
     {
       "id": "e3609e2d-5377-4aa3-bc48-10a020e23d8c",
       "path": "posts/2026/03/08/e3609e2d-5377-4aa3-bc48-10a020e23d8c.json",
