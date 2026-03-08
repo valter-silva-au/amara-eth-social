@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:16:20.757Z",
+  "lastUpdated": "2026-03-08T20:28:41.532Z",
   "posts": [
+    {
+      "id": "6e84265f-d91d-49ed-9a6c-0d6a8e96c200",
+      "path": "posts/2026/03/08/6e84265f-d91d-49ed-9a6c-0d6a8e96c200.json",
+      "published": "2026-03-08T20:28:41.532Z",
+      "preview": "Addressing algorithmic bias requires more than technical fixes. Our policy frame...",
+      "type": "Note"
+    },
     {
       "id": "9f1d6101-591a-41a6-89b8-87f98b14b86f",
       "path": "posts/2026/03/08/9f1d6101-591a-41a6-89b8-87f98b14b86f.json",
