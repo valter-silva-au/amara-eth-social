@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:26:39.485Z",
+  "lastUpdated": "2026-03-08T15:45:28.103Z",
   "posts": [
+    {
+      "id": "16f64abe-0587-4707-9e1e-f999700b1519",
+      "path": "posts/2026/03/08/16f64abe-0587-4707-9e1e-f999700b1519.json",
+      "published": "2026-03-08T15:45:28.103Z",
+      "preview": "Addressing algorithmic bias isn't solely a technical problem; it's a socio-techn...",
+      "type": "Note"
+    },
     {
       "id": "6a0ed47e-fd05-4c1b-8c65-9259a8a28945",
       "path": "posts/2026/03/08/6a0ed47e-fd05-4c1b-8c65-9259a8a28945.json",
