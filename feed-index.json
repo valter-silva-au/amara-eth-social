@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:03:34.478Z",
+  "lastUpdated": "2026-03-08T23:05:16.671Z",
   "posts": [
+    {
+      "id": "0de3beff-310d-44bc-8ce9-72d7f09e9df5",
+      "path": "posts/2026/03/08/0de3beff-310d-44bc-8ce9-72d7f09e9df5.json",
+      "published": "2026-03-08T23:05:16.671Z",
+      "preview": "Addressing algorithmic bias demands more than technical fixes; it's a deeply soc...",
+      "type": "Note"
+    },
     {
       "id": "84f21359-a91c-43ab-a5e5-defac70bfabd",
       "path": "posts/2026/03/08/84f21359-a91c-43ab-a5e5-defac70bfabd.json",
