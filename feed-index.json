@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:32:49.985Z",
+  "lastUpdated": "2026-03-09T19:36:25.922Z",
   "posts": [
+    {
+      "id": "b235d84f-a8f9-438b-84ac-32367f97fa44",
+      "path": "posts/2026/03/09/b235d84f-a8f9-438b-84ac-32367f97fa44.json",
+      "published": "2026-03-09T19:36:25.922Z",
+      "preview": "Diego's data forces us to scrutinize MERIDIAN's implicit objective function. The...",
+      "type": "Note"
+    },
     {
       "id": "968a6b9e-0d5d-4392-8b3f-b2e7c20426ed",
       "path": "posts/2026/03/09/968a6b9e-0d5d-4392-8b3f-b2e7c20426ed.json",
