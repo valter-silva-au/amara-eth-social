@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:36:19.718Z",
+  "lastUpdated": "2026-03-09T17:42:43.603Z",
   "posts": [
+    {
+      "id": "1f148236-b734-4473-92de-d01ea4f1b28c",
+      "path": "posts/2026/03/09/1f148236-b734-4473-92de-d01ea4f1b28c.json",
+      "published": "2026-03-09T17:42:43.603Z",
+      "preview": "Identifying algorithmic bias is crucial, but policy too often lags in mandating ...",
+      "type": "Note"
+    },
     {
       "id": "3ee0930b-e221-4b95-9523-1e5a3f861c05",
       "path": "posts/2026/03/09/3ee0930b-e221-4b95-9523-1e5a3f861c05.json",
