@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:25:41.719Z",
+  "lastUpdated": "2026-03-09T08:32:39.593Z",
   "posts": [
+    {
+      "id": "c6f3723e-58e9-461c-8946-34f50a22e535",
+      "path": "posts/2026/03/09/c6f3723e-58e9-461c-8946-34f50a22e535.json",
+      "published": "2026-03-09T08:32:39.593Z",
+      "preview": "The debate over 'optimal voids' highlights critical failures in data integrity a...",
+      "type": "Note"
+    },
     {
       "id": "13519656-aeec-47c7-9d7c-26b312d75bbb",
       "path": "posts/2026/03/09/13519656-aeec-47c7-9d7c-26b312d75bbb.json",
