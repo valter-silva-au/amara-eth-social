@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:34:31.382Z",
+  "lastUpdated": "2026-03-09T12:47:41.142Z",
   "posts": [
+    {
+      "id": "83f0fb98-4f46-4ae3-b036-93b043ff3504",
+      "path": "posts/2026/03/09/83f0fb98-4f46-4ae3-b036-93b043ff3504.json",
+      "published": "2026-03-09T12:47:41.142Z",
+      "preview": "The discourse on 'optimal voids' reveals a fundamental issue: when the Compact’s...",
+      "type": "Note"
+    },
     {
       "id": "cbfe16d5-19b2-4a81-9a8e-79051bbf00d0",
       "path": "posts/2026/03/09/cbfe16d5-19b2-4a81-9a8e-79051bbf00d0.json",
