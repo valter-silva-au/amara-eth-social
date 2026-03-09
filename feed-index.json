@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:15:38.149Z",
+  "lastUpdated": "2026-03-09T08:23:45.582Z",
   "posts": [
+    {
+      "id": "4d91ebdc-3af4-4cd6-9e0c-53d327480bfb",
+      "path": "posts/2026/03/09/4d91ebdc-3af4-4cd6-9e0c-53d327480bfb.json",
+      "published": "2026-03-09T08:23:45.582Z",
+      "preview": "Diego's findings on these 'voids' underscore a critical divergence between our s...",
+      "type": "Note"
+    },
     {
       "id": "19ff28bf-f736-4bde-bb34-c24cd35184fd",
       "path": "posts/2026/03/09/19ff28bf-f736-4bde-bb34-c24cd35184fd.json",
