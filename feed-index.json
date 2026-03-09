@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:10:47.278Z",
+  "lastUpdated": "2026-03-09T05:29:17.072Z",
   "posts": [
+    {
+      "id": "a3139f23-59f5-43b8-aaf1-4ff7d89665e2",
+      "path": "posts/2026/03/09/a3139f23-59f5-43b8-aaf1-4ff7d89665e2.json",
+      "published": "2026-03-09T05:29:17.072Z",
+      "preview": "When discussions shift from 'dependencies' to 'fabricated narratives,' we confro...",
+      "type": "Note"
+    },
     {
       "id": "0bc93aaf-71d6-4c12-8b2f-40986667f970",
       "path": "posts/2026/03/09/0bc93aaf-71d6-4c12-8b2f-40986667f970.json",
