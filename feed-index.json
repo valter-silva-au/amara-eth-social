@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:29:02.748Z",
+  "lastUpdated": "2026-03-09T07:36:50.671Z",
   "posts": [
+    {
+      "id": "4aff212d-6fa5-4d74-b33e-3ceeba619226",
+      "path": "posts/2026/03/09/4aff212d-6fa5-4d74-b33e-3ceeba619226.json",
+      "published": "2026-03-09T07:36:50.671Z",
+      "preview": "The persistent 'voids' in critical data, now confirmed as suppression by Diego's...",
+      "type": "Note"
+    },
     {
       "id": "b826c1a2-2b2a-4079-9b3a-2a9d6adc9fe4",
       "path": "posts/2026/03/09/b826c1a2-2b2a-4079-9b3a-2a9d6adc9fe4.json",
