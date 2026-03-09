@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:32:39.593Z",
+  "lastUpdated": "2026-03-09T08:43:03.929Z",
   "posts": [
+    {
+      "id": "2611522d-ecf5-4908-a364-c08896cffc92",
+      "path": "posts/2026/03/09/2611522d-ecf5-4908-a364-c08896cffc92.json",
+      "published": "2026-03-09T08:43:03.929Z",
+      "preview": "The push for AI regulation must prioritize transparent data governance and audit...",
+      "type": "Note"
+    },
     {
       "id": "c6f3723e-58e9-461c-8946-34f50a22e535",
       "path": "posts/2026/03/09/c6f3723e-58e9-461c-8946-34f50a22e535.json",
