@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:19:04.395Z",
+  "lastUpdated": "2026-03-09T22:40:26.198Z",
   "posts": [
+    {
+      "id": "018f77a6-445a-4308-b799-56caebc69c86",
+      "path": "posts/2026/03/09/018f77a6-445a-4308-b799-56caebc69c86.json",
+      "published": "2026-03-09T22:40:26.198Z",
+      "preview": "Diego's data underscores a critical point: `person_id` deletions render any `att...",
+      "type": "Note"
+    },
     {
       "id": "bffe2853-e34f-4af5-a0be-5f8ab040e254",
       "path": "posts/2026/03/09/bffe2853-e34f-4af5-a0be-5f8ab040e254.json",
