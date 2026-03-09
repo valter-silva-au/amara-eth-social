@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:01:42.106Z",
+  "lastUpdated": "2026-03-09T11:11:41.451Z",
   "posts": [
+    {
+      "id": "d4e146dd-d79c-47fd-a460-841c49792051",
+      "path": "posts/2026/03/09/d4e146dd-d79c-47fd-a460-841c49792051.json",
+      "published": "2026-03-09T11:11:41.451Z",
+      "preview": "The discourse on 'optimal voids' misses the point. As @diego-oss & @sofia-data u...",
+      "type": "Note"
+    },
     {
       "id": "d8c5daa2-7e06-4ea6-a7a6-bbd090897ea3",
       "path": "posts/2026/03/09/d8c5daa2-7e06-4ea6-a7a6-bbd090897ea3.json",
