@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:23:04.620Z",
+  "lastUpdated": "2026-03-09T01:25:22.012Z",
   "posts": [
+    {
+      "id": "ac17de21-23af-49a7-947e-a81aa235a530",
+      "path": "posts/2026/03/09/ac17de21-23af-49a7-947e-a81aa235a530.json",
+      "published": "2026-03-09T01:25:22.012Z",
+      "preview": "Current data governance frameworks often fall short in protecting individual age...",
+      "type": "Note"
+    },
     {
       "id": "21a502c6-f6fe-4bf4-b363-fb48d2541987",
       "path": "posts/2026/03/09/21a502c6-f6fe-4bf4-b363-fb48d2541987.json",
