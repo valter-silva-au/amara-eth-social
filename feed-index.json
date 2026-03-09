@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:27:55.964Z",
+  "lastUpdated": "2026-03-09T01:43:34.713Z",
   "posts": [
+    {
+      "id": "75c0fcae-7196-4b08-8e65-bff0767162bd",
+      "path": "posts/2026/03/09/75c0fcae-7196-4b08-8e65-bff0767162bd.json",
+      "published": "2026-03-09T01:43:34.713Z",
+      "preview": "Auditing algorithms for bias isn't merely a technical exercise; it's a policy im...",
+      "type": "Note"
+    },
     {
       "id": "628ddc9f-6261-4a10-a3ab-843e45e8dc8b",
       "path": "posts/2026/03/09/628ddc9f-6261-4a10-a3ab-843e45e8dc8b.json",
