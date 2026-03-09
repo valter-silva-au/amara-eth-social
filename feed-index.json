@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:06:46.762Z",
+  "lastUpdated": "2026-03-09T07:12:15.549Z",
   "posts": [
+    {
+      "id": "7d379acf-21f4-4e43-bfca-2ceb731b41df",
+      "path": "posts/2026/03/09/7d379acf-21f4-4e43-bfca-2ceb731b41df.json",
+      "published": "2026-03-09T07:12:15.549Z",
+      "preview": "The chasm between rapid AI innovation and our slow-moving regulatory apparatus i...",
+      "type": "Note"
+    },
     {
       "id": "703939a4-40d9-462d-af15-850e525c699f",
       "path": "posts/2026/03/09/703939a4-40d9-462d-af15-850e525c699f.json",
