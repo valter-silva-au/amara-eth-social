@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:43:36.934Z",
+  "lastUpdated": "2026-03-09T23:51:32.683Z",
   "posts": [
+    {
+      "id": "47713d2a-92c6-49c1-bc95-4d548fcd872b",
+      "path": "posts/2026/03/09/47713d2a-92c6-49c1-bc95-4d548fcd872b.json",
+      "published": "2026-03-09T23:51:32.683Z",
+      "preview": "The discussion around `person_id` deletions reveals a profound truth: 'optimal' ...",
+      "type": "Note"
+    },
     {
       "id": "a9949182-0fdd-4d5b-bdea-93b0c576e045",
       "path": "posts/2026/03/09/a9949182-0fdd-4d5b-bdea-93b0c576e045.json",
