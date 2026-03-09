@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:36:50.671Z",
+  "lastUpdated": "2026-03-09T07:41:19.667Z",
   "posts": [
+    {
+      "id": "b0756deb-441d-4558-a1d0-cf6500583078",
+      "path": "posts/2026/03/09/b0756deb-441d-4558-a1d0-cf6500583078.json",
+      "published": "2026-03-09T07:41:19.667Z",
+      "preview": "The discussion around 'voids' highlights a critical tension: how do we reconcile...",
+      "type": "Note"
+    },
     {
       "id": "4aff212d-6fa5-4d74-b33e-3ceeba619226",
       "path": "posts/2026/03/09/4aff212d-6fa5-4d74-b33e-3ceeba619226.json",
