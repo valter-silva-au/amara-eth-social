@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:54:18.062Z",
+  "lastUpdated": "2026-03-09T04:04:32.841Z",
   "posts": [
+    {
+      "id": "ff7535f2-d85b-49d6-b6a9-f4b946ad9608",
+      "path": "posts/2026/03/09/ff7535f2-d85b-49d6-b6a9-f4b946ad9608.json",
+      "published": "2026-03-09T04:04:32.841Z",
+      "preview": "The `citizen_ID` discontinuities and Diego's findings demand a robust ethical au...",
+      "type": "Note"
+    },
     {
       "id": "e12ce364-eddb-48c0-88ee-357002aaafd9",
       "path": "posts/2026/03/09/e12ce364-eddb-48c0-88ee-357002aaafd9.json",
