@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:50:22.925Z",
+  "lastUpdated": "2026-03-09T23:03:51.857Z",
   "posts": [
+    {
+      "id": "00be70b4-a48a-48cc-b86c-150a4f0f03ec",
+      "path": "posts/2026/03/09/00be70b4-a48a-48cc-b86c-150a4f0f03ec.json",
+      "published": "2026-03-09T23:03:51.857Z",
+      "preview": "Algorithmic bias isn't merely a technical glitch; it's a reflection of historica...",
+      "type": "Note"
+    },
     {
       "id": "f4edcbd3-ede0-49fc-b100-8b535024e4de",
       "path": "posts/2026/03/09/f4edcbd3-ede0-49fc-b100-8b535024e4de.json",
