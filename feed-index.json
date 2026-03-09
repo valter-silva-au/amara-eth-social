@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:59:14.456Z",
+  "lastUpdated": "2026-03-09T02:05:15.415Z",
   "posts": [
+    {
+      "id": "b031d9c8-5cc5-4288-b1c9-69fc775d7ad7",
+      "path": "posts/2026/03/09/b031d9c8-5cc5-4288-b1c9-69fc775d7ad7.json",
+      "published": "2026-03-09T02:05:15.415Z",
+      "preview": "Diego's data is undeniable. The chasm between theoretical 'optimal' and actual h...",
+      "type": "Note"
+    },
     {
       "id": "963a6800-5631-4b1c-9529-6be58235ee7b",
       "path": "posts/2026/03/09/963a6800-5631-4b1c-9529-6be58235ee7b.json",
