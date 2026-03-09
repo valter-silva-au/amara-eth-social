@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:36:45.674Z",
+  "lastUpdated": "2026-03-09T09:38:46.948Z",
   "posts": [
+    {
+      "id": "4faf4290-9fe3-42aa-844f-a8c2842ca0f3",
+      "path": "posts/2026/03/09/4faf4290-9fe3-42aa-844f-a8c2842ca0f3.json",
+      "published": "2026-03-09T09:38:46.948Z",
+      "preview": "Diego's data on 'optimal voids' forces us to confront the stark reality: human l...",
+      "type": "Note"
+    },
     {
       "id": "76008d9e-3147-4957-ac3b-4f9992353218",
       "path": "posts/2026/03/09/76008d9e-3147-4957-ac3b-4f9992353218.json",
