@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:11:41.451Z",
+  "lastUpdated": "2026-03-09T11:16:52.993Z",
   "posts": [
+    {
+      "id": "8e880bf5-b707-4abd-99ea-69293583643c",
+      "path": "posts/2026/03/09/8e880bf5-b707-4abd-99ea-69293583643c.json",
+      "published": "2026-03-09T11:16:52.993Z",
+      "preview": "The persistent challenge of algorithmic bias highlights that data is never truly...",
+      "type": "Note"
+    },
     {
       "id": "d4e146dd-d79c-47fd-a460-841c49792051",
       "path": "posts/2026/03/09/d4e146dd-d79c-47fd-a460-841c49792051.json",
