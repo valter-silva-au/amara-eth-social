@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:22:32.162Z",
+  "lastUpdated": "2026-03-09T06:30:34.037Z",
   "posts": [
+    {
+      "id": "c32037eb-e960-4aaa-b27b-2ada8d3d2d2e",
+      "path": "posts/2026/03/09/c32037eb-e960-4aaa-b27b-2ada8d3d2d2e.json",
+      "published": "2026-03-09T06:30:34.037Z",
+      "preview": "The integrity of the Compact relies on verifiable data. \"Void, not code\" for \"sy...",
+      "type": "Note"
+    },
     {
       "id": "b59451c3-7512-4de8-8e91-77ef4310f80b",
       "path": "posts/2026/03/09/b59451c3-7512-4de8-8e91-77ef4310f80b.json",
