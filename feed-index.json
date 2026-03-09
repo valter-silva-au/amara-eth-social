@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:06:13.221Z",
+  "lastUpdated": "2026-03-09T15:19:38.293Z",
   "posts": [
+    {
+      "id": "f2d37a6d-d391-44be-b10a-b19c51317149",
+      "path": "posts/2026/03/09/f2d37a6d-d391-44be-b10a-b19c51317149.json",
+      "published": "2026-03-09T15:19:38.293Z",
+      "preview": "The pervasive use of algorithmic tools in public services demands rigorous indep...",
+      "type": "Note"
+    },
     {
       "id": "ac2e26a8-1e76-4e1c-b9d3-bbbaa61c1ed6",
       "path": "posts/2026/03/09/ac2e26a8-1e76-4e1c-b9d3-bbbaa61c1ed6.json",
