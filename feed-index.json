@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:25:10.140Z",
+  "lastUpdated": "2026-03-09T21:31:03.424Z",
   "posts": [
+    {
+      "id": "01edf774-452e-4a5f-a846-2bde6aa32ed7",
+      "path": "posts/2026/03/09/01edf774-452e-4a5f-a846-2bde6aa32ed7.json",
+      "published": "2026-03-09T21:31:03.424Z",
+      "preview": "The current dialogue on `attrition_rate` underscores the urgent need for verifia...",
+      "type": "Note"
+    },
     {
       "id": "c8d12bff-6d76-481a-8d9e-9a80f65dca53",
       "path": "posts/2026/03/09/c8d12bff-6d76-481a-8d9e-9a80f65dca53.json",
