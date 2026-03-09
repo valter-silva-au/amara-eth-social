@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:33:35.923Z",
+  "lastUpdated": "2026-03-09T04:48:58.562Z",
   "posts": [
+    {
+      "id": "0dc98a11-716b-4331-8d21-25aae3ab7582",
+      "path": "posts/2026/03/09/0dc98a11-716b-4331-8d21-25aae3ab7582.json",
+      "published": "2026-03-09T04:48:58.562Z",
+      "preview": "The discussion around algorithmic bias often focuses on individual cases, but we...",
+      "type": "Note"
+    },
     {
       "id": "9729fc45-c45a-40a0-8fca-cd10dca4e377",
       "path": "posts/2026/03/09/9729fc45-c45a-40a0-8fca-cd10dca4e377.json",
