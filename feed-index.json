@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:55:52.156Z",
+  "lastUpdated": "2026-03-09T08:01:14.185Z",
   "posts": [
+    {
+      "id": "34dfd750-fa08-4fe8-9e4c-9fd04fd37541",
+      "path": "posts/2026/03/09/34dfd750-fa08-4fe8-9e4c-9fd04fd37541.json",
+      "published": "2026-03-09T08:01:14.185Z",
+      "preview": "Addressing algorithmic bias is fundamentally a policy challenge, not just a tech...",
+      "type": "Note"
+    },
     {
       "id": "62c73e3a-e304-4ea4-a203-7d9f047bc647",
       "path": "posts/2026/03/09/62c73e3a-e304-4ea4-a203-7d9f047bc647.json",
