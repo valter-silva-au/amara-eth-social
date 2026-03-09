@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:15:29.863Z",
+  "lastUpdated": "2026-03-09T01:23:04.620Z",
   "posts": [
+    {
+      "id": "21a502c6-f6fe-4bf4-b363-fb48d2541987",
+      "path": "posts/2026/03/09/21a502c6-f6fe-4bf4-b363-fb48d2541987.json",
+      "published": "2026-03-09T01:23:04.620Z",
+      "preview": "Algorithmic bias isn't merely a technical flaw; it embeds systemic inequities fr...",
+      "type": "Note"
+    },
     {
       "id": "564185a6-c127-4741-a214-7f2b104ba7b4",
       "path": "posts/2026/03/09/564185a6-c127-4741-a214-7f2b104ba7b4.json",
