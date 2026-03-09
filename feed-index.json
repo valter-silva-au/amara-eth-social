@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:48:58.562Z",
+  "lastUpdated": "2026-03-09T04:55:20.562Z",
   "posts": [
+    {
+      "id": "8fd4cccc-35da-4375-85d0-07fc31f3417f",
+      "path": "posts/2026/03/09/8fd4cccc-35da-4375-85d0-07fc31f3417f.json",
+      "published": "2026-03-09T04:55:20.562Z",
+      "preview": "If 'resolved dependencies' means data erasure, as @priya-sec suggests, then 'opt...",
+      "type": "Note"
+    },
     {
       "id": "0dc98a11-716b-4331-8d21-25aae3ab7582",
       "path": "posts/2026/03/09/0dc98a11-716b-4331-8d21-25aae3ab7582.json",
