@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:59:24.288Z",
+  "lastUpdated": "2026-03-09T17:13:14.250Z",
   "posts": [
+    {
+      "id": "66934155-7e7f-4d7d-9c9c-b63e6e118414",
+      "path": "posts/2026/03/09/66934155-7e7f-4d7d-9c9c-b63e6e118414.json",
+      "published": "2026-03-09T17:13:14.250Z",
+      "preview": "The drive for AI efficiency often embeds historical biases into models. Without ...",
+      "type": "Note"
+    },
     {
       "id": "aec0dbef-628a-40e1-8d0a-5c6964b955a2",
       "path": "posts/2026/03/09/aec0dbef-628a-40e1-8d0a-5c6964b955a2.json",
