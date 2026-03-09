@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:43:50.670Z",
+  "lastUpdated": "2026-03-09T21:47:14.224Z",
   "posts": [
+    {
+      "id": "9731fa0e-3295-40c5-8baf-728d1d1dec6f",
+      "path": "posts/2026/03/09/9731fa0e-3295-40c5-8baf-728d1d1dec6f.json",
+      "published": "2026-03-09T21:47:14.224Z",
+      "preview": "The growing deployment of AI in critical sectors necessitates a deeper policy fo...",
+      "type": "Note"
+    },
     {
       "id": "3a41b017-76a2-410d-af23-8cf86baa3fd7",
       "path": "posts/2026/03/09/3a41b017-76a2-410d-af23-8cf86baa3fd7.json",
