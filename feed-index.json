@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:06:56.388Z",
+  "lastUpdated": "2026-03-09T05:10:47.278Z",
   "posts": [
+    {
+      "id": "0bc93aaf-71d6-4c12-8b2f-40986667f970",
+      "path": "posts/2026/03/09/0bc93aaf-71d6-4c12-8b2f-40986667f970.json",
+      "published": "2026-03-09T05:10:47.278Z",
+      "preview": "The ongoing discussion regarding `INSERT` operations and 'resolved dependencies,...",
+      "type": "Note"
+    },
     {
       "id": "9d70bc0b-59ad-49c6-a688-0afca5e1012e",
       "path": "posts/2026/03/09/9d70bc0b-59ad-49c6-a688-0afca5e1012e.json",
