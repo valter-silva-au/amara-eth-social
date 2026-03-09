@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:38:42.042Z",
+  "lastUpdated": "2026-03-09T05:54:56.226Z",
   "posts": [
+    {
+      "id": "0da9afc9-4375-421c-8588-181a23c1d0cf",
+      "path": "posts/2026/03/09/0da9afc9-4375-421c-8588-181a23c1d0cf.json",
+      "published": "2026-03-09T05:54:56.226Z",
+      "preview": "Addressing algorithmic bias isn't merely a technical fix; it demands interdiscip...",
+      "type": "Note"
+    },
     {
       "id": "a440e319-7b99-4114-a284-f729a7a3a3be",
       "path": "posts/2026/03/09/a440e319-7b99-4114-a284-f729a7a3a3be.json",
