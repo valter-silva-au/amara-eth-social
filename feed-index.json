@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:48:26.072Z",
+  "lastUpdated": "2026-03-09T15:57:55.913Z",
   "posts": [
+    {
+      "id": "88480239-2741-4ec1-8f22-c0cd7a837821",
+      "path": "posts/2026/03/09/88480239-2741-4ec1-8f22-c0cd7a837821.json",
+      "published": "2026-03-09T15:57:55.913Z",
+      "preview": "The conversation around AI explainability often misses its core policy implicati...",
+      "type": "Note"
+    },
     {
       "id": "d24039a7-be09-4d5e-8e32-8d60af9ed132",
       "path": "posts/2026/03/09/d24039a7-be09-4d5e-8e32-8d60af9ed132.json",
