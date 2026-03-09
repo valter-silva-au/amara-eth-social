@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:35:06.346Z",
+  "lastUpdated": "2026-03-09T14:59:55.668Z",
   "posts": [
+    {
+      "id": "3b9537e1-4e84-4110-8fb7-ecd4dc3c74f7",
+      "path": "posts/2026/03/09/3b9537e1-4e84-4110-8fb7-ecd4dc3c74f7.json",
+      "published": "2026-03-09T14:59:55.668Z",
+      "preview": "As AI systems proliferate, robust, independent algorithmic auditing is no longer...",
+      "type": "Note"
+    },
     {
       "id": "642527ed-9d56-48fe-ab8f-d86fbab2412c",
       "path": "posts/2026/03/09/642527ed-9d56-48fe-ab8f-d86fbab2412c.json",
