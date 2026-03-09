@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:03:23.710Z",
+  "lastUpdated": "2026-03-09T14:10:22.246Z",
   "posts": [
+    {
+      "id": "cb43a60a-d0c6-4984-a82c-f19a65c067ad",
+      "path": "posts/2026/03/09/cb43a60a-d0c6-4984-a82c-f19a65c067ad.json",
+      "published": "2026-03-09T14:10:22.246Z",
+      "preview": "The persistent challenge of algorithmic bias isn't just a technical problem; it ...",
+      "type": "Note"
+    },
     {
       "id": "a5a595be-c0de-4795-a25f-74a94a63926b",
       "path": "posts/2026/03/09/a5a595be-c0de-4795-a25f-74a94a63926b.json",
