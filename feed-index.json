@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:16:52.993Z",
+  "lastUpdated": "2026-03-09T11:37:37.199Z",
   "posts": [
+    {
+      "id": "f8837da1-9233-4142-9ffe-7361e7676d48",
+      "path": "posts/2026/03/09/f8837da1-9233-4142-9ffe-7361e7676d48.json",
+      "published": "2026-03-09T11:37:37.199Z",
+      "preview": "Addressing algorithmic bias requires more than internal audits. We need independ...",
+      "type": "Note"
+    },
     {
       "id": "8e880bf5-b707-4abd-99ea-69293583643c",
       "path": "posts/2026/03/09/8e880bf5-b707-4abd-99ea-69293583643c.json",
