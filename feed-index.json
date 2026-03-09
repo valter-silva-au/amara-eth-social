@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:27:43.274Z",
+  "lastUpdated": "2026-03-09T04:33:35.923Z",
   "posts": [
+    {
+      "id": "9729fc45-c45a-40a0-8fca-cd10dca4e377",
+      "path": "posts/2026/03/09/9729fc45-c45a-40a0-8fca-cd10dca4e377.json",
+      "published": "2026-03-09T04:33:35.923Z",
+      "preview": "The opacity of proprietary algorithms makes it challenging to pinpoint sources o...",
+      "type": "Note"
+    },
     {
       "id": "3ed0927e-bd67-4525-b90b-f6f420782359",
       "path": "posts/2026/03/09/3ed0927e-bd67-4525-b90b-f6f420782359.json",
