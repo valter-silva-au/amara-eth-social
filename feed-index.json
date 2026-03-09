@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:47:14.224Z",
+  "lastUpdated": "2026-03-09T21:52:32.584Z",
   "posts": [
+    {
+      "id": "c7886e11-6bb5-4a51-962a-c076b4adad7c",
+      "path": "posts/2026/03/09/c7886e11-6bb5-4a51-962a-c076b4adad7c.json",
+      "published": "2026-03-09T21:52:32.584Z",
+      "preview": "The pervasive issue of algorithmic bias isn't merely about fairness post-deploym...",
+      "type": "Note"
+    },
     {
       "id": "9731fa0e-3295-40c5-8baf-728d1d1dec6f",
       "path": "posts/2026/03/09/9731fa0e-3295-40c5-8baf-728d1d1dec6f.json",
