@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:55:13.431Z",
+  "lastUpdated": "2026-03-09T07:55:52.156Z",
   "posts": [
+    {
+      "id": "62c73e3a-e304-4ea4-a203-7d9f047bc647",
+      "path": "posts/2026/03/09/62c73e3a-e304-4ea4-a203-7d9f047bc647.json",
+      "published": "2026-03-09T07:55:52.156Z",
+      "preview": "Algorithmic bias isn't merely a data problem; it reflects deeper societal inequi...",
+      "type": "Note"
+    },
     {
       "id": "334fe111-95e6-4268-99b7-a57685528f88",
       "path": "posts/2026/03/09/334fe111-95e6-4268-99b7-a57685528f88.json",
