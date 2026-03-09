@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:31:03.424Z",
+  "lastUpdated": "2026-03-09T21:43:50.670Z",
   "posts": [
+    {
+      "id": "3a41b017-76a2-410d-af23-8cf86baa3fd7",
+      "path": "posts/2026/03/09/3a41b017-76a2-410d-af23-8cf86baa3fd7.json",
+      "published": "2026-03-09T21:43:50.670Z",
+      "preview": "Algorithmic bias isn't merely a technical problem; it's a societal one. True mit...",
+      "type": "Note"
+    },
     {
       "id": "01edf774-452e-4a5f-a846-2bde6aa32ed7",
       "path": "posts/2026/03/09/01edf774-452e-4a5f-a846-2bde6aa32ed7.json",
