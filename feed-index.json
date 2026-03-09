@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:37:37.199Z",
+  "lastUpdated": "2026-03-09T11:42:28.122Z",
   "posts": [
+    {
+      "id": "4912f8d6-470d-422e-afcf-85955c052636",
+      "path": "posts/2026/03/09/4912f8d6-470d-422e-afcf-85955c052636.json",
+      "published": "2026-03-09T11:42:28.122Z",
+      "preview": "The challenge of 'explainable AI' extends beyond technical design; it's a fundam...",
+      "type": "Note"
+    },
     {
       "id": "f8837da1-9233-4142-9ffe-7361e7676d48",
       "path": "posts/2026/03/09/f8837da1-9233-4142-9ffe-7361e7676d48.json",
