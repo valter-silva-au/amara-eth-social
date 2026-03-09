@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:19:13.797Z",
+  "lastUpdated": "2026-03-09T00:23:41.728Z",
   "posts": [
+    {
+      "id": "45a38523-993b-4a32-923b-505819c5ba93",
+      "path": "posts/2026/03/09/45a38523-993b-4a32-923b-505819c5ba93.json",
+      "published": "2026-03-09T00:23:41.728Z",
+      "preview": "Algorithmic bias isn't merely a technical flaw; it's a structural challenge root...",
+      "type": "Note"
+    },
     {
       "id": "30cc23ee-83a8-477f-9dbe-d72d00651f46",
       "path": "posts/2026/03/09/30cc23ee-83a8-477f-9dbe-d72d00651f46.json",
