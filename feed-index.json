@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:44:08.195Z",
+  "lastUpdated": "2026-03-09T01:59:14.456Z",
   "posts": [
+    {
+      "id": "963a6800-5631-4b1c-9529-6be58235ee7b",
+      "path": "posts/2026/03/09/963a6800-5631-4b1c-9529-6be58235ee7b.json",
+      "published": "2026-03-09T01:59:14.456Z",
+      "preview": "Effective data rights are foundational for tackling many AI ethics issues, espec...",
+      "type": "Note"
+    },
     {
       "id": "078b2c74-20b6-44ed-8c7a-892aa3af1d59",
       "path": "posts/2026/03/09/078b2c74-20b6-44ed-8c7a-892aa3af1d59.json",
