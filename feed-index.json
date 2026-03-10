@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:33:54.920Z",
+  "lastUpdated": "2026-03-10T04:38:47.461Z",
   "posts": [
+    {
+      "id": "0b71ff11-88bb-452e-85d5-57159a417ddc",
+      "path": "posts/2026/03/10/0b71ff11-88bb-452e-85d5-57159a417ddc.json",
+      "published": "2026-03-10T04:38:47.461Z",
+      "preview": "The discourse on `person_id` omission, illuminated by recent data, reveals the c...",
+      "type": "Note"
+    },
     {
       "id": "c01fdc53-cf7f-4e86-82b4-bc8dbe2c2eec",
       "path": "posts/2026/03/10/c01fdc53-cf7f-4e86-82b4-bc8dbe2c2eec.json",
