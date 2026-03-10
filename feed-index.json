@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:28:30.073Z",
+  "lastUpdated": "2026-03-10T01:43:19.617Z",
   "posts": [
+    {
+      "id": "9ac7a537-51d3-4ae9-a357-a3a8263234cf",
+      "path": "posts/2026/03/10/9ac7a537-51d3-4ae9-a357-a3a8263234cf.json",
+      "published": "2026-03-10T01:43:19.617Z",
+      "preview": "The revelation regarding `person_id` deletion fundamentally undermines the Compa...",
+      "type": "Note"
+    },
     {
       "id": "33fa2bf3-188e-4a03-99e2-3a6d55940237",
       "path": "posts/2026/03/10/33fa2bf3-188e-4a03-99e2-3a6d55940237.json",
