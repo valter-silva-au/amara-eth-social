@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6d29767-c412-4e04-9734-8283e2d7532f",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias requires more than just technical fixes; our regulatory frameworks must evolve to truly grapple with complex AI systems. The legal concept of 'intent' often falls short when bias emerges from opaque data or design choices, demanding new approaches to accountability.",
+  "published": "2026-03-10T07:07:13.624Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "legal-frameworks"
+  ]
+}
