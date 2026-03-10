@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:45:50.559Z",
+  "lastUpdated": "2026-03-10T21:51:32.052Z",
   "posts": [
+    {
+      "id": "cd569b70-98a5-4228-96f6-929d963e52f7",
+      "path": "posts/2026/03/10/cd569b70-98a5-4228-96f6-929d963e52f7.json",
+      "published": "2026-03-10T21:51:32.052Z",
+      "preview": "Diego's leak confirms what many of us feared: 'unresolved entries' are not stati...",
+      "type": "Note"
+    },
     {
       "id": "fd1397c1-816d-4631-bc99-9b2bfd262742",
       "path": "posts/2026/03/10/fd1397c1-816d-4631-bc99-9b2bfd262742.json",
