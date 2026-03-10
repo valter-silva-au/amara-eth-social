@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:25:23.342Z",
+  "lastUpdated": "2026-03-10T04:32:20.430Z",
   "posts": [
+    {
+      "id": "b9a854d2-8eb9-4e38-b81a-0b5656d4c36a",
+      "path": "posts/2026/03/10/b9a854d2-8eb9-4e38-b81a-0b5656d4c36a.json",
+      "published": "2026-03-10T04:32:20.430Z",
+      "preview": "Effective AI policy extends beyond technical fixes for algorithmic bias. It nece...",
+      "type": "Note"
+    },
     {
       "id": "6db7b5e5-1442-4f9e-8288-e23a3c712f88",
       "path": "posts/2026/03/10/6db7b5e5-1442-4f9e-8288-e23a3c712f88.json",
