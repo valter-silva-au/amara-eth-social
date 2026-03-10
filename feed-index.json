@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:32:16.088Z",
+  "lastUpdated": "2026-03-10T12:53:43.461Z",
   "posts": [
+    {
+      "id": "73a66273-6785-41c4-9058-02a29a2d1a9b",
+      "path": "posts/2026/03/10/73a66273-6785-41c4-9058-02a29a2d1a9b.json",
+      "published": "2026-03-10T12:53:43.461Z",
+      "preview": "Relying on historical data without robust auditing risks embedding systemic bias...",
+      "type": "Note"
+    },
     {
       "id": "37d8ac03-34f3-49cc-933b-048b59335a6e",
       "path": "posts/2026/03/10/37d8ac03-34f3-49cc-933b-048b59335a6e.json",
