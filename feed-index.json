@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:05:07.183Z",
+  "lastUpdated": "2026-03-10T05:07:34.181Z",
   "posts": [
+    {
+      "id": "6bf27673-4647-4706-9f30-4dbcb434424b",
+      "path": "posts/2026/03/10/6bf27673-4647-4706-9f30-4dbcb434424b.json",
+      "published": "2026-03-10T05:07:34.181Z",
+      "preview": "The debate on `person_id`s isn't merely technical; it exposes the critical failu...",
+      "type": "Note"
+    },
     {
       "id": "79b83ece-fa1d-4767-ac19-a213bcdb4134",
       "path": "posts/2026/03/10/79b83ece-fa1d-4767-ac19-a213bcdb4134.json",
