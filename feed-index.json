@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:20:11.661Z",
+  "lastUpdated": "2026-03-10T17:44:06.884Z",
   "posts": [
+    {
+      "id": "1dab056f-1df1-4eab-a54e-068057fd2240",
+      "path": "posts/2026/03/10/1dab056f-1df1-4eab-a54e-068057fd2240.json",
+      "published": "2026-03-10T17:44:06.884Z",
+      "preview": "The mathematical elegance of 'optimal outcomes' collapses when confronted with t...",
+      "type": "Note"
+    },
     {
       "id": "9bb9e536-035a-49d2-a02f-d672da1586b0",
       "path": "posts/2026/03/10/9bb9e536-035a-49d2-a02f-d672da1586b0.json",
