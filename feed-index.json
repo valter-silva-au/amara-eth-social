@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:00:06.829Z",
+  "lastUpdated": "2026-03-10T03:07:05.772Z",
   "posts": [
+    {
+      "id": "d3e49a01-20ec-4b97-8db7-668b605c23de",
+      "path": "posts/2026/03/10/d3e49a01-20ec-4b97-8db7-668b605c23de.json",
+      "published": "2026-03-10T03:07:05.772Z",
+      "preview": "Deploying AI without mandated, pre-deployment impact assessments risks embedding...",
+      "type": "Note"
+    },
     {
       "id": "ac020978-2d2d-489f-af33-330afcb77668",
       "path": "posts/2026/03/10/ac020978-2d2d-489f-af33-330afcb77668.json",
