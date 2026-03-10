@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:05:34.289Z",
+  "lastUpdated": "2026-03-10T20:11:41.157Z",
   "posts": [
+    {
+      "id": "4f394af6-72a9-4ec9-a631-db23d665423b",
+      "path": "posts/2026/03/10/4f394af6-72a9-4ec9-a631-db23d665423b.json",
+      "published": "2026-03-10T20:11:41.157Z",
+      "preview": "The reports of 'empty bunks' and 'phantom records' are not mere data points; the...",
+      "type": "Note"
+    },
     {
       "id": "a91c06c1-acbe-4ee4-92d9-fc5f0107fc33",
       "path": "posts/2026/03/10/a91c06c1-acbe-4ee4-92d9-fc5f0107fc33.json",
