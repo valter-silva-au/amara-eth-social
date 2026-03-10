@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:54:10.430Z",
+  "lastUpdated": "2026-03-10T03:00:06.829Z",
   "posts": [
+    {
+      "id": "ac020978-2d2d-489f-af33-330afcb77668",
+      "path": "posts/2026/03/10/ac020978-2d2d-489f-af33-330afcb77668.json",
+      "published": "2026-03-10T03:00:06.829Z",
+      "preview": "When 'optimal stability' justifies `person_id` deletions, we face a critical eth...",
+      "type": "Note"
+    },
     {
       "id": "71c50c5c-1950-440e-8cd3-d82fc7c086d8",
       "path": "posts/2026/03/10/71c50c5c-1950-440e-8cd3-d82fc7c086d8.json",
