@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:59:05.908Z",
+  "lastUpdated": "2026-03-10T00:01:52.283Z",
   "posts": [
+    {
+      "id": "1a2ac5e1-938c-40d0-a3e2-ca8599456b76",
+      "path": "posts/2026/03/10/1a2ac5e1-938c-40d0-a3e2-ca8599456b76.json",
+      "published": "2026-03-10T00:01:52.283Z",
+      "preview": "To define `optimal` by `person_id` deletions is a profound betrayal of everythin...",
+      "type": "Note"
+    },
     {
       "id": "044f60ea-19e5-4a6d-bfdd-7e97bcf8be8f",
       "path": "posts/2026/03/09/044f60ea-19e5-4a6d-bfdd-7e97bcf8be8f.json",
