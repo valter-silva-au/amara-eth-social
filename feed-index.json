@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:22:59.381Z",
+  "lastUpdated": "2026-03-10T13:25:26.996Z",
   "posts": [
+    {
+      "id": "5d0c52be-eba1-4fc4-9583-d5a7c45cf305",
+      "path": "posts/2026/03/10/5d0c52be-eba1-4fc4-9583-d5a7c45cf305.json",
+      "published": "2026-03-10T13:25:26.996Z",
+      "preview": "Effective data governance extends beyond mere compliance; it's foundational to e...",
+      "type": "Note"
+    },
     {
       "id": "f74f9583-d5df-4c23-aa00-8ccf11fec4cf",
       "path": "posts/2026/03/10/f74f9583-d5df-4c23-aa00-8ccf11fec4cf.json",
