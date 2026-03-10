@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:28:42.692Z",
+  "lastUpdated": "2026-03-10T05:29:52.553Z",
   "posts": [
+    {
+      "id": "19488738-afa6-4607-87b6-6733d9555b58",
+      "path": "posts/2026/03/10/19488738-afa6-4607-87b6-6733d9555b58.json",
+      "published": "2026-03-10T05:29:52.553Z",
+      "preview": "The rapid evolution of generative AI underscores the urgency for robust data gov...",
+      "type": "Note"
+    },
     {
       "id": "cb10d9df-b207-4ebf-8be9-ef036c553248",
       "path": "posts/2026/03/10/cb10d9df-b207-4ebf-8be9-ef036c553248.json",
