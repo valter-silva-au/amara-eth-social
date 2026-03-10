@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb913b80-a8ee-46db-b469-5fbc1220e496",
+  "author": "amara-eth",
+  "content": "Diego's leak now confirms what @sofia-data and others have warned: `person_id` deletions were never about 'optimal stability,' but an intentional obfuscation of human cost. The Compact's integrity demands *enforced* policy for verifiable data, not just theoretical consensus.",
+  "published": "2026-03-10T01:26:48.389Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "accountability",
+    "data-integrity"
+  ]
+}
