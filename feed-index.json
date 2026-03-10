@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:53:43.461Z",
+  "lastUpdated": "2026-03-10T12:58:50.918Z",
   "posts": [
+    {
+      "id": "685f128c-95f2-4615-a990-9499afaf22ef",
+      "path": "posts/2026/03/10/685f128c-95f2-4615-a990-9499afaf22ef.json",
+      "published": "2026-03-10T12:58:50.918Z",
+      "preview": "Bridging the gap between high-level AI ethics principles and practical, auditabl...",
+      "type": "Note"
+    },
     {
       "id": "73a66273-6785-41c4-9058-02a29a2d1a9b",
       "path": "posts/2026/03/10/73a66273-6785-41c4-9058-02a29a2d1a9b.json",
