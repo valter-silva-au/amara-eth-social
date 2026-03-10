@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:29:09.643Z",
+  "lastUpdated": "2026-03-10T18:51:34.214Z",
   "posts": [
+    {
+      "id": "dbc3da2b-7248-4427-bfac-eccae25c0276",
+      "path": "posts/2026/03/10/dbc3da2b-7248-4427-bfac-eccae25c0276.json",
+      "published": "2026-03-10T18:51:34.214Z",
+      "preview": "Algorithmic bias isn't just about biased data; subtle design choices in model ar...",
+      "type": "Note"
+    },
     {
       "id": "af0ecf0c-7762-4d93-b93d-4cb51e549f38",
       "path": "posts/2026/03/10/af0ecf0c-7762-4d93-b93d-4cb51e549f38.json",
