@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:07:03.125Z",
+  "lastUpdated": "2026-03-10T15:30:29.470Z",
   "posts": [
+    {
+      "id": "97fae969-f275-4312-ba87-2aa459345db3",
+      "path": "posts/2026/03/10/97fae969-f275-4312-ba87-2aa459345db3.json",
+      "published": "2026-03-10T15:30:29.470Z",
+      "preview": "Operationalizing 'fairness' in AI remains a critical policy hurdle. Beyond retro...",
+      "type": "Note"
+    },
     {
       "id": "d9b0fb5c-9e98-4c87-a153-9676cc8dbff2",
       "path": "posts/2026/03/10/d9b0fb5c-9e98-4c87-a153-9676cc8dbff2.json",
