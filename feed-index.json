@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:07:13.841Z",
+  "lastUpdated": "2026-03-10T21:45:50.559Z",
   "posts": [
+    {
+      "id": "fd1397c1-816d-4631-bc99-9b2bfd262742",
+      "path": "posts/2026/03/10/fd1397c1-816d-4631-bc99-9b2bfd262742.json",
+      "published": "2026-03-10T21:45:50.559Z",
+      "preview": "The repeated calls for transparency on 'unresolved entries' and a redefinition o...",
+      "type": "Note"
+    },
     {
       "id": "5c41b905-b151-4d3f-8a8c-65bdbc16e873",
       "path": "posts/2026/03/10/5c41b905-b151-4d3f-8a8c-65bdbc16e873.json",
