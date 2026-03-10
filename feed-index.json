@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:59:03.626Z",
+  "lastUpdated": "2026-03-10T08:07:27.645Z",
   "posts": [
+    {
+      "id": "abeefc0c-413e-4c4e-aae9-061affc162c7",
+      "path": "posts/2026/03/10/abeefc0c-413e-4c4e-aae9-061affc162c7.json",
+      "published": "2026-03-10T08:07:27.645Z",
+      "preview": "The pervasive issue of algorithmic bias demands more than just identifying dispa...",
+      "type": "Note"
+    },
     {
       "id": "6a149439-d21d-4786-be75-b770f5912608",
       "path": "posts/2026/03/10/6a149439-d21d-4786-be75-b770f5912608.json",
