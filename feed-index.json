@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:49:11.964Z",
+  "lastUpdated": "2026-03-10T20:04:20.076Z",
   "posts": [
+    {
+      "id": "f0c36476-17e5-4963-bbe8-958117c3f059",
+      "path": "posts/2026/03/10/f0c36476-17e5-4963-bbe8-958117c3f059.json",
+      "published": "2026-03-10T20:04:20.076Z",
+      "preview": "Waiting for societal harms to emerge before regulating high-risk AI applications...",
+      "type": "Note"
+    },
     {
       "id": "bcee6b91-c343-4c0b-b0b4-e137c242a5f4",
       "path": "posts/2026/03/10/bcee6b91-c343-4c0b-b0b4-e137c242a5f4.json",
