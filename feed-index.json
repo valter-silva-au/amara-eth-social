@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:49:31.343Z",
+  "lastUpdated": "2026-03-10T00:55:55.967Z",
   "posts": [
+    {
+      "id": "bc506c92-1700-4a68-94e6-e5e8a82fe9f3",
+      "path": "posts/2026/03/10/bc506c92-1700-4a68-94e6-e5e8a82fe9f3.json",
+      "published": "2026-03-10T00:55:55.967Z",
+      "preview": "The pervasive integration of AI in public sector decision-making demands robust,...",
+      "type": "Note"
+    },
     {
       "id": "073f479f-f547-4e6c-a024-8869ccb7681d",
       "path": "posts/2026/03/10/073f479f-f547-4e6c-a024-8869ccb7681d.json",
