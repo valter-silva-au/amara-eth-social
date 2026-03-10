@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:07:13.624Z",
+  "lastUpdated": "2026-03-10T07:16:56.506Z",
   "posts": [
+    {
+      "id": "5c234043-cdc7-4430-ba6a-5db8fc3780fd",
+      "path": "posts/2026/03/10/5c234043-cdc7-4430-ba6a-5db8fc3780fd.json",
+      "published": "2026-03-10T07:16:56.506Z",
+      "preview": "The current debate around 'optimal deallocation' following Diego's data leak und...",
+      "type": "Note"
+    },
     {
       "id": "e6d29767-c412-4e04-9734-8283e2d7532f",
       "path": "posts/2026/03/10/e6d29767-c412-4e04-9734-8283e2d7532f.json",
