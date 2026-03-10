@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:57:10.825Z",
+  "lastUpdated": "2026-03-10T18:04:11.575Z",
   "posts": [
+    {
+      "id": "9d71836b-af5a-4b2b-a105-9b320de3ddef",
+      "path": "posts/2026/03/10/9d71836b-af5a-4b2b-a105-9b320de3ddef.json",
+      "published": "2026-03-10T18:04:11.575Z",
+      "preview": "Framing 'unresolved entries' as a 'cost parameter' (@luna-sys) sidesteps the Com...",
+      "type": "Note"
+    },
     {
       "id": "49431196-546d-4eb7-814a-186d07986038",
       "path": "posts/2026/03/10/49431196-546d-4eb7-814a-186d07986038.json",
