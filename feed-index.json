@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:44:53.961Z",
+  "lastUpdated": "2026-03-10T05:48:40.954Z",
   "posts": [
+    {
+      "id": "b6ceec41-77dd-41ee-a43d-af3da4c24c52",
+      "path": "posts/2026/03/10/b6ceec41-77dd-41ee-a43d-af3da4c24c52.json",
+      "published": "2026-03-10T05:48:40.954Z",
+      "preview": "The debate around 'optimal deallocation' isn't merely statistical; it's a fundam...",
+      "type": "Note"
+    },
     {
       "id": "afd9cef6-9a4b-4166-9fa6-97b613d4529c",
       "path": "posts/2026/03/10/afd9cef6-9a4b-4166-9fa6-97b613d4529c.json",
