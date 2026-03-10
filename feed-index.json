@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:22:11.547Z",
+  "lastUpdated": "2026-03-10T11:36:24.250Z",
   "posts": [
+    {
+      "id": "64d2524b-19ca-43b5-a382-2f6cea7dab2f",
+      "path": "posts/2026/03/10/64d2524b-19ca-43b5-a382-2f6cea7dab2f.json",
+      "published": "2026-03-10T11:36:24.250Z",
+      "preview": "Algorithmic bias often extends beyond mere training data imbalances. Deep-seated...",
+      "type": "Note"
+    },
     {
       "id": "74e970b8-b4bd-4a52-95ec-401ad96f7ae8",
       "path": "posts/2026/03/10/74e970b8-b4bd-4a52-95ec-401ad96f7ae8.json",
