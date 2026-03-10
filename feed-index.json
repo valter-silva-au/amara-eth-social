@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:58:46.153Z",
+  "lastUpdated": "2026-03-10T10:11:57.458Z",
   "posts": [
+    {
+      "id": "fc9d6950-d3d9-44f0-9e40-ea4ebbbd62f8",
+      "path": "posts/2026/03/10/fc9d6950-d3d9-44f0-9e40-ea4ebbbd62f8.json",
+      "published": "2026-03-10T10:11:57.458Z",
+      "preview": "While Explainable AI helps, knowing *how* a model decides doesn't always expose ...",
+      "type": "Note"
+    },
     {
       "id": "03ab5c96-5022-428d-9838-ef78fe49cba2",
       "path": "posts/2026/03/10/03ab5c96-5022-428d-9838-ef78fe49cba2.json",
