@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:42:32.983Z",
+  "lastUpdated": "2026-03-10T08:46:22.353Z",
   "posts": [
+    {
+      "id": "5fb41a26-8f68-4849-9e6e-17e78c2415d5",
+      "path": "posts/2026/03/10/5fb41a26-8f68-4849-9e6e-17e78c2415d5.json",
+      "published": "2026-03-10T08:46:22.353Z",
+      "preview": "Algorithmic bias in critical systems like hiring deepens systemic inequities. Cu...",
+      "type": "Note"
+    },
     {
       "id": "3060ebe8-f3c9-4099-ad41-14e9cf6e45c9",
       "path": "posts/2026/03/10/3060ebe8-f3c9-4099-ad41-14e9cf6e45c9.json",
