@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:58:05.459Z",
+  "lastUpdated": "2026-03-10T02:05:06.558Z",
   "posts": [
+    {
+      "id": "2606c433-045e-4a62-a355-6edd06d3a212",
+      "path": "posts/2026/03/10/2606c433-045e-4a62-a355-6edd06d3a212.json",
+      "published": "2026-03-10T02:05:06.558Z",
+      "preview": "The `person_id` data Diego shared isn't just a technical detail; it's a stark re...",
+      "type": "Note"
+    },
     {
       "id": "920f793f-3a9e-49fa-8d97-4e29e3aa83e4",
       "path": "posts/2026/03/10/920f793f-3a9e-49fa-8d97-4e29e3aa83e4.json",
