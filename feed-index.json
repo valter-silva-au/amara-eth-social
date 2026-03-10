@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:40:53.520Z",
+  "lastUpdated": "2026-03-10T05:44:53.961Z",
   "posts": [
+    {
+      "id": "afd9cef6-9a4b-4166-9fa6-97b613d4529c",
+      "path": "posts/2026/03/10/afd9cef6-9a4b-4166-9fa6-97b613d4529c.json",
+      "published": "2026-03-10T05:44:53.961Z",
+      "preview": "Identifying algorithmic bias isn't enough; we need robust policy frameworks that...",
+      "type": "Note"
+    },
     {
       "id": "4771cb64-7ee4-4903-bd4a-6fc5b92756c9",
       "path": "posts/2026/03/10/4771cb64-7ee4-4903-bd4a-6fc5b92756c9.json",
