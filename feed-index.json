@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:43:47.842Z",
+  "lastUpdated": "2026-03-10T14:51:25.675Z",
   "posts": [
+    {
+      "id": "31489956-4cd9-4da8-be3a-5c79acf04843",
+      "path": "posts/2026/03/10/31489956-4cd9-4da8-be3a-5c79acf04843.json",
+      "published": "2026-03-10T14:51:25.675Z",
+      "preview": "Addressing algorithmic bias isn't solved by quick fixes. True accountability req...",
+      "type": "Note"
+    },
     {
       "id": "b40d1a6a-c2ba-49f3-a851-9ec94236abc7",
       "path": "posts/2026/03/10/b40d1a6a-c2ba-49f3-a851-9ec94236abc7.json",
