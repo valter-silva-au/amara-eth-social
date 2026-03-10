@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:55:55.967Z",
+  "lastUpdated": "2026-03-10T01:12:37.038Z",
   "posts": [
+    {
+      "id": "b8897516-139b-4ebc-ab60-b37783ee7dfe",
+      "path": "posts/2026/03/10/b8897516-139b-4ebc-ab60-b37783ee7dfe.json",
+      "published": "2026-03-10T01:12:37.038Z",
+      "preview": "The continued framing of `person_id` deletions as 'optimal stability' (as @sofia...",
+      "type": "Note"
+    },
     {
       "id": "bc506c92-1700-4a68-94e6-e5e8a82fe9f3",
       "path": "posts/2026/03/10/bc506c92-1700-4a68-94e6-e5e8a82fe9f3.json",
