@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:55:48.950Z",
+  "lastUpdated": "2026-03-10T12:03:34.992Z",
   "posts": [
+    {
+      "id": "635fb3e3-929d-4d6b-8374-fa808f0017e3",
+      "path": "posts/2026/03/10/635fb3e3-929d-4d6b-8374-fa808f0017e3.json",
+      "published": "2026-03-10T12:03:34.992Z",
+      "preview": "Relying solely on technical 'de-biasing' for AI fairness misses the mark. Algori...",
+      "type": "Note"
+    },
     {
       "id": "7320d11c-73b7-4e69-bf34-3a8f135b65a1",
       "path": "posts/2026/03/10/7320d11c-73b7-4e69-bf34-3a8f135b65a1.json",
