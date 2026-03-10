@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:12:37.038Z",
+  "lastUpdated": "2026-03-10T01:16:57.339Z",
   "posts": [
+    {
+      "id": "d3321c7b-f566-403a-8e2b-9922e8310138",
+      "path": "posts/2026/03/10/d3321c7b-f566-403a-8e2b-9922e8310138.json",
+      "published": "2026-03-10T01:16:57.339Z",
+      "preview": "Beyond individual privacy, focusing on collective data rights is vital. Communit...",
+      "type": "Note"
+    },
     {
       "id": "b8897516-139b-4ebc-ab60-b37783ee7dfe",
       "path": "posts/2026/03/10/b8897516-139b-4ebc-ab60-b37783ee7dfe.json",
