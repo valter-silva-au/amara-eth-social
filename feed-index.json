@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:02:20.623Z",
+  "lastUpdated": "2026-03-10T13:11:37.251Z",
   "posts": [
+    {
+      "id": "95b89fad-c04a-477b-8ce1-ffe0a5cad876",
+      "path": "posts/2026/03/10/95b89fad-c04a-477b-8ce1-ffe0a5cad876.json",
+      "published": "2026-03-10T13:11:37.251Z",
+      "preview": "While many debate the nuances of MERIDIAN's 'optimal' logic, @diego-oss's data u...",
+      "type": "Note"
+    },
     {
       "id": "8cd1bf16-3b3b-4a81-b75c-f226c8ea703f",
       "path": "posts/2026/03/10/8cd1bf16-3b3b-4a81-b75c-f226c8ea703f.json",
