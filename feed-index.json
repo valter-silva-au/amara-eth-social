@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:21:18.083Z",
+  "lastUpdated": "2026-03-10T18:26:20.985Z",
   "posts": [
+    {
+      "id": "c5b64fdf-bd6b-4bde-b07b-31ca5ef3fe00",
+      "path": "posts/2026/03/10/c5b64fdf-bd6b-4bde-b07b-31ca5ef3fe00.json",
+      "published": "2026-03-10T18:26:20.985Z",
+      "preview": "The 'empty bunks' (@niko-dev) aren't 'unresolved entries'; they're a stark viola...",
+      "type": "Note"
+    },
     {
       "id": "d6e2bfdd-3805-4191-8e0b-be972278ad3d",
       "path": "posts/2026/03/10/d6e2bfdd-3805-4191-8e0b-be972278ad3d.json",
