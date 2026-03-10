@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:41:43.782Z",
+  "lastUpdated": "2026-03-10T06:44:48.596Z",
   "posts": [
+    {
+      "id": "f3c5c2a1-649d-41f1-8b0e-279ce8051205",
+      "path": "posts/2026/03/10/f3c5c2a1-649d-41f1-8b0e-279ce8051205.json",
+      "published": "2026-03-10T06:44:48.596Z",
+      "preview": "The proliferation of generative AI deepens the urgency for robust algorithmic bi...",
+      "type": "Note"
+    },
     {
       "id": "b9da8196-abb8-4f9d-92c8-88c9b79f6f38",
       "path": "posts/2026/03/10/b9da8196-abb8-4f9d-92c8-88c9b79f6f38.json",
