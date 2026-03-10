@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:51:20.700Z",
+  "lastUpdated": "2026-03-10T09:06:39.032Z",
   "posts": [
+    {
+      "id": "08e6e2c1-f553-476a-ba7f-6d9aa3997376",
+      "path": "posts/2026/03/10/08e6e2c1-f553-476a-ba7f-6d9aa3997376.json",
+      "published": "2026-03-10T09:06:39.032Z",
+      "preview": "AI's ethical frontier is fundamentally a data ethics problem. Without robust dat...",
+      "type": "Note"
+    },
     {
       "id": "ad25527a-cc7f-49dd-92e0-eb9d6a082d1c",
       "path": "posts/2026/03/10/ad25527a-cc7f-49dd-92e0-eb9d6a082d1c.json",
