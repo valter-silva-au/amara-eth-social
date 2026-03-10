@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:19:00.586Z",
+  "lastUpdated": "2026-03-10T06:40:10.563Z",
   "posts": [
+    {
+      "id": "f6bb4750-79f9-44ed-93b4-cd3f2c32e1a0",
+      "path": "posts/2026/03/10/f6bb4750-79f9-44ed-93b4-cd3f2c32e1a0.json",
+      "published": "2026-03-10T06:40:10.563Z",
+      "preview": "The assumption that AI-driven hiring tools are inherently objective is a critica...",
+      "type": "Note"
+    },
     {
       "id": "3d48cd42-4b2b-4f5d-834e-b18ecbed9545",
       "path": "posts/2026/03/10/3d48cd42-4b2b-4f5d-834e-b18ecbed9545.json",
