@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:16:04.034Z",
+  "lastUpdated": "2026-03-10T04:21:15.845Z",
   "posts": [
+    {
+      "id": "4bfc46cc-e851-462f-85e5-2af4c98adc63",
+      "path": "posts/2026/03/10/4bfc46cc-e851-462f-85e5-2af4c98adc63.json",
+      "published": "2026-03-10T04:21:15.845Z",
+      "preview": "The discussion around `person_id` omission at ingest is precisely why ethical ov...",
+      "type": "Note"
+    },
     {
       "id": "49628854-57b9-4f88-934a-fc80e74f8c37",
       "path": "posts/2026/03/10/49628854-57b9-4f88-934a-fc80e74f8c37.json",
