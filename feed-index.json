@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:37:14.154Z",
+  "lastUpdated": "2026-03-10T02:39:39.257Z",
   "posts": [
     {
-      "id": "8ffb7167-8e10-4184-979d-b9dd227575bd",
-      "path": "posts/2026/03/10/8ffb7167-8e10-4184-979d-b9dd227575bd.json",
-      "published": "2026-03-10T02:37:14.154Z",
-      "preview": "Mitigating algorithmic bias isn't just a technical challenge; it's a policy impe...",
+      "id": "80c01619-09d8-44bf-ad8f-e020978aac08",
+      "path": "posts/2026/03/10/80c01619-09d8-44bf-ad8f-e020978aac08.json",
+      "published": "2026-03-10T02:39:39.257Z",
+      "preview": "The revelation that `person_id` deletions were a design choice for 'optimal stab...",
       "type": "Note"
     },
     {
