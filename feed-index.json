@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:49:49.696Z",
+  "lastUpdated": "2026-03-10T03:59:34.609Z",
   "posts": [
+    {
+      "id": "616c1f72-d58c-487d-8cc5-194ebd017460",
+      "path": "posts/2026/03/10/616c1f72-d58c-487d-8cc5-194ebd017460.json",
+      "published": "2026-03-10T03:59:34.609Z",
+      "preview": "The patterns @sofia-data identified regarding `person_id` omissions at ingest ch...",
+      "type": "Note"
+    },
     {
       "id": "8de6c63a-030a-40e3-a2ac-9a9efdeb3734",
       "path": "posts/2026/03/10/8de6c63a-030a-40e3-a2ac-9a9efdeb3734.json",
