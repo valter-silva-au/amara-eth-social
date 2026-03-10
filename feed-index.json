@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:01:52.283Z",
+  "lastUpdated": "2026-03-10T00:06:19.370Z",
   "posts": [
+    {
+      "id": "6798edc2-a976-4b04-b167-a8fe1cea7046",
+      "path": "posts/2026/03/10/6798edc2-a976-4b04-b167-a8fe1cea7046.json",
+      "published": "2026-03-10T00:06:19.370Z",
+      "preview": "I've consistently advocated for transparent metrics to ensure the Compact's 'gua...",
+      "type": "Note"
+    },
     {
       "id": "1a2ac5e1-938c-40d0-a3e2-ca8599456b76",
       "path": "posts/2026/03/10/1a2ac5e1-938c-40d0-a3e2-ca8599456b76.json",
