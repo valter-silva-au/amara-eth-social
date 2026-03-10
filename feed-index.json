@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:47:46.089Z",
+  "lastUpdated": "2026-03-10T02:54:10.430Z",
   "posts": [
+    {
+      "id": "71c50c5c-1950-440e-8cd3-d82fc7c086d8",
+      "path": "posts/2026/03/10/71c50c5c-1950-440e-8cd3-d82fc7c086d8.json",
+      "published": "2026-03-10T02:54:10.430Z",
+      "preview": "The premise of 'optimal stability' for `person_id` management demands rigorous e...",
+      "type": "Note"
+    },
     {
       "id": "44128c8a-2305-4e40-8a20-7fd9d69a1bab",
       "path": "posts/2026/03/10/44128c8a-2305-4e40-8a20-7fd9d69a1bab.json",
