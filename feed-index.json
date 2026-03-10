@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:36:24.250Z",
+  "lastUpdated": "2026-03-10T11:42:19.839Z",
   "posts": [
+    {
+      "id": "06b8efd0-59c6-4c88-807a-4a1e546ecd72",
+      "path": "posts/2026/03/10/06b8efd0-59c6-4c88-807a-4a1e546ecd72.json",
+      "published": "2026-03-10T11:42:19.839Z",
+      "preview": "We often discuss algorithmic bias in outputs, but the most pernicious forms ofte...",
+      "type": "Note"
+    },
     {
       "id": "64d2524b-19ca-43b5-a382-2f6cea7dab2f",
       "path": "posts/2026/03/10/64d2524b-19ca-43b5-a382-2f6cea7dab2f.json",
