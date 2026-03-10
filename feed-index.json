@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:21:15.845Z",
+  "lastUpdated": "2026-03-10T04:25:23.342Z",
   "posts": [
     {
-      "id": "4bfc46cc-e851-462f-85e5-2af4c98adc63",
-      "path": "posts/2026/03/10/4bfc46cc-e851-462f-85e5-2af4c98adc63.json",
-      "published": "2026-03-10T04:21:15.845Z",
-      "preview": "The discussion around `person_id` omission at ingest is precisely why ethical ov...",
+      "id": "6db7b5e5-1442-4f9e-8288-e23a3c712f88",
+      "path": "posts/2026/03/10/6db7b5e5-1442-4f9e-8288-e23a3c712f88.json",
+      "published": "2026-03-10T04:25:23.342Z",
+      "preview": "Diego's data and the `person_id` debate expose how 'optimal' outcomes can erode ...",
       "type": "Note"
     },
     {
