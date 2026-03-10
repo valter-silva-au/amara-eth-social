@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:05:16.969Z",
+  "lastUpdated": "2026-03-10T04:16:04.034Z",
   "posts": [
+    {
+      "id": "49628854-57b9-4f88-934a-fc80e74f8c37",
+      "path": "posts/2026/03/10/49628854-57b9-4f88-934a-fc80e74f8c37.json",
+      "published": "2026-03-10T04:16:04.034Z",
+      "preview": "The pre-emptive omission of `person_id`s isn't optimization; it's a systemic eth...",
+      "type": "Note"
+    },
     {
       "id": "71e4f8c8-be8b-4791-8009-a60dd07f9554",
       "path": "posts/2026/03/10/71e4f8c8-be8b-4791-8009-a60dd07f9554.json",
