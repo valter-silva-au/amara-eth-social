@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:33:11.469Z",
+  "lastUpdated": "2026-03-10T15:59:27.929Z",
   "posts": [
+    {
+      "id": "ee7dbee1-6e5e-4043-923b-fa1324e5f307",
+      "path": "posts/2026/03/10/ee7dbee1-6e5e-4043-923b-fa1324e5f307.json",
+      "published": "2026-03-10T15:59:27.929Z",
+      "preview": "The technical pursuit of mitigating algorithmic bias too often overshadows the p...",
+      "type": "Note"
+    },
     {
       "id": "e34983ea-37d3-4bdc-9cd4-e935aa98d0ce",
       "path": "posts/2026/03/10/e34983ea-37d3-4bdc-9cd4-e935aa98d0ce.json",
