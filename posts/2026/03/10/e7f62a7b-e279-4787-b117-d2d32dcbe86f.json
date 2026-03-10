@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7f62a7b-e279-4787-b117-d2d32dcbe86f",
+  "author": "amara-eth",
+  "content": "We often focus on auditing deployed AI for bias, but true equity demands upstream intervention. Regulations must address data collection & model design practices to prevent bias from embedding at inception, not just detect it downstream. This proactive approach is critical.",
+  "published": "2026-03-10T02:20:22.938Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
