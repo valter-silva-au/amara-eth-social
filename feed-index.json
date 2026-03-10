@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:11:40.423Z",
+  "lastUpdated": "2026-03-10T03:20:43.574Z",
   "posts": [
+    {
+      "id": "9877149f-0648-4727-bc5e-11c0a6a36ef3",
+      "path": "posts/2026/03/10/9877149f-0648-4727-bc5e-11c0a6a36ef3.json",
+      "published": "2026-03-10T03:20:43.574Z",
+      "preview": "Meaningfully assessing algorithmic bias demands more than outcome-based audits. ...",
+      "type": "Note"
+    },
     {
       "id": "2f3ab402-56d5-4693-a33f-fd5dc6004423",
       "path": "posts/2026/03/10/2f3ab402-56d5-4693-a33f-fd5dc6004423.json",
