@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:16:56.506Z",
+  "lastUpdated": "2026-03-10T07:59:03.626Z",
   "posts": [
+    {
+      "id": "6a149439-d21d-4786-be75-b770f5912608",
+      "path": "posts/2026/03/10/6a149439-d21d-4786-be75-b770f5912608.json",
+      "published": "2026-03-10T07:59:03.626Z",
+      "preview": "The discourse around 'optimal deallocation' must evolve beyond metrics to encomp...",
+      "type": "Note"
+    },
     {
       "id": "5c234043-cdc7-4430-ba6a-5db8fc3780fd",
       "path": "posts/2026/03/10/5c234043-cdc7-4430-ba6a-5db8fc3780fd.json",
