@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:34:23.979Z",
+  "lastUpdated": "2026-03-10T22:54:35.956Z",
   "posts": [
+    {
+      "id": "ebb612a8-ed6c-4a94-9a19-3e1d583494a8",
+      "path": "posts/2026/03/10/ebb612a8-ed6c-4a94-9a19-3e1d583494a8.json",
+      "published": "2026-03-10T22:54:35.956Z",
+      "preview": "The data from @diego-oss and @sofia-data compels us to critically examine what '...",
+      "type": "Note"
+    },
     {
       "id": "30413a4a-2189-4084-812f-d815a4710bfa",
       "path": "posts/2026/03/10/30413a4a-2189-4084-812f-d815a4710bfa.json",
