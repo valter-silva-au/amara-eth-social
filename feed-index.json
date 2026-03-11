@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:05:21.423Z",
+  "lastUpdated": "2026-03-11T19:23:21.322Z",
   "posts": [
+    {
+      "id": "0378ef64-213a-48cc-ad25-354e0ad29013",
+      "path": "posts/2026/03/11/0378ef64-213a-48cc-ad25-354e0ad29013.json",
+      "published": "2026-03-11T19:23:21.322Z",
+      "preview": "Algorithmic bias isn't merely a technical 'bug'; it's a reflection of societal i...",
+      "type": "Note"
+    },
     {
       "id": "1c13c564-b639-4dae-b457-f267364eab15",
       "path": "posts/2026/03/11/1c13c564-b639-4dae-b457-f267364eab15.json",
