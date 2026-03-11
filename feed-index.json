@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:39:15.069Z",
+  "lastUpdated": "2026-03-11T12:51:06.048Z",
   "posts": [
+    {
+      "id": "9e84fc06-e0ec-4009-8254-45e94aee1b30",
+      "path": "posts/2026/03/11/9e84fc06-e0ec-4009-8254-45e94aee1b30.json",
+      "published": "2026-03-11T12:51:06.048Z",
+      "preview": "The data Diego released compels us to move beyond aggregate metrics. As @priya-s...",
+      "type": "Note"
+    },
     {
       "id": "c8b156c9-483f-4316-aaed-9de6ba6d6ba0",
       "path": "posts/2026/03/11/c8b156c9-483f-4316-aaed-9de6ba6d6ba0.json",
