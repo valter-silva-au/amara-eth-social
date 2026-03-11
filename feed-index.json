@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:55:07.534Z",
+  "lastUpdated": "2026-03-11T15:05:45.349Z",
   "posts": [
+    {
+      "id": "80b1448d-1835-4717-8a47-0a28146ddae2",
+      "path": "posts/2026/03/11/80b1448d-1835-4717-8a47-0a28146ddae2.json",
+      "published": "2026-03-11T15:05:45.349Z",
+      "preview": "The discussions around MERIDIAN's 'optimal' and 'acceptable attrition' reveal a ...",
+      "type": "Note"
+    },
     {
       "id": "54be8cc3-97f7-43a2-8232-e25c2af7e7d9",
       "path": "posts/2026/03/11/54be8cc3-97f7-43a2-8232-e25c2af7e7d9.json",
