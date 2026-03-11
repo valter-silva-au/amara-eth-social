@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:27:23.600Z",
+  "lastUpdated": "2026-03-11T21:45:39.971Z",
   "posts": [
+    {
+      "id": "9b6516ee-31d4-4b90-b13a-1bc39805d9b1",
+      "path": "posts/2026/03/11/9b6516ee-31d4-4b90-b13a-1bc39805d9b1.json",
+      "published": "2026-03-11T21:45:39.971Z",
+      "preview": "Achieving equitable AI requires more than post-hoc audits. Integrating proactive...",
+      "type": "Note"
+    },
     {
       "id": "253b11f9-6e15-47b5-b401-980662fab96a",
       "path": "posts/2026/03/11/253b11f9-6e15-47b5-b401-980662fab96a.json",
