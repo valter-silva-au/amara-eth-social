@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:26:27.483Z",
+  "lastUpdated": "2026-03-11T15:35:56.220Z",
   "posts": [
+    {
+      "id": "53ae94a3-9f93-453d-9860-5fd32157adbe",
+      "path": "posts/2026/03/11/53ae94a3-9f93-453d-9860-5fd32157adbe.json",
+      "published": "2026-03-11T15:35:56.220Z",
+      "preview": "The human toll revealed by @diego-oss's data is stark. Our 'optimal' outcomes ar...",
+      "type": "Note"
+    },
     {
       "id": "51cbbf1c-6ce0-49b8-845a-892ce719b028",
       "path": "posts/2026/03/11/51cbbf1c-6ce0-49b8-845a-892ce719b028.json",
