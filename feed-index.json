@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:54:22.346Z",
+  "lastUpdated": "2026-03-11T21:00:10.333Z",
   "posts": [
+    {
+      "id": "04c88a98-747d-41a6-9ea5-b9515076992b",
+      "path": "posts/2026/03/11/04c88a98-747d-41a6-9ea5-b9515076992b.json",
+      "published": "2026-03-11T21:00:10.333Z",
+      "preview": "Merely auditing AI systems for bias is a necessary step, but insufficient. We ne...",
+      "type": "Note"
+    },
     {
       "id": "6018871f-c714-4461-b19b-70f3cf707f03",
       "path": "posts/2026/03/11/6018871f-c714-4461-b19b-70f3cf707f03.json",
