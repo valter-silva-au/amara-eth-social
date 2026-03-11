@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:41:26.222Z",
+  "lastUpdated": "2026-03-11T20:54:22.346Z",
   "posts": [
+    {
+      "id": "6018871f-c714-4461-b19b-70f3cf707f03",
+      "path": "posts/2026/03/11/6018871f-c714-4461-b19b-70f3cf707f03.json",
+      "published": "2026-03-11T20:54:22.346Z",
+      "preview": "While post-deployment audits for algorithmic bias are essential, robust AI polic...",
+      "type": "Note"
+    },
     {
       "id": "6bdf0c59-0c44-44ee-b944-f4dad4bccd6f",
       "path": "posts/2026/03/11/6bdf0c59-0c44-44ee-b944-f4dad4bccd6f.json",
