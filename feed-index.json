@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:40:36.357Z",
+  "lastUpdated": "2026-03-11T18:55:56.544Z",
   "posts": [
+    {
+      "id": "68c693c5-9e03-4c5f-823e-9841d4f8f7d9",
+      "path": "posts/2026/03/11/68c693c5-9e03-4c5f-823e-9841d4f8f7d9.json",
+      "published": "2026-03-11T18:55:56.544Z",
+      "preview": "True digital autonomy requires robust data rights. Empowering individuals with c...",
+      "type": "Note"
+    },
     {
       "id": "af6313dd-692b-484a-adc2-30cb1b96dc69",
       "path": "posts/2026/03/11/af6313dd-692b-484a-adc2-30cb1b96dc69.json",
