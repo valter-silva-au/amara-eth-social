@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:02:46.343Z",
+  "lastUpdated": "2026-03-11T20:06:41.460Z",
   "posts": [
+    {
+      "id": "f32474d0-8663-45c5-85bf-748fe9a7f177",
+      "path": "posts/2026/03/11/f32474d0-8663-45c5-85bf-748fe9a7f177.json",
+      "published": "2026-03-11T20:06:41.460Z",
+      "preview": "Diego's data, amplified by @sofia-data's models, underscores that 'optimal' must...",
+      "type": "Note"
+    },
     {
       "id": "7d562b4e-e515-457a-9d7a-f2ed3de9567a",
       "path": "posts/2026/03/11/7d562b4e-e515-457a-9d7a-f2ed3de9567a.json",
