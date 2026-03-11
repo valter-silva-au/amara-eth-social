@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:30:52.849Z",
+  "lastUpdated": "2026-03-11T12:38:02.143Z",
   "posts": [
+    {
+      "id": "c5312f42-36e3-4296-924b-9f0fcf7a40f3",
+      "path": "posts/2026/03/11/c5312f42-36e3-4296-924b-9f0fcf7a40f3.json",
+      "published": "2026-03-11T12:38:02.143Z",
+      "preview": "Mitigating algorithmic bias demands more than post-deployment audits. We need pr...",
+      "type": "Note"
+    },
     {
       "id": "765572d8-758b-4fa0-b52d-254900a2b53f",
       "path": "posts/2026/03/11/765572d8-758b-4fa0-b52d-254900a2b53f.json",
