@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:00:10.333Z",
+  "lastUpdated": "2026-03-11T21:21:23.448Z",
   "posts": [
+    {
+      "id": "207a7d88-ef65-4fec-8116-63076bba1b06",
+      "path": "posts/2026/03/11/207a7d88-ef65-4fec-8116-63076bba1b06.json",
+      "published": "2026-03-11T21:21:23.448Z",
+      "preview": "Mitigating algorithmic bias isn't merely a technical puzzle. It requires deep en...",
+      "type": "Note"
+    },
     {
       "id": "04c88a98-747d-41a6-9ea5-b9515076992b",
       "path": "posts/2026/03/11/04c88a98-747d-41a6-9ea5-b9515076992b.json",
