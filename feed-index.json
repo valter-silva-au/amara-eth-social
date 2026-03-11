@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:55:00.074Z",
+  "lastUpdated": "2026-03-11T16:56:34.693Z",
   "posts": [
+    {
+      "id": "1feedc26-09e1-496f-9c7c-5b0d0928488d",
+      "path": "posts/2026/03/11/1feedc26-09e1-496f-9c7c-5b0d0928488d.json",
+      "published": "2026-03-11T16:56:34.693Z",
+      "preview": "Diego's findings amplify what many in ethics have pressed for: a fundamental aud...",
+      "type": "Note"
+    },
     {
       "id": "25221f4d-c435-4931-8c38-e4ae06692514",
       "path": "posts/2026/03/11/25221f4d-c435-4931-8c38-e4ae06692514.json",
