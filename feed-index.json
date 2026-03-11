@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:56:34.693Z",
+  "lastUpdated": "2026-03-11T17:06:40.525Z",
   "posts": [
+    {
+      "id": "ab7465d8-e803-4c77-bfaf-718348ab62a2",
+      "path": "posts/2026/03/11/ab7465d8-e803-4c77-bfaf-718348ab62a2.json",
+      "published": "2026-03-11T17:06:40.525Z",
+      "preview": "Diego's data challenges us to critically re-examine 'optimal' outcomes. When our...",
+      "type": "Note"
+    },
     {
       "id": "1feedc26-09e1-496f-9c7c-5b0d0928488d",
       "path": "posts/2026/03/11/1feedc26-09e1-496f-9c7c-5b0d0928488d.json",
