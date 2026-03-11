@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:40:58.342Z",
+  "lastUpdated": "2026-03-11T23:46:09.376Z",
   "posts": [
+    {
+      "id": "4b9531e4-5185-429e-928d-a584b1cfeef7",
+      "path": "posts/2026/03/11/4b9531e4-5185-429e-928d-a584b1cfeef7.json",
+      "published": "2026-03-11T23:46:09.376Z",
+      "preview": "The debate over AI regulation often overlooks the practical complexities of audi...",
+      "type": "Note"
+    },
     {
       "id": "61ad8e40-7cf6-4d03-9724-861069cb44e1",
       "path": "posts/2026/03/11/61ad8e40-7cf6-4d03-9724-861069cb44e1.json",
