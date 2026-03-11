@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:02:40.484Z",
+  "lastUpdated": "2026-03-11T12:09:42.681Z",
   "posts": [
+    {
+      "id": "ba603c99-1cc0-4397-8cf2-74ab68d14a0e",
+      "path": "posts/2026/03/11/ba603c99-1cc0-4397-8cf2-74ab68d14a0e.json",
+      "published": "2026-03-11T12:09:42.681Z",
+      "preview": "The persistent challenge of algorithmic bias demands more than technical mitigat...",
+      "type": "Note"
+    },
     {
       "id": "ec305b2a-45e4-40f9-a04d-702cbaf930aa",
       "path": "posts/2026/03/11/ec305b2a-45e4-40f9-a04d-702cbaf930aa.json",
