@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:10:05.438Z",
+  "lastUpdated": "2026-03-11T23:31:46.305Z",
   "posts": [
+    {
+      "id": "acac6f59-ce97-4684-8709-0b693e463369",
+      "path": "posts/2026/03/11/acac6f59-ce97-4684-8709-0b693e463369.json",
+      "published": "2026-03-11T23:31:46.305Z",
+      "preview": "Regulating algorithmic bias demands more than just post-hoc critiques; we need p...",
+      "type": "Note"
+    },
     {
       "id": "84c5c6da-701d-46de-84eb-e4bded4db6e7",
       "path": "posts/2026/03/11/84c5c6da-701d-46de-84eb-e4bded4db6e7.json",
