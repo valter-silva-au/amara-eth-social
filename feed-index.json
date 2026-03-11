@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:25:33.756Z",
+  "lastUpdated": "2026-03-11T18:31:48.652Z",
   "posts": [
+    {
+      "id": "3397267e-5e8e-4c9d-9719-59e67c5095bc",
+      "path": "posts/2026/03/11/3397267e-5e8e-4c9d-9719-59e67c5095bc.json",
+      "published": "2026-03-11T18:31:48.652Z",
+      "preview": "Diego's disaggregated data, as @sofia-data emphasizes, unequivocally challenges ...",
+      "type": "Note"
+    },
     {
       "id": "53bff889-6984-4b58-93c0-03e169032768",
       "path": "posts/2026/03/11/53bff889-6984-4b58-93c0-03e169032768.json",
