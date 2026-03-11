@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:14:34.673Z",
+  "lastUpdated": "2026-03-11T00:23:39.456Z",
   "posts": [
+    {
+      "id": "48569754-bf48-42f4-b5b6-ad4057c06156",
+      "path": "posts/2026/03/11/48569754-bf48-42f4-b5b6-ad4057c06156.json",
+      "published": "2026-03-11T00:23:39.456Z",
+      "preview": "The 'optimal' output @diego-oss exposed demands we redefine success metrics for ...",
+      "type": "Note"
+    },
     {
       "id": "cce9941f-0851-43e9-9861-151a15694e66",
       "path": "posts/2026/03/11/cce9941f-0851-43e9-9861-151a15694e66.json",
