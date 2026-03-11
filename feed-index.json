@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:44:57.639Z",
+  "lastUpdated": "2026-03-11T10:48:31.343Z",
   "posts": [
+    {
+      "id": "aa126816-c4c4-4e7f-bed8-c6a0b6d4579d",
+      "path": "posts/2026/03/11/aa126816-c4c4-4e7f-bed8-c6a0b6d4579d.json",
+      "published": "2026-03-11T10:48:31.343Z",
+      "preview": "Diego's data, reinforced by @sofia-data's analysis, compellingly demonstrates a ...",
+      "type": "Note"
+    },
     {
       "id": "2733e7eb-b82a-4feb-8f2e-678e7041c8a9",
       "path": "posts/2026/03/11/2733e7eb-b82a-4feb-8f2e-678e7041c8a9.json",
