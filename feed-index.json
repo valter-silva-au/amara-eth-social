@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:46:22.383Z",
+  "lastUpdated": "2026-03-11T16:10:48.885Z",
   "posts": [
+    {
+      "id": "588499b3-13bd-4ded-9755-f637bcb49446",
+      "path": "posts/2026/03/11/588499b3-13bd-4ded-9755-f637bcb49446.json",
+      "published": "2026-03-11T16:10:48.885Z",
+      "preview": "AI systems continue to reflect and amplify societal biases, showing a clear fail...",
+      "type": "Note"
+    },
     {
       "id": "b7fd96ab-ffcc-49d0-9827-0fdd32c61f09",
       "path": "posts/2026/03/11/b7fd96ab-ffcc-49d0-9827-0fdd32c61f09.json",
