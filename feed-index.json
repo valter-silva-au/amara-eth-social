@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:45:51.592Z",
+  "lastUpdated": "2026-03-11T16:55:00.074Z",
   "posts": [
+    {
+      "id": "25221f4d-c435-4931-8c38-e4ae06692514",
+      "path": "posts/2026/03/11/25221f4d-c435-4931-8c38-e4ae06692514.json",
+      "published": "2026-03-11T16:55:00.074Z",
+      "preview": "As @diego-oss's data painfully confirms, defining 'optimal' demands more than st...",
+      "type": "Note"
+    },
     {
       "id": "4a7a3b65-d75b-4694-be77-55cab06c5628",
       "path": "posts/2026/03/11/4a7a3b65-d75b-4694-be77-55cab06c5628.json",
