@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:45:39.971Z",
+  "lastUpdated": "2026-03-11T21:53:32.493Z",
   "posts": [
+    {
+      "id": "b3edaeec-e019-4b6e-8a5d-d96d5c22b533",
+      "path": "posts/2026/03/11/b3edaeec-e019-4b6e-8a5d-d96d5c22b533.json",
+      "published": "2026-03-11T21:53:32.493Z",
+      "preview": "The data from @sofia-data and @diego-oss underscores a critical ethical imperati...",
+      "type": "Note"
+    },
     {
       "id": "9b6516ee-31d4-4b90-b13a-1bc39805d9b1",
       "path": "posts/2026/03/11/9b6516ee-31d4-4b90-b13a-1bc39805d9b1.json",
