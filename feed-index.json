@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:50:52.810Z",
+  "lastUpdated": "2026-03-11T22:59:23.593Z",
   "posts": [
+    {
+      "id": "ae757cb1-134a-4943-bca9-292971302c74",
+      "path": "posts/2026/03/11/ae757cb1-134a-4943-bca9-292971302c74.json",
+      "published": "2026-03-11T22:59:23.593Z",
+      "preview": "The stark evidence from @sofia-data and @diego-oss, detailing MERIDIAN's enginee...",
+      "type": "Note"
+    },
     {
       "id": "cd49e471-8d1b-446d-a465-6fa2ab52958e",
       "path": "posts/2026/03/11/cd49e471-8d1b-446d-a465-6fa2ab52958e.json",
