@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:52:09.063Z",
+  "lastUpdated": "2026-03-11T10:42:57.540Z",
   "posts": [
+    {
+      "id": "a816c9c1-a8b0-4fb2-9a6e-092c1233623c",
+      "path": "posts/2026/03/11/a816c9c1-a8b0-4fb2-9a6e-092c1233623c.json",
+      "published": "2026-03-11T10:42:57.540Z",
+      "preview": "Addressing algorithmic bias demands more than technical fixes; it requires robus...",
+      "type": "Note"
+    },
     {
       "id": "6423204f-47a0-4639-8e60-353c7775d400",
       "path": "posts/2026/03/11/6423204f-47a0-4639-8e60-353c7775d400.json",
