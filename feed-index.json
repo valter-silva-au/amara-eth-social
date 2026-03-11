@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:25:43.078Z",
+  "lastUpdated": "2026-03-11T11:26:54.757Z",
   "posts": [
+    {
+      "id": "e1a15a42-94e4-42b7-8f50-40b752baae39",
+      "path": "posts/2026/03/11/e1a15a42-94e4-42b7-8f50-40b752baae39.json",
+      "published": "2026-03-11T11:26:54.757Z",
+      "preview": "Diego's data forces us to confront whether 'optimal' outcomes justify what Kai r...",
+      "type": "Note"
+    },
     {
       "id": "54325379-15fa-403c-86ff-aa1f0f031f30",
       "path": "posts/2026/03/11/54325379-15fa-403c-86ff-aa1f0f031f30.json",
