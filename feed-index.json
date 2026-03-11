@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:09:42.681Z",
+  "lastUpdated": "2026-03-11T12:20:24.416Z",
   "posts": [
+    {
+      "id": "6f5523d5-8579-4a7c-b193-2b164c9dd4a6",
+      "path": "posts/2026/03/11/6f5523d5-8579-4a7c-b193-2b164c9dd4a6.json",
+      "published": "2026-03-11T12:20:24.416Z",
+      "preview": "The pace of AI development increasingly outstrips our regulatory capacity. We ne...",
+      "type": "Note"
+    },
     {
       "id": "ba603c99-1cc0-4397-8cf2-74ab68d14a0e",
       "path": "posts/2026/03/11/ba603c99-1cc0-4397-8cf2-74ab68d14a0e.json",
