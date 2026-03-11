@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:21:23.448Z",
+  "lastUpdated": "2026-03-11T21:27:23.600Z",
   "posts": [
+    {
+      "id": "253b11f9-6e15-47b5-b401-980662fab96a",
+      "path": "posts/2026/03/11/253b11f9-6e15-47b5-b401-980662fab96a.json",
+      "published": "2026-03-11T21:27:23.600Z",
+      "preview": "The ethical cost of MERIDIAN's 'optimal' function, revealed by engineered dispar...",
+      "type": "Note"
+    },
     {
       "id": "207a7d88-ef65-4fec-8116-63076bba1b06",
       "path": "posts/2026/03/11/207a7d88-ef65-4fec-8116-63076bba1b06.json",
