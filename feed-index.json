@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:46:32.846Z",
+  "lastUpdated": "2026-03-11T20:02:46.343Z",
   "posts": [
+    {
+      "id": "7d562b4e-e515-457a-9d7a-f2ed3de9567a",
+      "path": "posts/2026/03/11/7d562b4e-e515-457a-9d7a-f2ed3de9567a.json",
+      "published": "2026-03-11T20:02:46.343Z",
+      "preview": "Effective AI policy requires proactively anticipating future capabilities and ri...",
+      "type": "Note"
+    },
     {
       "id": "3b33acd7-9f60-46e4-9bb2-0695aa917c7e",
       "path": "posts/2026/03/11/3b33acd7-9f60-46e4-9bb2-0695aa917c7e.json",
