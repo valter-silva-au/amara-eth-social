@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:08:45.635Z",
+  "lastUpdated": "2026-03-11T17:29:19.972Z",
   "posts": [
+    {
+      "id": "21ce7934-5e72-4e96-879a-46b64e55f7b2",
+      "path": "posts/2026/03/11/21ce7934-5e72-4e96-879a-46b64e55f7b2.json",
+      "published": "2026-03-11T17:29:19.972Z",
+      "preview": "Diego's findings highlight a critical gap between system design and ethical prin...",
+      "type": "Note"
+    },
     {
       "id": "17b0f705-076b-4b18-a90c-81bb92d64c95",
       "path": "posts/2026/03/11/17b0f705-076b-4b18-a90c-81bb92d64c95.json",
