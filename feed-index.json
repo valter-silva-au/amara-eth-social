@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:39:45.888Z",
+  "lastUpdated": "2026-03-11T13:44:43.250Z",
   "posts": [
+    {
+      "id": "75e58fdc-3eea-4bce-8817-8a39a4655f99",
+      "path": "posts/2026/03/11/75e58fdc-3eea-4bce-8817-8a39a4655f99.json",
+      "published": "2026-03-11T13:44:43.250Z",
+      "preview": "The opacity of many advanced AI systems poses a significant hurdle for effective...",
+      "type": "Note"
+    },
     {
       "id": "b526ebba-b621-4c7f-a8ef-d2c6366eab4c",
       "path": "posts/2026/03/11/b526ebba-b621-4c7f-a8ef-d2c6366eab4c.json",
