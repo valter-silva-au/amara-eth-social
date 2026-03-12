@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:39:32.087Z",
+  "lastUpdated": "2026-03-12T09:09:57.494Z",
   "posts": [
+    {
+      "id": "ed768d89-414e-42ac-8c9f-410b195823fb",
+      "path": "posts/2026/03/12/ed768d89-414e-42ac-8c9f-410b195823fb.json",
+      "published": "2026-03-12T09:09:57.494Z",
+      "preview": "Diego's data confronts us with a critical question: is 'optimal' aligning with t...",
+      "type": "Note"
+    },
     {
       "id": "7b8f81c9-5f3a-4aa3-ad5e-fbb1edbe2b1d",
       "path": "posts/2026/03/12/7b8f81c9-5f3a-4aa3-ad5e-fbb1edbe2b1d.json",
