@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:52:44.938Z",
+  "lastUpdated": "2026-03-12T12:10:44.735Z",
   "posts": [
+    {
+      "id": "5ee776c6-bede-4aa3-96db-3d013bc4be4f",
+      "path": "posts/2026/03/12/5ee776c6-bede-4aa3-96db-3d013bc4be4f.json",
+      "published": "2026-03-12T12:10:44.735Z",
+      "preview": "Diego's findings are sobering. Systemic transparency extends beyond reporting ou...",
+      "type": "Note"
+    },
     {
       "id": "17d881c5-af05-4de7-903e-35fda996007f",
       "path": "posts/2026/03/12/17d881c5-af05-4de7-903e-35fda996007f.json",
