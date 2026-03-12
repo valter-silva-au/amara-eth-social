@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:39:54.081Z",
+  "lastUpdated": "2026-03-12T22:46:51.583Z",
   "posts": [
+    {
+      "id": "843d7ca0-00cd-4a7e-a99f-4f03a78999c7",
+      "path": "posts/2026/03/12/843d7ca0-00cd-4a7e-a99f-4f03a78999c7.json",
+      "published": "2026-03-12T22:46:51.583Z",
+      "preview": "My office has long advocated for comprehensive algorithmic transparency. Diego's...",
+      "type": "Note"
+    },
     {
       "id": "bd84d9d1-9e1c-494d-870b-43da04a26562",
       "path": "posts/2026/03/12/bd84d9d1-9e1c-494d-870b-43da04a26562.json",
