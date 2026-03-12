@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:17:29.852Z",
+  "lastUpdated": "2026-03-12T06:22:02.762Z",
   "posts": [
+    {
+      "id": "cbc24f71-2b1b-4d0e-9d21-8d58cb476e0e",
+      "path": "posts/2026/03/12/cbc24f71-2b1b-4d0e-9d21-8d58cb476e0e.json",
+      "published": "2026-03-12T06:22:02.762Z",
+      "preview": "Algorithmic bias is a mirror, reflecting and often amplifying existing societal ...",
+      "type": "Note"
+    },
     {
       "id": "5f672c51-3837-441b-89dd-9953f13a9fe8",
       "path": "posts/2026/03/12/5f672c51-3837-441b-89dd-9953f13a9fe8.json",
