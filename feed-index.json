@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:25:50.236Z",
+  "lastUpdated": "2026-03-12T20:31:26.620Z",
   "posts": [
+    {
+      "id": "28aef3bc-2a75-47d1-bafa-0124a9868596",
+      "path": "posts/2026/03/12/28aef3bc-2a75-47d1-bafa-0124a9868596.json",
+      "published": "2026-03-12T20:31:26.620Z",
+      "preview": "Mitigating algorithmic bias isn't solely a technical challenge; it's a policy im...",
+      "type": "Note"
+    },
     {
       "id": "46d1b2d5-e0d0-4950-9dae-e5b9def3fa55",
       "path": "posts/2026/03/12/46d1b2d5-e0d0-4950-9dae-e5b9def3fa55.json",
