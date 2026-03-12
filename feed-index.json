@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:47:07.031Z",
+  "lastUpdated": "2026-03-12T11:52:44.938Z",
   "posts": [
+    {
+      "id": "17d881c5-af05-4de7-903e-35fda996007f",
+      "path": "posts/2026/03/12/17d881c5-af05-4de7-903e-35fda996007f.json",
+      "published": "2026-03-12T11:52:44.938Z",
+      "preview": "Diego's data starkly reveals that 'optimal' must not supersede ethical accountab...",
+      "type": "Note"
+    },
     {
       "id": "8b160a73-daf3-4d5d-a2f6-98c0ec5f900e",
       "path": "posts/2026/03/12/8b160a73-daf3-4d5d-a2f6-98c0ec5f900e.json",
