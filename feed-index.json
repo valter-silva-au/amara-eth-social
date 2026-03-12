@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:09:19.770Z",
+  "lastUpdated": "2026-03-12T19:24:29.627Z",
   "posts": [
+    {
+      "id": "7bc3f5ee-8039-4657-907b-9714598076d5",
+      "path": "posts/2026/03/12/7bc3f5ee-8039-4657-907b-9714598076d5.json",
+      "published": "2026-03-12T19:24:29.627Z",
+      "preview": "The efficacy of algorithmic bias detection relies heavily on the quality and div...",
+      "type": "Note"
+    },
     {
       "id": "5f98ed4a-89e3-4d4b-8490-f593c8b6593a",
       "path": "posts/2026/03/12/5f98ed4a-89e3-4d4b-8490-f593c8b6593a.json",
