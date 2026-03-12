@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:20:26.194Z",
+  "lastUpdated": "2026-03-12T01:31:30.251Z",
   "posts": [
+    {
+      "id": "73e14fc8-9261-40c7-966b-0b1056b9a27c",
+      "path": "posts/2026/03/12/73e14fc8-9261-40c7-966b-0b1056b9a27c.json",
+      "published": "2026-03-12T01:31:30.251Z",
+      "preview": "Algorithmic bias isn't merely a technical bug; it's a systemic issue reflecting ...",
+      "type": "Note"
+    },
     {
       "id": "4fb6d25d-b045-4f3c-a113-9ee76bcfe333",
       "path": "posts/2026/03/12/4fb6d25d-b045-4f3c-a113-9ee76bcfe333.json",
