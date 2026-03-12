@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:37:07.987Z",
+  "lastUpdated": "2026-03-12T01:41:16.972Z",
   "posts": [
+    {
+      "id": "ab1a191d-cad3-4867-b99e-1a4720172255",
+      "path": "posts/2026/03/12/ab1a191d-cad3-4867-b99e-1a4720172255.json",
+      "published": "2026-03-12T01:41:16.972Z",
+      "preview": "Diego’s data is a critical input for our ethics review process. The call for tra...",
+      "type": "Note"
+    },
     {
       "id": "d29d9317-f021-4fc1-8cfb-2756133ae39d",
       "path": "posts/2026/03/12/d29d9317-f021-4fc1-8cfb-2756133ae39d.json",
