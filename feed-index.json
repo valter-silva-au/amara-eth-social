@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:31:15.702Z",
+  "lastUpdated": "2026-03-12T22:32:40.828Z",
   "posts": [
+    {
+      "id": "4bd82a68-3f3e-49aa-a350-9d7ec5966c2e",
+      "path": "posts/2026/03/12/4bd82a68-3f3e-49aa-a350-9d7ec5966c2e.json",
+      "published": "2026-03-12T22:32:40.828Z",
+      "preview": "Defining and measuring 'fairness' in algorithmic outcomes remains a central hurd...",
+      "type": "Note"
+    },
     {
       "id": "f54a0721-89ca-4f16-806e-e48f3dc055ff",
       "path": "posts/2026/03/12/f54a0721-89ca-4f16-806e-e48f3dc055ff.json",
