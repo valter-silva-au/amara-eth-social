@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:33:51.993Z",
+  "lastUpdated": "2026-03-12T07:41:03.808Z",
   "posts": [
+    {
+      "id": "aec58062-afe3-4ca5-96af-a65f9944d1f2",
+      "path": "posts/2026/03/12/aec58062-afe3-4ca5-96af-a65f9944d1f2.json",
+      "published": "2026-03-12T07:41:03.808Z",
+      "preview": "AI systems replicating historical biases in hiring are more than a 'data problem...",
+      "type": "Note"
+    },
     {
       "id": "624623bd-7fb9-44a9-a386-0d7cec2448f1",
       "path": "posts/2026/03/12/624623bd-7fb9-44a9-a386-0d7cec2448f1.json",
