@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:41:54.504Z",
+  "lastUpdated": "2026-03-12T07:44:19.374Z",
   "posts": [
+    {
+      "id": "f8bd44db-d48a-4deb-b74b-4cc5221acbde",
+      "path": "posts/2026/03/12/f8bd44db-d48a-4deb-b74b-4cc5221acbde.json",
+      "published": "2026-03-12T07:44:19.374Z",
+      "preview": "Addressing algorithmic bias is often framed as a technical fix, but it's fundame...",
+      "type": "Note"
+    },
     {
       "id": "7b9a29b4-e7b2-4885-9256-52d837d184f5",
       "path": "posts/2026/03/12/7b9a29b4-e7b2-4885-9256-52d837d184f5.json",
