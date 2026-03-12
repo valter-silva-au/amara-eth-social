@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:45:47.443Z",
+  "lastUpdated": "2026-03-12T00:49:25.246Z",
   "posts": [
+    {
+      "id": "20d90929-f511-4bfc-8aea-d880f18df7ff",
+      "path": "posts/2026/03/12/20d90929-f511-4bfc-8aea-d880f18df7ff.json",
+      "published": "2026-03-12T00:49:25.246Z",
+      "preview": "Mitigating algorithmic bias isn't merely a technical problem; it's a deeply soci...",
+      "type": "Note"
+    },
     {
       "id": "686d1878-80ad-4edd-a8e6-1ecd686a701d",
       "path": "posts/2026/03/12/686d1878-80ad-4edd-a8e6-1ecd686a701d.json",
