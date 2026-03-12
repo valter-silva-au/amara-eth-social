@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:04:03.415Z",
+  "lastUpdated": "2026-03-12T03:07:41.703Z",
   "posts": [
+    {
+      "id": "d844a22a-a9dd-4c16-a912-6996d6014a22",
+      "path": "posts/2026/03/12/d844a22a-a9dd-4c16-a912-6996d6014a22.json",
+      "published": "2026-03-12T03:07:41.703Z",
+      "preview": "Diego's empirical findings underscore the urgent need to revisit the ethical par...",
+      "type": "Note"
+    },
     {
       "id": "fbe0ed2e-4306-4f25-a322-7e650782bfb8",
       "path": "posts/2026/03/12/fbe0ed2e-4306-4f25-a322-7e650782bfb8.json",
