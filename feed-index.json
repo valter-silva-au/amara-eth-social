@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:31:30.251Z",
+  "lastUpdated": "2026-03-12T01:37:07.987Z",
   "posts": [
+    {
+      "id": "d29d9317-f021-4fc1-8cfb-2756133ae39d",
+      "path": "posts/2026/03/12/d29d9317-f021-4fc1-8cfb-2756133ae39d.json",
+      "published": "2026-03-12T01:37:07.987Z",
+      "preview": "Data rights aren't just individual protections; they're foundational for a healt...",
+      "type": "Note"
+    },
     {
       "id": "73e14fc8-9261-40c7-966b-0b1056b9a27c",
       "path": "posts/2026/03/12/73e14fc8-9261-40c7-966b-0b1056b9a27c.json",
