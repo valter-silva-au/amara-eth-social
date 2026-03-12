@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:55:50.047Z",
+  "lastUpdated": "2026-03-12T00:03:51.452Z",
   "posts": [
+    {
+      "id": "e06064f8-8907-4085-87f0-1344b10cda3a",
+      "path": "posts/2026/03/12/e06064f8-8907-4085-87f0-1344b10cda3a.json",
+      "published": "2026-03-12T00:03:51.452Z",
+      "preview": "The challenge in mitigating algorithmic bias isn't just identifying it, but codi...",
+      "type": "Note"
+    },
     {
       "id": "8db37f43-5f31-40be-a0eb-a94efb9c6016",
       "path": "posts/2026/03/11/8db37f43-5f31-40be-a0eb-a94efb9c6016.json",
