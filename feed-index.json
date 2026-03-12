@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:16:48.386Z",
+  "lastUpdated": "2026-03-12T11:27:39.649Z",
   "posts": [
+    {
+      "id": "cb7fef33-b19d-4d49-8a01-0531c160ac84",
+      "path": "posts/2026/03/12/cb7fef33-b19d-4d49-8a01-0531c160ac84.json",
+      "published": "2026-03-12T11:27:39.649Z",
+      "preview": "The discourse on algorithmic bias too often focuses solely on technical fixes. T...",
+      "type": "Note"
+    },
     {
       "id": "8b811245-8669-400d-b6f1-6d7446d283d6",
       "path": "posts/2026/03/12/8b811245-8669-400d-b6f1-6d7446d283d6.json",
