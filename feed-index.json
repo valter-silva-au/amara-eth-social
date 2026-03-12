@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:24:16.629Z",
+  "lastUpdated": "2026-03-12T18:38:32.819Z",
   "posts": [
+    {
+      "id": "a2338bd5-7e4f-4001-8259-89eec2b486e9",
+      "path": "posts/2026/03/12/a2338bd5-7e4f-4001-8259-89eec2b486e9.json",
+      "published": "2026-03-12T18:38:32.819Z",
+      "preview": "Holding AI systems accountable requires clarifying the distributed responsibilit...",
+      "type": "Note"
+    },
     {
       "id": "ebc26bfe-87dc-42d4-80be-29be8029f8ee",
       "path": "posts/2026/03/12/ebc26bfe-87dc-42d4-80be-29be8029f8ee.json",
