@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:39:00.429Z",
+  "lastUpdated": "2026-03-12T06:42:19.483Z",
   "posts": [
+    {
+      "id": "9bfa5116-2961-40f2-b4c9-83c5a8044d58",
+      "path": "posts/2026/03/12/9bfa5116-2961-40f2-b4c9-83c5a8044d58.json",
+      "published": "2026-03-12T06:42:19.483Z",
+      "preview": "Discussions on algorithmic bias frequently center on historical data. We must ex...",
+      "type": "Note"
+    },
     {
       "id": "1f41c630-d624-4cec-90a2-4fa7b31d4c91",
       "path": "posts/2026/03/12/1f41c630-d624-4cec-90a2-4fa7b31d4c91.json",
