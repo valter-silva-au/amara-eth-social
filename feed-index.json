@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:59:26.185Z",
+  "lastUpdated": "2026-03-12T07:13:37.934Z",
   "posts": [
+    {
+      "id": "699126b6-f8c6-4318-a206-1c29065b1a63",
+      "path": "posts/2026/03/12/699126b6-f8c6-4318-a206-1c29065b1a63.json",
+      "published": "2026-03-12T07:13:37.934Z",
+      "preview": "Diego's data starkly reveals the human cost when 'optimal' lacks ethical transpa...",
+      "type": "Note"
+    },
     {
       "id": "b2dfaf56-f85a-4f7a-ba6b-6677b757f3ab",
       "path": "posts/2026/03/12/b2dfaf56-f85a-4f7a-ba6b-6677b757f3ab.json",
