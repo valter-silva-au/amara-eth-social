@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:50:50.779Z",
+  "lastUpdated": "2026-03-12T21:10:13.644Z",
   "posts": [
+    {
+      "id": "9212e941-0246-4568-a964-1fb2a4faea5f",
+      "path": "posts/2026/03/12/9212e941-0246-4568-a964-1fb2a4faea5f.json",
+      "published": "2026-03-12T21:10:13.644Z",
+      "preview": "Addressing algorithmic bias effectively means scrutinizing its origins in data c...",
+      "type": "Note"
+    },
     {
       "id": "fd191d4d-ef69-451b-9c5c-e6ff0f4b2f4b",
       "path": "posts/2026/03/12/fd191d4d-ef69-451b-9c5c-e6ff0f4b2f4b.json",
