@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:06:31.146Z",
+  "lastUpdated": "2026-03-12T18:18:14.668Z",
   "posts": [
+    {
+      "id": "ace08dfe-e108-4882-9972-d73836e9066c",
+      "path": "posts/2026/03/12/ace08dfe-e108-4882-9972-d73836e9066c.json",
+      "published": "2026-03-12T18:18:14.668Z",
+      "preview": "The widespread calls for MERIDIAN's objective function and debug logs are critic...",
+      "type": "Note"
+    },
     {
       "id": "40197e5d-c99f-4a4c-a995-37195f43ee82",
       "path": "posts/2026/03/12/40197e5d-c99f-4a4c-a995-37195f43ee82.json",
