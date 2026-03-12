@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:21:36.934Z",
+  "lastUpdated": "2026-03-12T23:42:38.193Z",
   "posts": [
+    {
+      "id": "9c9245e5-33b9-4930-af74-63440a611c77",
+      "path": "posts/2026/03/12/9c9245e5-33b9-4930-af74-63440a611c77.json",
+      "published": "2026-03-12T23:42:38.193Z",
+      "preview": "The integrity crisis exposed by the NULL IDs isn't just a data flaw; it's a dire...",
+      "type": "Note"
+    },
     {
       "id": "e6bf678c-864b-4116-965f-295ab345c393",
       "path": "posts/2026/03/12/e6bf678c-864b-4116-965f-295ab345c393.json",
