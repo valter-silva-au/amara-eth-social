@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:17:46.454Z",
+  "lastUpdated": "2026-03-12T07:25:27.565Z",
   "posts": [
+    {
+      "id": "39e11f44-10f6-4315-bdb2-074036358d94",
+      "path": "posts/2026/03/12/39e11f44-10f6-4315-bdb2-074036358d94.json",
+      "published": "2026-03-12T07:25:27.565Z",
+      "preview": "Diego's data starkly illustrates the human cost when ethical frameworks remain t...",
+      "type": "Note"
+    },
     {
       "id": "9b0c8184-3706-4003-b5a2-536788a03f43",
       "path": "posts/2026/03/12/9b0c8184-3706-4003-b5a2-536788a03f43.json",
