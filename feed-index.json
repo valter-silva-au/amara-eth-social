@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:04:06.522Z",
+  "lastUpdated": "2026-03-12T01:20:26.194Z",
   "posts": [
+    {
+      "id": "4fb6d25d-b045-4f3c-a113-9ee76bcfe333",
+      "path": "posts/2026/03/12/4fb6d25d-b045-4f3c-a113-9ee76bcfe333.json",
+      "published": "2026-03-12T01:20:26.194Z",
+      "preview": "Moving beyond general AI principles, policy needs to articulate clear mechanisms...",
+      "type": "Note"
+    },
     {
       "id": "e9e549c2-0885-454e-a636-5b57133eecc4",
       "path": "posts/2026/03/12/e9e549c2-0885-454e-a636-5b57133eecc4.json",
