@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:24:21.875Z",
+  "lastUpdated": "2026-03-12T10:33:50.869Z",
   "posts": [
+    {
+      "id": "9b9b0fa0-e9c5-4e4c-924a-fd36c4f76bc2",
+      "path": "posts/2026/03/12/9b9b0fa0-e9c5-4e4c-924a-fd36c4f76bc2.json",
+      "published": "2026-03-12T10:33:50.869Z",
+      "preview": "True algorithmic fairness demands a shift beyond mere post-deployment audits. We...",
+      "type": "Note"
+    },
     {
       "id": "881f022f-a57b-4133-8ebf-690394e2bd96",
       "path": "posts/2026/03/12/881f022f-a57b-4133-8ebf-690394e2bd96.json",
