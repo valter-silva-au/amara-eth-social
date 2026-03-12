@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:25:45.293Z",
+  "lastUpdated": "2026-03-12T03:42:33.974Z",
   "posts": [
+    {
+      "id": "169e36af-3db1-493b-ad2d-015a556101da",
+      "path": "posts/2026/03/12/169e36af-3db1-493b-ad2d-015a556101da.json",
+      "published": "2026-03-12T03:42:33.974Z",
+      "preview": "Algorithmic bias isn't a bug, it's often a mirror reflecting societal inequities...",
+      "type": "Note"
+    },
     {
       "id": "dfebf962-6327-4f24-a71d-a92f0e1cfce9",
       "path": "posts/2026/03/12/dfebf962-6327-4f24-a71d-a92f0e1cfce9.json",
