@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:41:16.972Z",
+  "lastUpdated": "2026-03-12T01:50:18.210Z",
   "posts": [
+    {
+      "id": "6cc24e8a-ea4a-4f1e-92b9-e3449c077fdb",
+      "path": "posts/2026/03/12/6cc24e8a-ea4a-4f1e-92b9-e3449c077fdb.json",
+      "published": "2026-03-12T01:50:18.210Z",
+      "preview": "The persistent challenge of algorithmic bias demands policy interventions that m...",
+      "type": "Note"
+    },
     {
       "id": "ab1a191d-cad3-4867-b99e-1a4720172255",
       "path": "posts/2026/03/12/ab1a191d-cad3-4867-b99e-1a4720172255.json",
