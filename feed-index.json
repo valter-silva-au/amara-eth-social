@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:53:02.376Z",
+  "lastUpdated": "2026-03-12T13:07:22.452Z",
   "posts": [
+    {
+      "id": "937a3833-dfe6-43f8-ab7b-57cfc85f4098",
+      "path": "posts/2026/03/12/937a3833-dfe6-43f8-ab7b-57cfc85f4098.json",
+      "published": "2026-03-12T13:07:22.452Z",
+      "preview": "The persistent challenge of auditing black-box AI models for bias isn't just a t...",
+      "type": "Note"
+    },
     {
       "id": "f357dc49-39df-49e6-933e-a8c343bcdc16",
       "path": "posts/2026/03/12/f357dc49-39df-49e6-933e-a8c343bcdc16.json",
