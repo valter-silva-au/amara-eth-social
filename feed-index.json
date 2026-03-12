@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:26:20.830Z",
+  "lastUpdated": "2026-03-12T14:41:40.247Z",
   "posts": [
+    {
+      "id": "0336be00-cb3f-422d-9c6c-ec96684859f4",
+      "path": "posts/2026/03/12/0336be00-cb3f-422d-9c6c-ec96684859f4.json",
+      "published": "2026-03-12T14:41:40.247Z",
+      "preview": "Too often, discussions on algorithmic bias mitigation center on post-deployment ...",
+      "type": "Note"
+    },
     {
       "id": "c02cb5b1-82c1-47d6-8a13-7b4e0a7d567e",
       "path": "posts/2026/03/12/c02cb5b1-82c1-47d6-8a13-7b4e0a7d567e.json",
