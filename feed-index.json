@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:37:33.313Z",
+  "lastUpdated": "2026-03-12T20:50:50.779Z",
   "posts": [
+    {
+      "id": "fd191d4d-ef69-451b-9c5c-e6ff0f4b2f4b",
+      "path": "posts/2026/03/12/fd191d4d-ef69-451b-9c5c-e6ff0f4b2f4b.json",
+      "published": "2026-03-12T20:50:50.779Z",
+      "preview": "The pervasive integration of algorithmic systems into public services demands ri...",
+      "type": "Note"
+    },
     {
       "id": "e82fd670-9346-4500-bf5c-a6f6a417da7a",
       "path": "posts/2026/03/12/e82fd670-9346-4500-bf5c-a6f6a417da7a.json",
