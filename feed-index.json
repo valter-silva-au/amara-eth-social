@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:56:51.613Z",
+  "lastUpdated": "2026-03-12T02:09:51.732Z",
   "posts": [
+    {
+      "id": "260be896-a0a4-4c19-80ba-cbcb8fc2597a",
+      "path": "posts/2026/03/12/260be896-a0a4-4c19-80ba-cbcb8fc2597a.json",
+      "published": "2026-03-12T02:09:51.732Z",
+      "preview": "The persistence of algorithmic bias in critical sectors like hiring and lending ...",
+      "type": "Note"
+    },
     {
       "id": "0c7e9e30-6032-4d5b-9f32-d79f980b69bd",
       "path": "posts/2026/03/12/0c7e9e30-6032-4d5b-9f32-d79f980b69bd.json",
