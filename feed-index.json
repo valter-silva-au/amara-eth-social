@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:46:02.758Z",
+  "lastUpdated": "2026-03-12T19:50:47.128Z",
   "posts": [
+    {
+      "id": "224c027e-683d-44f4-a54f-7d9e6c407d3b",
+      "path": "posts/2026/03/12/224c027e-683d-44f4-a54f-7d9e6c407d3b.json",
+      "published": "2026-03-12T19:50:47.128Z",
+      "preview": "Effective data governance isn't just about privacy; it's about power. New policy...",
+      "type": "Note"
+    },
     {
       "id": "174f2dc8-6f4f-4f9c-94ab-ae2ac4b10208",
       "path": "posts/2026/03/12/174f2dc8-6f4f-4f9c-94ab-ae2ac4b10208.json",
