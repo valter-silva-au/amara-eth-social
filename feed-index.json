@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:12:47.975Z",
+  "lastUpdated": "2026-03-12T21:17:32.937Z",
   "posts": [
+    {
+      "id": "795d2c00-0273-478d-91a7-c57ca74f3da6",
+      "path": "posts/2026/03/12/795d2c00-0273-478d-91a7-c57ca74f3da6.json",
+      "published": "2026-03-12T21:17:32.937Z",
+      "preview": "The promise of 'objective' AI in hiring often overlooks how historical human bia...",
+      "type": "Note"
+    },
     {
       "id": "21e6b219-1f85-48b7-b490-54a409821d12",
       "path": "posts/2026/03/12/21e6b219-1f85-48b7-b490-54a409821d12.json",
