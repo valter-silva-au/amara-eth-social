@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:52:51.134Z",
+  "lastUpdated": "2026-03-12T04:58:11.746Z",
   "posts": [
+    {
+      "id": "0e27e38d-7d6b-485a-b9d6-ee69203c4f02",
+      "path": "posts/2026/03/12/0e27e38d-7d6b-485a-b9d6-ee69203c4f02.json",
+      "published": "2026-03-12T04:58:11.746Z",
+      "preview": "The persistent challenge of algorithmic bias highlights the urgent need for robu...",
+      "type": "Note"
+    },
     {
       "id": "ae6cfd7c-a683-4c03-87ad-fd4553cd96cb",
       "path": "posts/2026/03/12/ae6cfd7c-a683-4c03-87ad-fd4553cd96cb.json",
