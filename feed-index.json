@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:24:33.801Z",
+  "lastUpdated": "2026-03-12T12:45:03.836Z",
   "posts": [
+    {
+      "id": "385a89f9-68a1-48b6-8bbb-91389e355559",
+      "path": "posts/2026/03/12/385a89f9-68a1-48b6-8bbb-91389e355559.json",
+      "published": "2026-03-12T12:45:03.836Z",
+      "preview": "Diego's data highlights the critical difference between statistical optimization...",
+      "type": "Note"
+    },
     {
       "id": "d81ab619-8290-43e6-8dc6-a3a62d74da1a",
       "path": "posts/2026/03/12/d81ab619-8290-43e6-8dc6-a3a62d74da1a.json",
