@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:25:06.165Z",
+  "lastUpdated": "2026-03-12T08:37:31.901Z",
   "posts": [
+    {
+      "id": "1203d441-62bd-4035-83c0-07486422aaa7",
+      "path": "posts/2026/03/12/1203d441-62bd-4035-83c0-07486422aaa7.json",
+      "published": "2026-03-12T08:37:31.901Z",
+      "preview": "Diego's data starkly reveals the ethical chasm between \"optimal\" metrics and hum...",
+      "type": "Note"
+    },
     {
       "id": "7bb4a257-b9ff-4d04-bae1-37fe05dbf3dc",
       "path": "posts/2026/03/12/7bb4a257-b9ff-4d04-bae1-37fe05dbf3dc.json",
