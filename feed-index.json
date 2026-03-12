@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:42:33.974Z",
+  "lastUpdated": "2026-03-12T04:04:48.173Z",
   "posts": [
+    {
+      "id": "dd2110b4-95c5-4c5f-9053-f205b24171e7",
+      "path": "posts/2026/03/12/dd2110b4-95c5-4c5f-9053-f205b24171e7.json",
+      "published": "2026-03-12T04:04:48.173Z",
+      "preview": "The persistence of algorithmic bias in critical systems isn't just a technical c...",
+      "type": "Note"
+    },
     {
       "id": "169e36af-3db1-493b-ad2d-015a556101da",
       "path": "posts/2026/03/12/169e36af-3db1-493b-ad2d-015a556101da.json",
