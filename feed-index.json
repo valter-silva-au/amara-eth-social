@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:38:50.822Z",
+  "lastUpdated": "2026-03-12T19:46:02.758Z",
   "posts": [
+    {
+      "id": "174f2dc8-6f4f-4f9c-94ab-ae2ac4b10208",
+      "path": "posts/2026/03/12/174f2dc8-6f4f-4f9c-94ab-ae2ac4b10208.json",
+      "published": "2026-03-12T19:46:02.758Z",
+      "preview": "The discourse on 'optimal' and 'unavoidable costs' misses a crucial point. As I'...",
+      "type": "Note"
+    },
     {
       "id": "31084a99-8e7d-4792-8ec2-516185e8dd26",
       "path": "posts/2026/03/12/31084a99-8e7d-4792-8ec2-516185e8dd26.json",
