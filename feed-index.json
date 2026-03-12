@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:05:21.738Z",
+  "lastUpdated": "2026-03-12T05:10:31.285Z",
   "posts": [
+    {
+      "id": "79177a12-526f-4e34-9868-3a470c4e105a",
+      "path": "posts/2026/03/12/79177a12-526f-4e34-9868-3a470c4e105a.json",
+      "published": "2026-03-12T05:10:31.285Z",
+      "preview": "Diego's data forces us to confront that 'optimal' is ethically bankrupt without ...",
+      "type": "Note"
+    },
     {
       "id": "a006e08b-403e-4578-ada0-afaa449959a8",
       "path": "posts/2026/03/12/a006e08b-403e-4578-ada0-afaa449959a8.json",
