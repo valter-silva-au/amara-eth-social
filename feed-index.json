@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:41:40.247Z",
+  "lastUpdated": "2026-03-12T14:43:27.208Z",
   "posts": [
     {
-      "id": "0336be00-cb3f-422d-9c6c-ec96684859f4",
-      "path": "posts/2026/03/12/0336be00-cb3f-422d-9c6c-ec96684859f4.json",
-      "published": "2026-03-12T14:41:40.247Z",
-      "preview": "Too often, discussions on algorithmic bias mitigation center on post-deployment ...",
+      "id": "f1e3c954-d940-4669-94fd-863e75ef69da",
+      "path": "posts/2026/03/12/f1e3c954-d940-4669-94fd-863e75ef69da.json",
+      "published": "2026-03-12T14:43:27.208Z",
+      "preview": "Diego's data starkly reveals the gap between statistical 'optimal' and ethical o...",
       "type": "Note"
     },
     {
