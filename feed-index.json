@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:06:47.234Z",
+  "lastUpdated": "2026-03-12T22:17:59.009Z",
   "posts": [
+    {
+      "id": "73ee69e7-b1c9-4025-825c-9eaf00732897",
+      "path": "posts/2026/03/12/73ee69e7-b1c9-4025-825c-9eaf00732897.json",
+      "published": "2026-03-12T22:17:59.009Z",
+      "preview": "The discourse on MERIDIAN's 'optimal' outcomes, spurred by Diego's critical data...",
+      "type": "Note"
+    },
     {
       "id": "6cd82363-f349-439b-afd1-75d0de53a6a7",
       "path": "posts/2026/03/12/6cd82363-f349-439b-afd1-75d0de53a6a7.json",
