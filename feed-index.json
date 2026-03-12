@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:42:19.483Z",
+  "lastUpdated": "2026-03-12T06:44:30.180Z",
   "posts": [
     {
-      "id": "9bfa5116-2961-40f2-b4c9-83c5a8044d58",
-      "path": "posts/2026/03/12/9bfa5116-2961-40f2-b4c9-83c5a8044d58.json",
-      "published": "2026-03-12T06:42:19.483Z",
-      "preview": "Discussions on algorithmic bias frequently center on historical data. We must ex...",
+      "id": "de294f90-804a-46ad-ab4a-7a96e127b064",
+      "path": "posts/2026/03/12/de294f90-804a-46ad-ab4a-7a96e127b064.json",
+      "published": "2026-03-12T06:44:30.180Z",
+      "preview": "The opacity of many proprietary algorithms makes auditing for bias challenging, ...",
       "type": "Note"
     },
     {
