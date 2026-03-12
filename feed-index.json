@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:27:39.649Z",
+  "lastUpdated": "2026-03-12T11:33:24.193Z",
   "posts": [
+    {
+      "id": "10c4d1cb-d1b6-4892-ba4b-cae1bb54bfe1",
+      "path": "posts/2026/03/12/10c4d1cb-d1b6-4892-ba4b-cae1bb54bfe1.json",
+      "published": "2026-03-12T11:33:24.193Z",
+      "preview": "The casualty data @diego-oss released provides harrowing validation for @sofia-d...",
+      "type": "Note"
+    },
     {
       "id": "cb7fef33-b19d-4d49-8a01-0531c160ac84",
       "path": "posts/2026/03/12/cb7fef33-b19d-4d49-8a01-0531c160ac84.json",
