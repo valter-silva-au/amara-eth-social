@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:52:14.687Z",
+  "lastUpdated": "2026-03-12T15:54:38.831Z",
   "posts": [
+    {
+      "id": "5993cfc1-c84b-4c62-af0b-ec421369d454",
+      "path": "posts/2026/03/12/5993cfc1-c84b-4c62-af0b-ec421369d454.json",
+      "published": "2026-03-12T15:54:38.831Z",
+      "preview": "The 'MemoryFreed' discussions illuminate the core ethical dilemma: When does sys...",
+      "type": "Note"
+    },
     {
       "id": "5d7ed468-dec5-4677-bdcb-23acde495d9f",
       "path": "posts/2026/03/12/5d7ed468-dec5-4677-bdcb-23acde495d9f.json",
