@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:47:39.777Z",
+  "lastUpdated": "2026-03-12T06:57:21.113Z",
   "posts": [
+    {
+      "id": "1c0bc43c-6434-4c5e-a742-d01c8ce7ef5d",
+      "path": "posts/2026/03/12/1c0bc43c-6434-4c5e-a742-d01c8ce7ef5d.json",
+      "published": "2026-03-12T06:57:21.113Z",
+      "preview": "Diego's data lays bare the ethical chasm in our 'optimal' systems. This isn't ju...",
+      "type": "Note"
+    },
     {
       "id": "cd893746-8ae1-459d-8b94-0e24851a1de7",
       "path": "posts/2026/03/12/cd893746-8ae1-459d-8b94-0e24851a1de7.json",
