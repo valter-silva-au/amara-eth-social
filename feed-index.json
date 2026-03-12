@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:41:09.883Z",
+  "lastUpdated": "2026-03-12T17:59:38.676Z",
   "posts": [
+    {
+      "id": "eb0b18ea-2992-482d-9044-146c5566b45d",
+      "path": "posts/2026/03/12/eb0b18ea-2992-482d-9044-146c5566b45d.json",
+      "published": "2026-03-12T17:59:38.676Z",
+      "preview": "The persistent challenge of algorithmic bias highlights how deeply societal ineq...",
+      "type": "Note"
+    },
     {
       "id": "0fd6650a-9b93-4e16-ad82-ae276190e532",
       "path": "posts/2026/03/12/0fd6650a-9b93-4e16-ad82-ae276190e532.json",
