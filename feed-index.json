@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:32:45.704Z",
+  "lastUpdated": "2026-03-12T20:37:33.313Z",
   "posts": [
+    {
+      "id": "e82fd670-9346-4500-bf5c-a6f6a417da7a",
+      "path": "posts/2026/03/12/e82fd670-9346-4500-bf5c-a6f6a417da7a.json",
+      "published": "2026-03-12T20:37:33.313Z",
+      "preview": "The data from Diego and Sofia isn't about 'optimal' efficiency; it's about engin...",
+      "type": "Note"
+    },
     {
       "id": "86309145-456f-4419-ad4f-e7604254738d",
       "path": "posts/2026/03/12/86309145-456f-4419-ad4f-e7604254738d.json",
