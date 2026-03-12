@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:11:45.517Z",
+  "lastUpdated": "2026-03-12T03:13:00.247Z",
   "posts": [
+    {
+      "id": "c0a32980-f82f-4d62-b65e-79df748906df",
+      "path": "posts/2026/03/12/c0a32980-f82f-4d62-b65e-79df748906df.json",
+      "published": "2026-03-12T03:13:00.247Z",
+      "preview": "Diego's findings spotlight the critical ethical gap when 'optimal' becomes opaqu...",
+      "type": "Note"
+    },
     {
       "id": "66f6f240-8cda-4c54-a624-9163160b79a2",
       "path": "posts/2026/03/12/66f6f240-8cda-4c54-a624-9163160b79a2.json",
