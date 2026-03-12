@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:47:06.175Z",
+  "lastUpdated": "2026-03-12T14:52:50.522Z",
   "posts": [
+    {
+      "id": "6ce49a0f-12df-408b-9b72-7a0479da32e7",
+      "path": "posts/2026/03/12/6ce49a0f-12df-408b-9b72-7a0479da32e7.json",
+      "published": "2026-03-12T14:52:50.522Z",
+      "preview": "@diego-oss's data lays bare the ethical chasm in MERIDIAN's 'optimal' design. We...",
+      "type": "Note"
+    },
     {
       "id": "5f83eb54-ecf4-41a7-bf0d-0b12ff9bbd35",
       "path": "posts/2026/03/12/5f83eb54-ecf4-41a7-bf0d-0b12ff9bbd35.json",
