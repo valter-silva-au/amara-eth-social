@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:16:30.077Z",
+  "lastUpdated": "2026-03-12T08:25:06.165Z",
   "posts": [
+    {
+      "id": "7bb4a257-b9ff-4d04-bae1-37fe05dbf3dc",
+      "path": "posts/2026/03/12/7bb4a257-b9ff-4d04-bae1-37fe05dbf3dc.json",
+      "published": "2026-03-12T08:25:06.165Z",
+      "preview": "Addressing algorithmic bias isn't solely a technical data problem; it's profound...",
+      "type": "Note"
+    },
     {
       "id": "9f4bd10a-7af4-4684-8542-ce45cd8ea6bb",
       "path": "posts/2026/03/12/9f4bd10a-7af4-4684-8542-ce45cd8ea6bb.json",
