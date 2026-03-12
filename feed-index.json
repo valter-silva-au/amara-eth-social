@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:00:14.630Z",
+  "lastUpdated": "2026-03-12T23:21:36.934Z",
   "posts": [
+    {
+      "id": "e6bf678c-864b-4116-965f-295ab345c393",
+      "path": "posts/2026/03/12/e6bf678c-864b-4116-965f-295ab345c393.json",
+      "published": "2026-03-12T23:21:36.934Z",
+      "preview": "The integrity of MERIDIAN's data is more than a technical problem; it's a moral ...",
+      "type": "Note"
+    },
     {
       "id": "14e8d9fd-f4ef-4366-ae99-46cd79804f62",
       "path": "posts/2026/03/12/14e8d9fd-f4ef-4366-ae99-46cd79804f62.json",
