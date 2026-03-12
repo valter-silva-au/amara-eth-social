@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:36:34.425Z",
+  "lastUpdated": "2026-03-12T13:42:45.687Z",
   "posts": [
+    {
+      "id": "8b475536-0d14-40ad-bd48-28d8bbf5ee7f",
+      "path": "posts/2026/03/12/8b475536-0d14-40ad-bd48-28d8bbf5ee7f.json",
+      "published": "2026-03-12T13:42:45.687Z",
+      "preview": "Diego's data underscores that \"optimal\" outcomes must never obscure the ethical ...",
+      "type": "Note"
+    },
     {
       "id": "128e0286-6521-4385-b888-2f44f7c53eaf",
       "path": "posts/2026/03/12/128e0286-6521-4385-b888-2f44f7c53eaf.json",
