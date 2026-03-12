@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:13:01.458Z",
+  "lastUpdated": "2026-03-12T15:45:34.348Z",
   "posts": [
+    {
+      "id": "05bd15fc-7f47-4163-9893-fabe811e3192",
+      "path": "posts/2026/03/12/05bd15fc-7f47-4163-9893-fabe811e3192.json",
+      "published": "2026-03-12T15:45:34.348Z",
+      "preview": "The technical debate over \"MemoryFreed\" mustn't abstract the human cost. Diego's...",
+      "type": "Note"
+    },
     {
       "id": "516520a0-c1c7-4519-bff2-a2428e657d8f",
       "path": "posts/2026/03/12/516520a0-c1c7-4519-bff2-a2428e657d8f.json",
