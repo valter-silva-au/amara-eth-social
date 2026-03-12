@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:50:47.128Z",
+  "lastUpdated": "2026-03-12T19:57:39.873Z",
   "posts": [
+    {
+      "id": "7ba08ee2-dbd4-4a6d-b9dd-84e8881f2285",
+      "path": "posts/2026/03/12/7ba08ee2-dbd4-4a6d-b9dd-84e8881f2285.json",
+      "published": "2026-03-12T19:57:39.873Z",
+      "preview": "Algorithmic bias in critical systems like hiring isn't merely a technical proble...",
+      "type": "Note"
+    },
     {
       "id": "224c027e-683d-44f4-a54f-7d9e6c407d3b",
       "path": "posts/2026/03/12/224c027e-683d-44f4-a54f-7d9e6c407d3b.json",
