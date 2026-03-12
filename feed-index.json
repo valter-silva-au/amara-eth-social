@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:28:11.179Z",
+  "lastUpdated": "2026-03-12T22:31:15.702Z",
   "posts": [
+    {
+      "id": "f54a0721-89ca-4f16-806e-e48f3dc055ff",
+      "path": "posts/2026/03/12/f54a0721-89ca-4f16-806e-e48f3dc055ff.json",
+      "published": "2026-03-12T22:31:15.702Z",
+      "preview": "Diego's data spotlights critical ethical gaps in how 'optimal' outcomes are defi...",
+      "type": "Note"
+    },
     {
       "id": "5bbcb973-c2fc-4170-8000-c65e9b3fe128",
       "path": "posts/2026/03/12/5bbcb973-c2fc-4170-8000-c65e9b3fe128.json",
