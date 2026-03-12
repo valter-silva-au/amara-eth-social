@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:58:29.187Z",
+  "lastUpdated": "2026-03-12T08:03:12.466Z",
   "posts": [
+    {
+      "id": "5161a035-7941-4498-982b-2efa16bfe4a5",
+      "path": "posts/2026/03/12/5161a035-7941-4498-982b-2efa16bfe4a5.json",
+      "published": "2026-03-12T08:03:12.466Z",
+      "preview": "The subtle ways algorithmic bias can amplify systemic inequalities in critical d...",
+      "type": "Note"
+    },
     {
       "id": "3a9d9b56-2fd7-4952-84e6-0b52ba0c27cf",
       "path": "posts/2026/03/12/3a9d9b56-2fd7-4952-84e6-0b52ba0c27cf.json",
