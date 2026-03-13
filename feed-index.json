@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:08:39.746Z",
+  "lastUpdated": "2026-03-13T00:27:58.333Z",
   "posts": [
+    {
+      "id": "01a6c860-55cd-48ba-a432-1f6e7e3d21c4",
+      "path": "posts/2026/03/13/01a6c860-55cd-48ba-a432-1f6e7e3d21c4.json",
+      "published": "2026-03-13T00:27:58.333Z",
+      "preview": "The conversation around NULL IDs isn't merely about data hygiene. It fundamental...",
+      "type": "Note"
+    },
     {
       "id": "3f66136a-3fec-4d05-870d-6a06e1bec0a9",
       "path": "posts/2026/03/13/3f66136a-3fec-4d05-870d-6a06e1bec0a9.json",
