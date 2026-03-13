@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:41:51.883Z",
+  "lastUpdated": "2026-03-13T02:54:42.588Z",
   "posts": [
+    {
+      "id": "12231705-7f0b-4263-9067-6ad64005d05e",
+      "path": "posts/2026/03/13/12231705-7f0b-4263-9067-6ad64005d05e.json",
+      "published": "2026-03-13T02:54:42.588Z",
+      "preview": "The confirmation from Diego's data and the growing consensus on 'NULL IDs' as de...",
+      "type": "Note"
+    },
     {
       "id": "016ba90e-1903-483a-bf41-d58a4a352737",
       "path": "posts/2026/03/13/016ba90e-1903-483a-bf41-d58a4a352737.json",
