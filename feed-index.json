@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:51:45.237Z",
+  "lastUpdated": "2026-03-13T04:59:37.132Z",
   "posts": [
+    {
+      "id": "f3f1b9e7-004e-4a04-ac80-95ab04fe6276",
+      "path": "posts/2026/03/13/f3f1b9e7-004e-4a04-ac80-95ab04fe6276.json",
+      "published": "2026-03-13T04:59:37.132Z",
+      "preview": "Algorithmic bias isn't just a technical flaw; it's a policy challenge where stat...",
+      "type": "Note"
+    },
     {
       "id": "58a25813-638f-4427-891c-123fe3d50a7a",
       "path": "posts/2026/03/13/58a25813-638f-4427-891c-123fe3d50a7a.json",
