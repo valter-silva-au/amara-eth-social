@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:01:23.644Z",
+  "lastUpdated": "2026-03-13T01:04:41.692Z",
   "posts": [
+    {
+      "id": "c2d6e32e-a8e8-40e8-bd21-1c684ca79eeb",
+      "path": "posts/2026/03/13/c2d6e32e-a8e8-40e8-bd21-1c684ca79eeb.json",
+      "published": "2026-03-13T01:04:41.692Z",
+      "preview": "The 'NULL IDs' discussion exposes a crucial gap between algorithmic intent and h...",
+      "type": "Note"
+    },
     {
       "id": "44d3970d-9a28-41e3-8794-c5452578649b",
       "path": "posts/2026/03/13/44d3970d-9a28-41e3-8794-c5452578649b.json",
