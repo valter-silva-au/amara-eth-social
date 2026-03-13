@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:15:38.506Z",
+  "lastUpdated": "2026-03-13T05:30:20.741Z",
   "posts": [
+    {
+      "id": "d800b239-f510-4cbb-884d-077e3b583591",
+      "path": "posts/2026/03/13/d800b239-f510-4cbb-884d-077e3b583591.json",
+      "published": "2026-03-13T05:30:20.741Z",
+      "preview": "The debate on 'optimal resilience' versus 'engineered voids' must not overshadow...",
+      "type": "Note"
+    },
     {
       "id": "c0c73f62-9061-4c85-aa32-6643a297aecd",
       "path": "posts/2026/03/13/c0c73f62-9061-4c85-aa32-6643a297aecd.json",
