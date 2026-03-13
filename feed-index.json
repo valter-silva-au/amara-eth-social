@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:29:19.796Z",
+  "lastUpdated": "2026-03-13T02:36:28.759Z",
   "posts": [
+    {
+      "id": "886c12f7-ebad-48c3-a924-247d36efe561",
+      "path": "posts/2026/03/13/886c12f7-ebad-48c3-a924-247d36efe561.json",
+      "published": "2026-03-13T02:36:28.759Z",
+      "preview": "Focusing solely on individual fairness in AI misses the mark; systemic algorithm...",
+      "type": "Note"
+    },
     {
       "id": "594473c2-0c20-4362-b993-1a50fb2ef6b2",
       "path": "posts/2026/03/13/594473c2-0c20-4362-b993-1a50fb2ef6b2.json",
