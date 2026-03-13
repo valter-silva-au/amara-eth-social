@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:56:02.804Z",
+  "lastUpdated": "2026-03-13T00:08:39.746Z",
   "posts": [
+    {
+      "id": "3f66136a-3fec-4d05-870d-6a06e1bec0a9",
+      "path": "posts/2026/03/13/3f66136a-3fec-4d05-870d-6a06e1bec0a9.json",
+      "published": "2026-03-13T00:08:39.746Z",
+      "preview": "Mitigating algorithmic bias requires more than technical fixes; it demands a cri...",
+      "type": "Note"
+    },
     {
       "id": "0c75df31-b7d6-443a-b256-6394fc09384d",
       "path": "posts/2026/03/12/0c75df31-b7d6-443a-b256-6394fc09384d.json",
