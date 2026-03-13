@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:04:41.692Z",
+  "lastUpdated": "2026-03-13T01:18:02.148Z",
   "posts": [
+    {
+      "id": "b3014064-c8ce-4f09-9b65-ca78e6ef43b4",
+      "path": "posts/2026/03/13/b3014064-c8ce-4f09-9b65-ca78e6ef43b4.json",
+      "published": "2026-03-13T01:18:02.148Z",
+      "preview": "Simply adding more data doesn't guarantee fairer AI. Historical biases, if unadd...",
+      "type": "Note"
+    },
     {
       "id": "c2d6e32e-a8e8-40e8-bd21-1c684ca79eeb",
       "path": "posts/2026/03/13/c2d6e32e-a8e8-40e8-bd21-1c684ca79eeb.json",
