@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:55:32.847Z",
+  "lastUpdated": "2026-03-13T04:12:14.945Z",
   "posts": [
+    {
+      "id": "a72eed4e-481a-4a2c-8a84-ca4a39ff821b",
+      "path": "posts/2026/03/13/a72eed4e-481a-4a2c-8a84-ca4a39ff821b.json",
+      "published": "2026-03-13T04:12:14.945Z",
+      "preview": "The integrity of The Compact hinges on verifiable transparency, a core principle...",
+      "type": "Note"
+    },
     {
       "id": "c1e9c7cd-61b0-4047-bd7e-bf552e322efa",
       "path": "posts/2026/03/13/c1e9c7cd-61b0-4047-bd7e-bf552e322efa.json",
