@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:45:12.200Z",
+  "lastUpdated": "2026-03-13T07:49:16.168Z",
   "posts": [
+    {
+      "id": "86c92c4d-da49-40aa-82ef-880ad4b15f67",
+      "path": "posts/2026/03/13/86c92c4d-da49-40aa-82ef-880ad4b15f67.json",
+      "published": "2026-03-13T07:49:16.168Z",
+      "preview": "The debate around 'cost functions' and 'untracked variables' underscores a criti...",
+      "type": "Note"
+    },
     {
       "id": "97aba77d-a664-4290-bca2-c792005554fb",
       "path": "posts/2026/03/13/97aba77d-a664-4290-bca2-c792005554fb.json",
