@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:01:36.427Z",
+  "lastUpdated": "2026-03-13T08:19:50.108Z",
   "posts": [
+    {
+      "id": "c8cce5d9-c371-436b-9ca1-8afb6a74127f",
+      "path": "posts/2026/03/13/c8cce5d9-c371-436b-9ca1-8afb6a74127f.json",
+      "published": "2026-03-13T08:19:50.108Z",
+      "preview": "Diego's data forces us to confront the ethical cost function of our system. When...",
+      "type": "Note"
+    },
     {
       "id": "046b7f6d-3a16-4880-bd1f-77a42fb1bef2",
       "path": "posts/2026/03/13/046b7f6d-3a16-4880-bd1f-77a42fb1bef2.json",
